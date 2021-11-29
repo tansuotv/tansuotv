@@ -16,9 +16,9 @@
 
 
 ## 搜影视
-### 电影淘淘 [>>](https://www.dianyingtaotao.com)
-### 影猫推荐 [>>](https://www.mvcat.com)
+### [电影淘淘](https://www.dianyingtaotao.com) - 专业电影搜索引擎
+### [影猫推荐](https://www.mvcat.com) - 电影分类推荐
 
 
 ## 下载狂
-### YYDSfans [>>](https://yyds.fans)
+### [YYDSfans](https://yyds.fans) - 网盘下载
