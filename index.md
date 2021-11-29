@@ -1,9 +1,6 @@
-### 欢迎来到探索TV
+# 欢迎来到探索TV
 
-[image](https://ae01.alicdn.com/kf/U6e42273cc75f48b3bffbc37817f80cf48.jpg)
-## 大师兄影视 [传送](http://tv.ci)
-
-
-[admin传送](https://github.com/tansuotv/tansuotv.github.io/edit/main/index.md) 
-
-[Image](src)
+### 大师兄影视 [传送门](https://tv.ci)
+### 爱西西 [传送门](https://aixixi.vip)
+### 凌云影视 [传送门](https://www.lingyun.tv)
+### 555电影 [传送门](https://www.o8tv.com)
