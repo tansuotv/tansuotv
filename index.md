@@ -1,6 +1,6 @@
 # 探索TV
 
-## 影视在线观看下载↓↓
+## 1.影视在线观看下载↓↓
 ### [大师兄影视](https://tv.ci) - 永久免费的福利超清影视站
 ### [爱西西](https://aixixi.vip) - 永久免费4K超清影视站
 ### [凌云影视](https://www.lingyun.tv) - 全网最近好看的影视聚合下载
@@ -18,7 +18,7 @@
 ### [YYDSfans](https://yyds.fans) - 网盘下载
 ### [电视盒子手机直播应用合集](https://apphot.cc/27447.html)
 -
-## 电脑装机必备精品软件↓↓
+## 2.电脑装机必备精品软件↓↓
 ### [itellyou新版](https://next.itellyou.cn) - WINDOWS11系统原版
 ### [itellyou旧版](https://msdn.itellyou.cn) - WINDOWS系统原版
 ### [不忘初心](https://www.pc521.net) - 纯净美化精简版WINDOWS
