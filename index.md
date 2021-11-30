@@ -1,7 +1,7 @@
 # 探索TV
 
 ## 免费看↓↓
-### [大师兄影视](https://tv.ci) - 永久免费的福利超清影视站
+![大师兄影视](https://ae01.alicdn.com/kf/U6e42273cc75f48b3bffbc37817f80cf48.jpg)[大师兄影视](https://tv.ci) - 永久免费的福利超清影视站
 ### [爱西西](https://aixixi.vip) - 永久免费4K超清影视站
 ### [凌云影视](https://www.lingyun.tv) - 全网最近好看的影视聚合下载
 ### [BL解析](https://vip.bljiex.cc) - VIP视频在线解析
