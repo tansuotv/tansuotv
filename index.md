@@ -17,7 +17,7 @@
 ### [影猫推荐](https://www.mvcat.com) - 电影分类推荐
 ### [YYDSfans](https://yyds.fans) - 网盘下载
 -
-## 装机必备精品软件↓↓
+## 电脑装机必备精品软件↓↓
 ### [itellyou新版](https://next.itellyou.cn) - WINDOWS11系统原版
 ### [itellyou旧版](https://msdn.itellyou.cn) - WINDOWS系统原版
 ### [不忘初心](https://www.pc521.net) - 纯净美化精简版WINDOWS
@@ -32,7 +32,8 @@
 ### [IObit Advanced SystemCare(系统优化) 破解版](https://www.ghxi.com/advancedsystemcareultimate.html)
 ### [火绒安全杀毒软件](https://www.huorong.cn)
 ### [搜狗输入法](https://pinyin.sogou.com)
-### [Internet Download Manager下载神器](https://www.423down.com/575.html)
+### [IDM下载神器](https://www.423down.com/575.html)
+### [坚果云](https://www.jianguoyun.com)
 ### [微信](https://weixin.qq.com)
 ### [QQ](https://im.qq.com/download/index.shtml)
 ### [钉钉](https://www.dingtalk.com)
@@ -42,9 +43,8 @@
 ### [423Down](https://www.423down.com) - 良心软件下载
 ### [GitHub](https://github.com) - 全球软件开发者基地（免费提供本站服务器）
 -
-
-### [虫洞文件共享](https://www.wormholesoft.com) - 点对点文件共享
-### [Office Tool Plus](https://otp.landian.vip/zh-cn) - 轻松部署微软Office
-### [Office C2R Install汉化版](https://www.ghxi.com/officec2rins.html)
-### [Office 2016精简版](https://www.ghxi.com/office4n1.html) - 推荐下载安装版，仅234.44M
-
+### [虫洞文件共享](https://www.wormholesoft.com) - 点对点文件共享神器
+### [Office Tool Plus](https://otp.landian.vip/zh-cn) - 轻松部署Office
+### [Office C2R Install汉化版](https://www.ghxi.com/officec2rins.html) - 快速安装Office
+### [Office 2016精简版](https://www.ghxi.com/office4n1.html) - 推荐安装版，仅234M
+### [WPS2019政府版绿色最终完美版](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=426384&extra=) - 无启动界面，无网络功能，作为office备用，或者轻量办公使用，仅96M
