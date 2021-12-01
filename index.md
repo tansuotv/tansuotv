@@ -5,6 +5,8 @@
 >[手机电视应用](motvapp.md)<br>
 >[电脑软件精选](pcsoft.md)
 
+|[免费影视在线](index.md)|[手机电视应用](motvapp.md)|[电脑软件精选](pcsoft.md)
+
 [大师兄影视](https://tv.ci) - 永久免费的福利超清影视站
 
 [爱西西](https://aixixi.vip) - 永久免费4K超清影视站
