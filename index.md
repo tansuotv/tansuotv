@@ -1,6 +1,14 @@
 # 探索TV-免费影视在线
     Hello! 我是探索君，和我一起发现更多更好的影视资源吧。
 
+<table>
+<tr>
+<th>[免费影视在线](index.md)</th>
+<th>[手机电视应用](motvapp.md)</th>
+<th>[电脑软件精选](pcsoft.md)</th>
+</tr>
+</table>
+
 | [免费影视在线](index.md) | [手机电视应用](motvapp.md) | [电脑软件精选](pcsoft.md) |
 | :-: | :-: | :-: |
 
