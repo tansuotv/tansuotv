@@ -1,9 +1,11 @@
 # 探索TV
     Hello!你好！这里是探索TV。
 
-[手机电视盒子应用](motvapp.md) [PC电脑应用精选](pcsoft.md)
+>[免费影视在线](index.md)
+>[手机电视应用](motvapp.md)
+>[电脑软件精选](pcsoft.md)
 
-## 影视在线观看下载↓↓
+## 免费影视在线↓↓
 [大师兄影视](https://tv.ci) - 永久免费的福利超清影视站
 
 [爱西西](https://aixixi.vip) - 永久免费4K超清影视站
