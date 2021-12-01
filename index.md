@@ -35,34 +35,60 @@
 
 -
 ## 2.电脑装机必备精品软件↓↓
-### [itellyou新版](https://next.itellyou.cn) - WINDOWS11系统原版
-### [itellyou旧版](https://msdn.itellyou.cn) - WINDOWS系统原版
-### [不忘初心](https://www.pc521.net) - 纯净美化精简版WINDOWS
+[itellyou新版](https://next.itellyou.cn) - WINDOWS11系统原版
+
+[itellyou旧版](https://msdn.itellyou.cn) - WINDOWS系统原版
+
+[不忘初心](https://www.pc521.net) - 纯净美化精简版WINDOWS
+
 -
-### [微PE工具箱](https://www.wepe.com.cn) - WinPE装机维护工具
-### [CMDPE](http://www.cmdpe.com) - 可以上网远程下载的PE系统
-### [HEU KMS Activator(WIN+Office激活)](https://www.ghxi.com/heukmsactivator.html)
-### [傲梅分区助手技术员版](https://www.ghxi.com/aomeipartitionassistant.html)
+[微PE工具箱](https://www.wepe.com.cn) - WinPE装机维护工具
+
+[CMDPE](http://www.cmdpe.com) - 可以上网远程下载的PE系统
+
+[HEU KMS Activator(WIN+Office激活)](https://www.ghxi.com/heukmsactivator.html)
+
+[傲梅分区助手技术员版](https://www.ghxi.com/aomeipartitionassistant.html)
+
 -
-### [苹果Boot Camp驱动](https://www.applex.net/pages/bootcamp) - Mac用户必备
-### [★StartAllBack开始菜单增强工具破解版](https://www.ghxi.com/startallback.html)
-### [IObit Driver Booster Pro(驱动管理) 便携破解版](https://www.ghxi.com/iobitdriverbooster.html)
-### [IObit Uninstaller Pro(卸载管理) 便携破解版](https://www.ghxi.com/iobituninstaller.html)
-### [IObit Advanced SystemCare(系统优化) 破解版](https://www.ghxi.com/advancedsystemcareultimate.html)
-### [火绒安全杀毒软件](https://www.huorong.cn)
-### [搜狗输入法](https://pinyin.sogou.com)
-### [IDM下载神器](https://www.423down.com/575.html)
-### [坚果云](https://www.jianguoyun.com)
-### [微信](https://weixin.qq.com)
-### [QQ](https://im.qq.com/download/index.shtml)
-### [钉钉](https://www.dingtalk.com)
-### [微软EDGE浏览器](https://www.microsoft.com/zh-cn/edge?r=1)
-### [WinRaR](https://www.ghxi.com/pcwinrar.html)
-### [XnView图片浏览破解版](https://www.ghxi.com/xnview.html)
-### [PDF-XChange Editor Plus便携版](https://www.ghxi.com/pdfxchangeeditorplus.html)
-### [Adobe Photoshop CS5绿色精简版](https://www.ghxi.com/pscs5green.html) - 仅41M
-### [Adobe Photoshop 2022 绿色版](https://www.ghxi.com/ps2022green.html)
-### [PotPlayer视频播放器去广告绿色版](https://www.423down.com/3050.html)
+[苹果Boot Camp驱动](https://www.applex.net/pages/bootcamp) - Mac用户必备
+
+[★StartAllBack开始菜单增强工具破解版](https://www.ghxi.com/startallback.html)
+
+[IObit Driver Booster Pro(驱动管理) 便携破解版](https://www.ghxi.com/iobitdriverbooster.html)
+
+[IObit Uninstaller Pro(卸载管理) 便携破解版](https://www.ghxi.com/iobituninstaller.html)
+
+[IObit Advanced SystemCare(系统优化) 破解版](https://www.ghxi.com/advancedsystemcareultimate.html)
+
+[火绒安全杀毒软件](https://www.huorong.cn)
+
+[搜狗输入法](https://pinyin.sogou.com)
+
+[IDM下载神器](https://www.423down.com/575.html)
+
+[坚果云](https://www.jianguoyun.com)
+
+[微信](https://weixin.qq.com)
+
+[QQ](https://im.qq.com/download/index.shtml)
+
+[钉钉](https://www.dingtalk.com)
+
+[微软EDGE浏览器](https://www.microsoft.com/zh-cn/edge?r=1)
+
+[WinRAR](https://www.ghxi.com/pcwinrar.html)
+
+[XnView图片浏览破解版](https://www.ghxi.com/xnview.html)
+
+[PDF-XChange Editor Plus便携版](https://www.ghxi.com/pdfxchangeeditorplus.html)
+
+[Adobe Photoshop CS5绿色精简版](https://www.ghxi.com/pscs5green.html) - 仅41M
+
+[Adobe Photoshop 2022 绿色版](https://www.ghxi.com/ps2022green.html)
+
+[PotPlayer视频播放器去广告绿色版](https://www.423down.com/3050.html)
+
 -
 ### [异次元软件世界](https://www.iplaysoft.com) - 软件改变世界
 ### [★果核剥壳](https://www.ghxi.com) - 还原软件的本质
