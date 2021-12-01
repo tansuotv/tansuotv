@@ -1,12 +1,13 @@
-# 探索TV-电脑软件精选
+# 探索TV-软件精选
 
-    Hello! 我是探索君，欢迎和我一起发现更多更好的影视资源！
+    Hello! 我是探索君。
+    欢迎和我一起发现更多更好的影视资源！
 
 <table>
 <tr>
-<th><a href="index.html">免费影视在线</a></th>
-<th><a href="motvapp.html">手机电视应用</a></th>
-<th><a href="pcsoft.html">电脑软件精选</a></th>
+<th><a href="index.html">影视在线</a></th>
+<th><a href="motvapp.html">安卓应用</a></th>
+<th><a href="pcsoft.html">软件精选</a></th>
 </tr>
 </table>
 
