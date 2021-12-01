@@ -4,7 +4,7 @@
 
 <table>
 <tr>
-<th><a href="index.md">免费影视在线</a></th>
+<th><a href="index.html">免费影视在线</a></th>
 <th><a href="motvapp.html">手机电视应用</a></th>
 <th><a href="pcsoft.html">电脑软件精选</a></th>
 </tr>
