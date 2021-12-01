@@ -1,8 +1,10 @@
     Hello!你好！这里是探索TV。
 
-[免费影视网站](index.md) [手机电视盒子应用](motvapp.md)
+>[免费影视在线](index.md)
+>[手机电视应用](motvapp.md)
+>[电脑软件精选](pcsoft.md)
 
-## PC电脑应用精选↓↓
+## 电脑软件精选↓↓
 [itellyou新版](https://next.itellyou.cn) - WINDOWS11系统原版
 
 [itellyou旧版](https://msdn.itellyou.cn) - WINDOWS系统原版
