@@ -30,7 +30,7 @@
 
 [美剧热](https://meijure.com) - 天堂独家4K高清蓝光美剧
 
-* 搜索分类
+* 搜索推荐
 
 [电影淘淘](https://www.dianyingtaotao.com) - 专业电影搜索引擎
 
