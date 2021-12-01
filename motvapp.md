@@ -10,6 +10,10 @@
 </tr>
 </table>
 
-* [电视盒子手机直播应用合集](https://apphot.cc/27447.html) - 烈火大佬的搜集汇总
+> #### 应用合集
+
+* [电视盒子手机直播应用合集](https://apphot.cc/27447.html) - 烈火大佬的搜集汇总<br>
+
+> #### 精品应用
 
 * [电视家去广告版](https://tywanji.lanzouo.com/iChxix3jikd) - 看中央卫视频道首选，有个bug，退出后需强行停止，否则下次打开会闪退
