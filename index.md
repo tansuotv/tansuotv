@@ -3,14 +3,14 @@
 
 <table>
 <tr>
-<th>[免费影视在线](index.md)</th>
-<th>[手机电视应用](motvapp.md)</th>
-<th>[电脑软件精选](pcsoft.md)</th>
+<th><a href="index.md">免费影视在线</a></th>
+<th><a href="motvapp.md">手机电视应用</a></th>
+<th><a href="pcsoft.md">电脑软件精选</a></th>
 </tr>
 </table>
 
 | [免费影视在线](index.md) | [手机电视应用](motvapp.md) | [电脑软件精选](pcsoft.md) |
-| :-: | :-: | :-: |
+| ------ | ------ | ------ |
 
 * 即点即看
 
