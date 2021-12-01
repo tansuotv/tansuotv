@@ -10,7 +10,7 @@
 </tr>
 </table>
 
-    精品应用网站
+>精品应用网站
 
 * [异次元软件世界](https://www.iplaysoft.com) - 软件改变世界
 
@@ -26,7 +26,7 @@
 
 * [★极简壁纸](https://bz.zzzmh.cn/index) - 高清壁纸
 
-    下载Windows系统
+>下载Windows系统
 
 * [itellyou新版](https://next.itellyou.cn) - WINDOWS11系统原版
 
@@ -38,11 +38,21 @@
 
 * [CMDPE](http://www.cmdpe.com) - 可以上网远程下载的PE系统
 
-    Windows系统激活
+>Windows系统激活
 
 * [HEU KMS Activator(WIN+Office激活)](https://www.ghxi.com/heukmsactivator.html) [GitHub大神](https://github.com/zbezj/HEU_KMS_Activator)
 
-    其他应用软件
+>Office及WPS
+
+* [Office Tool Plus](https://otp.landian.vip/zh-cn) - 轻松部署Office
+
+* [Office C2R Install汉化版](https://www.ghxi.com/officec2rins.html) - 快速安装Office
+
+* [Office 2016精简版](https://www.ghxi.com/office4n1.html) - 推荐安装版，仅234M
+
+* [WPS2019政府版绿色最终完美版](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=426384&extra=) - 无启动界面，无网络功能，作为office备用，或者轻量办公使用，仅96M
+
+>其他应用软件
 
 * [傲梅分区助手技术员版](https://www.ghxi.com/aomeipartitionassistant.html)
 
@@ -85,13 +95,3 @@
 * [PotPlayer视频播放器去广告绿色版](https://www.423down.com/3050.html)
 
 * [虫洞文件共享](https://www.wormholesoft.com) - 点对点文件共享神器
-
-    Office及WPS
-
-* [Office Tool Plus](https://otp.landian.vip/zh-cn) - 轻松部署Office
-
-* [Office C2R Install汉化版](https://www.ghxi.com/officec2rins.html) - 快速安装Office
-
-* [Office 2016精简版](https://www.ghxi.com/office4n1.html) - 推荐安装版，仅234M
-
-* [WPS2019政府版绿色最终完美版](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=426384&extra=) - 无启动界面，无网络功能，作为office备用，或者轻量办公使用，仅96M
