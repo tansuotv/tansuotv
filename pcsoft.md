@@ -1,85 +1,97 @@
-# 探索TV
+# 探索TV-电脑软件精选
 
-    Hello!你好！这里是探索TV。
+    Hello! 我是探索君，欢迎和我一起发现更多更好的影视资源！
 
->[免费影视在线](index.md)
->[手机电视应用](motvapp.md)
->[电脑软件精选](pcsoft.md)
+<table>
+<tr>
+<th><a href="index.md">免费影视在线</a></th>
+<th><a href="motvapp.md">手机电视应用</a></th>
+<th><a href="pcsoft.md">电脑软件精选</a></th>
+</tr>
+</table>
 
-## 电脑软件精选↓↓
-[itellyou新版](https://next.itellyou.cn) - WINDOWS11系统原版
+    精品应用网站
 
-[itellyou旧版](https://msdn.itellyou.cn) - WINDOWS系统原版
+* [异次元软件世界](https://www.iplaysoft.com) - 软件改变世界
 
-[不忘初心](https://www.pc521.net) - 纯净美化精简版WINDOWS
+* [★果核剥壳](https://www.ghxi.com) - 还原软件的本质
 
-[微PE工具箱](https://www.wepe.com.cn) - WinPE装机维护工具
+* [★423Down](https://www.423down.com) - 良心软件下载
 
-[CMDPE](http://www.cmdpe.com) - 可以上网远程下载的PE系统
+* [GitHub](https://github.com) - 全球软件开发者基地（免费提供本站服务器）
 
-[HEU KMS Activator(WIN+Office激活)](https://www.ghxi.com/heukmsactivator.html)
+* [★无忧启动论坛](http://bbs.wuyou.net/forum.php) - 各种精品软件汇聚
 
-[傲梅分区助手技术员版](https://www.ghxi.com/aomeipartitionassistant.html)
+* [烈火新站 app热](https://apphot.cc) - 点亮未来 见证精彩
 
-[苹果Boot Camp驱动](https://www.applex.net/pages/bootcamp) - Mac用户必备
+* [★极简壁纸](https://bz.zzzmh.cn/index) - 高清壁纸
 
-[★StartAllBack开始菜单增强工具破解版](https://www.ghxi.com/startallback.html)
+    下载Windows系统
 
-[IObit Driver Booster Pro(驱动管理) 便携破解版](https://www.ghxi.com/iobitdriverbooster.html)
+* [itellyou新版](https://next.itellyou.cn) - WINDOWS11系统原版
 
-[IObit Uninstaller Pro(卸载管理) 便携破解版](https://www.ghxi.com/iobituninstaller.html)
+* [itellyou旧版](https://msdn.itellyou.cn) - WINDOWS系统原版
 
-[IObit Advanced SystemCare(系统优化) 破解版](https://www.ghxi.com/advancedsystemcareultimate.html)
+* [不忘初心](https://www.pc521.net) - 纯净美化精简版WINDOWS
 
-[火绒安全杀毒软件](https://www.huorong.cn)
+* [微PE工具箱](https://www.wepe.com.cn) - WinPE装机维护工具
 
-[搜狗输入法](https://pinyin.sogou.com)
+* [CMDPE](http://www.cmdpe.com) - 可以上网远程下载的PE系统
 
-[IDM下载神器](https://www.423down.com/575.html)
+    Windows系统激活
 
-[坚果云](https://www.jianguoyun.com)
+* [HEU KMS Activator(WIN+Office激活)](https://www.ghxi.com/heukmsactivator.html) [GitHub大神](https://github.com/zbezj/HEU_KMS_Activator)
 
-[微信](https://weixin.qq.com)
+    其他应用软件
 
-[QQ](https://im.qq.com/download/index.shtml)
+* [傲梅分区助手技术员版](https://www.ghxi.com/aomeipartitionassistant.html)
 
-[钉钉](https://www.dingtalk.com)
+* [苹果Boot Camp驱动](https://www.applex.net/pages/bootcamp) - Mac用户必备
 
-[微软EDGE浏览器](https://www.microsoft.com/zh-cn/edge?r=1)
+* [★StartAllBack开始菜单增强工具破解版](https://www.ghxi.com/startallback.html)
 
-[WinRAR](https://www.ghxi.com/pcwinrar.html)
+* [IObit Driver Booster Pro(驱动管理) 便携破解版](https://www.ghxi.com/iobitdriverbooster.html)
 
-[XnView图片浏览破解版](https://www.ghxi.com/xnview.html)
+* [IObit Uninstaller Pro(卸载管理) 便携破解版](https://www.ghxi.com/iobituninstaller.html)
 
-[PDF-XChange Editor Plus便携版](https://www.ghxi.com/pdfxchangeeditorplus.html)
+* [IObit Advanced SystemCare(系统优化) 破解版](https://www.ghxi.com/advancedsystemcareultimate.html)
 
-[Adobe Photoshop CS5绿色精简版](https://www.ghxi.com/pscs5green.html) - 仅41M
+* [火绒安全杀毒软件](https://www.huorong.cn)
 
-[Adobe Photoshop 2022 绿色版](https://www.ghxi.com/ps2022green.html)
+* [搜狗输入法](https://pinyin.sogou.com)
 
-[PotPlayer视频播放器去广告绿色版](https://www.423down.com/3050.html)
+* [IDM下载神器](https://www.423down.com/575.html)
 
-[异次元软件世界](https://www.iplaysoft.com) - 软件改变世界
+* [坚果云](https://www.jianguoyun.com)
 
-[★果核剥壳](https://www.ghxi.com) - 还原软件的本质
+* [微信](https://weixin.qq.com)
 
-[★423Down](https://www.423down.com) - 良心软件下载
+* [QQ](https://im.qq.com/download/index.shtml)
 
-[GitHub](https://github.com) - 全球软件开发者基地（免费提供本站服务器）
+* [钉钉](https://www.dingtalk.com)
 
-[★无忧启动论坛](http://bbs.wuyou.net/forum.php) - 各种精品软件汇聚
+* [微软EDGE浏览器](https://www.microsoft.com/zh-cn/edge?r=1)
 
-[烈火新站 app热](https://apphot.cc) - 点亮未来 见证精彩
+* [WinRAR](https://www.ghxi.com/pcwinrar.html)
 
-[★极简壁纸](https://bz.zzzmh.cn/index) - 高清壁纸
+* [XnView图片浏览破解版](https://www.ghxi.com/xnview.html)
 
-[虫洞文件共享](https://www.wormholesoft.com) - 点对点文件共享神器
+* [PDF-XChange Editor Plus便携版](https://www.ghxi.com/pdfxchangeeditorplus.html)
 
-[Office Tool Plus](https://otp.landian.vip/zh-cn) - 轻松部署Office
+* [Adobe Photoshop CS5绿色精简版](https://www.ghxi.com/pscs5green.html) - 仅41M
 
-[Office C2R Install汉化版](https://www.ghxi.com/officec2rins.html) - 快速安装Office
+* [Adobe Photoshop 2022 绿色版](https://www.ghxi.com/ps2022green.html)
 
-[Office 2016精简版](https://www.ghxi.com/office4n1.html) - 推荐安装版，仅234M
+* [PotPlayer视频播放器去广告绿色版](https://www.423down.com/3050.html)
 
-[WPS2019政府版绿色最终完美版](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=426384&extra=) - 无启动界面，无网络功能，作为office备用，或者轻量办公使用，仅96M
+* [虫洞文件共享](https://www.wormholesoft.com) - 点对点文件共享神器
 
+    Office及WPS
+
+* [Office Tool Plus](https://otp.landian.vip/zh-cn) - 轻松部署Office
+
+* [Office C2R Install汉化版](https://www.ghxi.com/officec2rins.html) - 快速安装Office
+
+* [Office 2016精简版](https://www.ghxi.com/office4n1.html) - 推荐安装版，仅234M
+
+* [WPS2019政府版绿色最终完美版](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=426384&extra=) - 无启动界面，无网络功能，作为office备用，或者轻量办公使用，仅96M
