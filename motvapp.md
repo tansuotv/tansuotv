@@ -1,8 +1,14 @@
-# 探索TV-手机电视应用
-    Hello! 我是探索君，和我一起发现更多更好的影视资源吧。
+# 探索TV-免费影视在线
 
-| [免费影视在线](index.md) | [手机电视应用](motvapp.md) | [电脑软件精选](pcsoft.md) |
-| :-: | :-: | :-: |
+    Hello! 我是探索君，欢迎和我一起发现更多更好的影视资源！
+
+<table>
+<tr>
+<th><a href="index.md">免费影视在线</a></th>
+<th><a href="motvapp.md">手机电视应用</a></th>
+<th><a href="pcsoft.md">电脑软件精选</a></th>
+</tr>
+</table>
 
 [电视盒子手机直播应用合集](https://apphot.cc/27447.html) - 烈火大佬的搜集汇总
 
