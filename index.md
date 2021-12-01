@@ -1,9 +1,9 @@
 # 探索TV
-    Hello!你好！这里是探索TV。
+    Hello!我是探索君，欢迎和我一起发现更多更好的影视资源。
 
->[免费影视在线](index.md)
->[手机电视应用](motvapp.md)
->[电脑软件精选](pcsoft.md)
+>[免费影视在线](index.md)\<br>
+>[手机电视应用](motvapp.md)\<br>
+>[电脑软件精选](pcsoft.md)\<br>
 
 ## 免费影视在线↓↓
 [大师兄影视](https://tv.ci) - 永久免费的福利超清影视站
