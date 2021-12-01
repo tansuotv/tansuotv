@@ -5,8 +5,8 @@
 <table>
 <tr>
 <th><a href="index.md">免费影视在线</a></th>
-<th><a href="motvapp.md">手机电视应用</a></th>
-<th><a href="pcsoft.md">电脑软件精选</a></th>
+<th><a href="motvapp.html">手机电视应用</a></th>
+<th><a href="pcsoft.html">电脑软件精选</a></th>
 </tr>
 </table>
 
@@ -23,9 +23,11 @@
 * [MK影视](https://www.mkvdo.com) - 欧美日韩剧免费在线观看
 * [爱美剧网](https://www.mjw2020.com) - 高清美剧在线观看
 * [鸭奈飞电影](https://yanetflix.com) - 为国内用户提供免费奈飞影视
-* [美剧热](https://meijure.com) - 天堂独家4K高清蓝光美剧<br><br>
+* [美剧热](https://meijure.com) - 天堂独家4K高清蓝光美剧<br>
+
 > #### 搜索推荐
 * [电影淘淘](https://www.dianyingtaotao.com) - 专业电影搜索引擎
-* [影猫推荐](https://www.mvcat.com) - 电影分类推荐<br><br>
+* [影猫推荐](https://www.mvcat.com) - 电影分类推荐<br>
+
 > #### 网盘下载
 * [YYDSfans](https://yyds.fans) - 网盘下载
