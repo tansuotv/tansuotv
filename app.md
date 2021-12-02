@@ -18,7 +18,7 @@
 
 * [全球IPTV播放源](https://github.com/iptv-org/iptv) - 根据内容、语言、国家分类M3U频道列表<br>
 
-> #### 精品应用
+> #### 视频应用
 
 * [电视家去广告版](https://tywanji.lanzouo.com/iChxix3jikd) - 看境内电视直播首选，有个bug，退出后需强行停止，否则下次打开会闪退
 
@@ -28,4 +28,8 @@
 
 * [不卡影院](https://buka6.app)
 
-* YouTube Vanced - [官网](https://vancedapp.com/)，[GitHub](https://github.com/YTVanced/VancedManager)。先装Manager，再装microG，最后装Youtube
+* YouTube Vanced - [官网](https://vancedapp.com/)，[GitHub](https://github.com/YTVanced/VancedManager)。先装Manager，再装microG，最后装Youtube<br>
+
+> #### 其他应用
+
+* [Clash](https://github.com/Kr328/ClashForAndroid/releases)
