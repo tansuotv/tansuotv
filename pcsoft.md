@@ -41,9 +41,7 @@
 
 > #### Windows系统激活
 
-* [HEU KMS Activator(WIN+Office激活)](https://www.ghxi.com/heukmsactivator.html)
-
-* [GitHub大神](https://github.com/zbezj/HEU_KMS_Activator)<br>
+* HEU KMS Activator(WIN+Office激活) - [果核剥壳](https://www.ghxi.com/heukmsactivator.html)，[GitHub大神](https://github.com/zbezj/HEU_KMS_Activator)<br>
 
 > #### Office及WPS
 
