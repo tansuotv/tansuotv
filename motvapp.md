@@ -23,4 +23,6 @@
 
 * [卧龙影视](https://www.wolong.tv)
 
+* [不卡影院](https://buka6.app)
+
 * YouTube Vanced - [官网](https://vancedapp.com/)，[GitHub](https://github.com/YTVanced/VancedManager)。先安装Vanced Manager，再安装Vanced microG，最后安装Youtube Vanced。
