@@ -52,7 +52,9 @@
 
 * [Office 2016精简版](https://www.ghxi.com/office4n1.html) - 推荐安装版，仅234M
 
-* [WPS2019政府版绿色最终完美版](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=426384&extra=) - 无启动界面网络功能，office备用，轻量办公使用，仅96M<br>
+* [WPS2019政府版绿色最终完美版](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=426384&extra=) - 无启动界面网络功能，office备用，轻量办公使用，仅96M
+
+* [WPS2021专业版](https://www.aliyundrive.com/s/WT4QujxfAPX) - <font color=red>无限制永久激活码</font>：7LR67-WTXPA-KLUHV-GEK2E-QW4CK<br>
 
 > #### 其他应用软件
 
