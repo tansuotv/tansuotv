@@ -25,4 +25,4 @@
 
 * [不卡影院](https://buka6.app)
 
-* YouTube Vanced - [官网](https://vancedapp.com/)，[GitHub](https://github.com/YTVanced/VancedManager)。先安装Vanced Manager，再安装Vanced microG，最后安装Youtube Vanced。
+* YouTube Vanced - [官网](https://vancedapp.com/)，[GitHub](https://github.com/YTVanced/VancedManager)。先装Manager，再装microG，最后装Youtube。
