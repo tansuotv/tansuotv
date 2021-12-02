@@ -14,7 +14,9 @@
 
 > #### 应用合集
 
-* [电视盒子手机直播应用合集](https://apphot.cc/27447.html) - 烈火大佬的搜集汇总<br>
+* [电视盒子手机直播应用合集](https://apphot.cc/27447.html) - 烈火大佬的搜集汇总
+
+* [全球IPTV播放源](https://github.com/iptv-org/iptv) - 根据内容、语言、国家分类M3U频道列表<br>
 
 > #### 精品应用
 
