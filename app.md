@@ -6,7 +6,7 @@
 <table>
 <tr>
 <th><a href="index.html">影视在线</a></th>
-<th><a href="motvapp.html">安卓应用</a></th>
+<th><a href="app.html">安卓应用</a></th>
 <th><a href="pcsoft.html">软件精选</a></th>
 </tr>
 </table>
@@ -19,7 +19,7 @@
 
 * [电视家去广告版](https://tywanji.lanzouo.com/iChxix3jikd) - 看境内电视直播首选，有个bug，退出后需强行停止，否则下次打开会闪退
 
-* [293影院](http://www.293so.com) - 手机、电视、网络机顶盒通用版（需收费，可拼多多搜索低价）
+* [293影院](http://www.293so.com) - 手机、电视、网络机顶盒通用版（收费，拼多多搜低价）
 
 * [卧龙影视](https://www.wolong.tv)
 
