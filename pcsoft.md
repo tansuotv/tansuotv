@@ -15,17 +15,17 @@
 
 * [异次元软件世界](https://www.iplaysoft.com) - 软件改变世界
 
-* [★果核剥壳](https://www.ghxi.com) - 还原软件的本质
+* [果核剥壳](https://www.ghxi.com) - 还原软件的本质
 
-* [★423Down](https://www.423down.com) - 良心软件下载
+* [423Down](https://www.423down.com) - 良心软件下载
 
 * [GitHub](https://github.com) - 全球软件开发者基地（免费提供本站服务器）
 
-* [★无忧启动论坛](http://bbs.wuyou.net/forum.php) - 各种精品软件汇聚
+* [无忧启动论坛](http://bbs.wuyou.net/forum.php) - 各种精品软件汇聚
 
 * [烈火新站 app热](https://apphot.cc) - 点亮未来 见证精彩
 
-* [★极简壁纸](https://bz.zzzmh.cn/index) - 高清壁纸<br>
+* [极简壁纸](https://bz.zzzmh.cn/index) - 高清壁纸<br>
 
 > #### 下载Windows系统
 
@@ -59,7 +59,7 @@
 
 * [苹果Boot Camp驱动](https://www.applex.net/pages/bootcamp) - Mac用户必备
 
-* [★StartAllBack开始菜单增强工具破解版](https://www.ghxi.com/startallback.html)
+* [StartAllBack开始菜单增强工具破解版](https://www.ghxi.com/startallback.html)
 
 * [IObit Driver Booster Pro(驱动管理) 便携破解版](https://www.ghxi.com/iobitdriverbooster.html)
 
