@@ -24,6 +24,8 @@
 
 * [电视家去广告版](https://tywanji.lanzouo.com/iChxix3jikd) - 看境内电视直播首选，有个bug，退出后需强行停止，否则下次打开会闪退
 
+* [猫影视TV](https://tywanji.lanzoui.com/iBRt3w0jk5g) - 接口地址：`http://165.154.64.40/mao.json`
+
 * [293影院](http://www.293so.com) - 手机、电视、网络机顶盒通用版（收费，拼多多搜低价）
 
 * [卧龙影视](https://www.wolong.tv)
