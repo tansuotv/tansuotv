@@ -26,6 +26,10 @@
 
 * [猫影视TV](https://tywanji.lanzoui.com/iBRt3w0jk5g) - 接口地址`http://165.154.64.40/mao.json`
 
+* [大师兄影视](https://tv.ci/app)
+
+* [爱西西影视](https://aixixi.vip/app.html)
+
 * [293影院](http://www.293so.com) - 手机、电视、网络机顶盒通用版（收费，拼多多搜低价）
 
 * [卧龙影视](https://www.wolong.tv)
