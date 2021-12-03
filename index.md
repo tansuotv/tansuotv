@@ -1,6 +1,6 @@
 # 探索TV-影视在线
 
-![探索君](https://z3.ax1x.com/2021/12/03/oaiJXj.png) [探索君的云盘](https://caiyun.139.com/m/i?105Cq61IGQYVX) 提取码kNcK
+> #### [探索君的软件云盘](https://caiyun.139.com/m/i?105Cq61IGQYVX) 提取码kNcK
 
     Hello! 我是探索君。
     欢迎和我一起发现更多更好的影视资源！
