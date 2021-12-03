@@ -1,6 +1,6 @@
 # 探索TV-软件精选
 
-> #### [探索云盘](https://caiyun.139.com/m/i?105Cq61IGQYVX) 提取码kNcK
+> #### [探索云盘](https://caiyun.139.com/m/i?105Cq61IGQYVX) 提取码`kNcK`
 
     Hello! 我是探索君。
     欢迎和我一起发现更多更好的影视资源！
@@ -44,7 +44,7 @@
 
 > #### Windows系统激活
 
-* HEU KMS Activator(WIN+Office激活) - [果核剥壳](https://www.ghxi.com/heukmsactivator.html)，[GitHub大神](https://github.com/zbezj/HEU_KMS_Activator)<br>
+* HEU KMS Activator(WIN+Office激活) - [果核剥壳](https://www.ghxi.com/heukmsactivator.html)，[GitHub`zbezj`大神](https://github.com/zbezj/HEU_KMS_Activator)<br>
 
 > #### Office及WPS
 
@@ -56,7 +56,7 @@
 
 * [WPS2019政府版绿色最终完美版](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=426384&extra=) - 无启动界面网络功能，office备用，轻量办公使用，仅96M
 
-* [WPS2021专业版](https://www.aliyundrive.com/s/WT4QujxfAPX) - 永久激活码：`7LR67-WTXPA-KLUHV-GEK2E-QW4CK`
+* [WPS2021专业版](https://www.aliyundrive.com/s/WT4QujxfAPX) - 永久激活码`7LR67-WTXPA-KLUHV-GEK2E-QW4CK`
 
 > #### 其他应用软件
 
