@@ -41,11 +41,11 @@
 
 * [奈菲影视](https://www.nfmovies.com) - 永久免费的福利超清影视站
 
-* [真不卡影院](http://www.zhenbuka.fun) - 真正不卡的超清电影网站
+* [真不卡影院](https://www.zhenbuka.fun) - 真正不卡的超清电影网站
 
 * [美剧热](https://meijure.com) - 天堂独家4K高清蓝光美剧
 
-* [酷绘视频](http://www.kuhuiv.com) - 轻松随心看<br>
+* [酷绘视频](https://www.kuhuiv.com) - 轻松随心看<br>
 
 > #### 搜索推荐
 
@@ -57,6 +57,6 @@
 
 * [YYDSfans](https://yyds.fans) - 网盘下载
 
-* [纪录片天地](http://www.jlpcn.net/) - 国家地理、探索频道、BBC earth
+* [纪录片天地](https://www.jlpcn.net/) - 国家地理、探索频道、BBC earth
 
 * [片库](https://www.pianku.li) - 全网高清影视聚合下载
