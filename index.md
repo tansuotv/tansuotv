@@ -8,9 +8,9 @@
 <table>
 <tr>
 <th>导航</th>
-<th><a href="index.html">影视在线</a></th>
-<th><a href="app.html">安卓应用</a></th>
-<th><a href="pcsoft.html">软件精选</a></th>
+<th><a href="index.html">1.影视在线</a></th>
+<th><a href="app.html">2.安卓应用</a></th>
+<th><a href="pcsoft.html">3.软件精选</a></th>
 </tr>
 </table>
 
