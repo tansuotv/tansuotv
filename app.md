@@ -1,10 +1,3 @@
-# 2.安卓应用
-
-> #### [探索云盘](https://caiyun.139.com/m/i?105Cq61IGQYVX) 提取码`kNcK`
-
-    Hello! 我是探索君。
-    欢迎和我一起发现更多更好的影视资源！
-
 <table>
 <tr>
 <th>导航</th>
@@ -13,6 +6,12 @@
 <th><a href="pcsoft.html">软件精选</a></th>
 </tr>
 </table>
+# 安卓应用
+
+> #### [探索云盘](https://caiyun.139.com/m/i?105Cq61IGQYVX) 提取码`kNcK`
+
+    Hello! 我是探索君。
+    欢迎和我一起发现更多更好的影视资源！
 
 > #### 应用合集
 
