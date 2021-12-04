@@ -9,7 +9,7 @@
 
 # 软件精选
 
-> #### [探索云盘](https://caiyun.139.com/m/i?105Cq61IGQYVX) 提取码`kNcK`所有软件打包搞定
+> #### [探索云盘](https://caiyun.139.com/m/i?105Cq61IGQYVX) 提取码`kNcK`搞定所有软件
 
     Hello! 我是探索君。
     欢迎和我一起发现更多更好的影视资源！
