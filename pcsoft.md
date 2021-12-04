@@ -9,7 +9,7 @@
 
 # 软件精选
 
-> #### [探索云盘](https://caiyun.139.com/m/i?105Cq61IGQYVX) 提取码`kNcK`
+> #### [探索云盘](https://caiyun.139.com/m/i?105Cq61IGQYVX) 提取码`kNcK`所有软件均可到此下载，一站搞定
 
     Hello! 我是探索君。
     欢迎和我一起发现更多更好的影视资源！
@@ -66,13 +66,13 @@
 
 * [StartAllBack Win11开始菜单增强工具破解版](https://www.ghxi.com/startallback.html)
 
-* [StartIsBack Win8Win10菜单还原破解版](https://www.ghxi.com/startisback.html)
+* [StartIsBack Win8 Win10开始菜单还原破解版](https://www.ghxi.com/startisback.html)
 
-* [IObit Driver Booster Pro(驱动管理) 便携破解版](https://www.ghxi.com/iobitdriverbooster.html)
+* [IObit Driver Booster Pro(驱动管理)便携破解版](https://www.ghxi.com/iobitdriverbooster.html)
 
-* [IObit Uninstaller Pro(卸载管理) 便携破解版](https://www.ghxi.com/iobituninstaller.html)
+* [IObit Uninstaller Pro(卸载管理)便携破解版](https://www.ghxi.com/iobituninstaller.html)
 
-* [IObit Advanced SystemCare(系统优化) 破解版](https://www.ghxi.com/advancedsystemcareultimate.html)
+* [IObit Advanced SystemCare(系统优化)便携破解版](https://www.ghxi.com/advancedsystemcareultimate.html)
 
 * [IDM下载神器破解版](https://www.423down.com/575.html)
 
