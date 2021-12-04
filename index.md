@@ -1,19 +1,18 @@
-# 1.影视在线
+<table>
+<tr>
+<th>导航</th>
+<th><a href="index.html">影视在线</a></th>
+<th><a href="app.html">安卓应用</a></th>
+<th><a href="pcsoft.html">软件精选</a></th>
+</tr>
+</table>
+
+# 影视在线
 
 > #### [探索云盘](https://caiyun.139.com/m/i?105Cq61IGQYVX) 提取码`kNcK`
 
     Hello! 我是探索君。
     欢迎和我一起发现更多更好的影视资源！
-
-<table>
-<tr>
-<th>导航</th>
-<th><a href="index.html">1影视在线</a></th>
-<th><a href="app.html">2安卓应用</a></th>
-<th><a href="pcsoft.html">3软件精选</a></th>
-</tr>
-</table>
-
 
 > #### 即点即看
 
