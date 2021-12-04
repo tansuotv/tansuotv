@@ -24,7 +24,7 @@
 
 * [GitHub](https://github.com) - 全球软件开发者基地（免费提供本站服务器）
 
-* [无忧启动论坛](http://bbs.wuyou.net/forum.php) - 各种精品软件汇聚
+* [无忧启动论坛](https://bbs.wuyou.net/forum.php) - 各种精品软件汇聚
 
 * [烈火新站 app热](https://apphot.cc) - 点亮未来 见证精彩
 
@@ -40,7 +40,7 @@
 
 * [微PE工具箱](https://www.wepe.com.cn) - WinPE装机维护工具
 
-* [CMDPE](http://www.cmdpe.com) - 可以上网远程下载的PE系统<br>
+* [CMDPE](https://www.cmdpe.com) - 可以上网远程下载的PE系统<br>
 
 > #### Windows系统激活
 
@@ -54,7 +54,7 @@
 
 * [Office 2016精简版](https://www.ghxi.com/office4n1.html) - 推荐安装版，仅234M
 
-* [WPS2019政府版绿色最终完美版](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=426384&extra=) - 无启动界面网络功能，office备用，轻量办公使用，仅96M
+* [WPS2019政府版绿色最终完美版](https://bbs.wuyou.net/forum.php?mod=viewthread&tid=426384&extra=) - 无启动界面网络功能，office备用，轻量办公使用，仅96M
 
 * [WPS2021专业版](https://www.aliyundrive.com/s/WT4QujxfAPX) - 永久激活码`7LR67-WTXPA-KLUHV-GEK2E-QW4CK`
 
