@@ -74,21 +74,21 @@
 
 * [火绒安全杀毒软件](https://www.huorong.cn)
 
-* [搜狗输入法](https://pinyin.sogou.com)
+* [搜狗输入法官方版](https://pinyin.sogou.com)
 
-* [IDM下载神器](https://www.423down.com/575.html)
+* [IDM下载神器破解版](https://www.423down.com/575.html)
 
-* [坚果云](https://www.jianguoyun.com)
+* [坚果云官方版](https://www.jianguoyun.com)
 
-* [微信](https://weixin.qq.com)
+* [微信官方版](https://weixin.qq.com)
 
-* [QQ](https://im.qq.com/download/index.shtml)
+* [QQ官方版](https://im.qq.com/download/index.shtml)
 
-* [钉钉](https://www.dingtalk.com)
+* [钉钉官方版](https://www.dingtalk.com)
 
-* [微软EDGE浏览器](https://www.microsoft.com/zh-cn/edge?r=1)
+* [微软EDGE浏览器官方版](https://www.microsoft.com/zh-cn/edge?r=1)
 
-* [WinRAR](https://www.ghxi.com/pcwinrar.html)
+* [WinRAR破解版](https://www.ghxi.com/pcwinrar.html)
 
 * [XnView图片浏览破解版](https://www.ghxi.com/xnview.html)
 
