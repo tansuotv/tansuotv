@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### 嗨，你好！ 👋
+### 这是我个人收集整理的影视及软件汇总⚡
+### 我希望在方便自己的同时也能帮到你们😄
 <!--
 **tansuotv/tansuotv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
