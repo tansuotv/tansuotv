@@ -182,6 +182,8 @@
 
 * [Everything](https://www.voidtools.com/zh-cn){:target="_blank"} - 快速搜索王者
 
+* [Listen1](https://github.com/listen1){:target="_blank"} - 搜歌，听歌，就用 Listen1
+
 * [微信官方版](https://weixin.qq.com){:target="_blank"}
 
 * [QQ官方版](https://im.qq.com/download/index.shtml){:target="_blank"}
