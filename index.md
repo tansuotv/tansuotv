@@ -9,7 +9,8 @@
 
 # 影视在线
 
-> #### [探索云盘](https://caiyun.139.com/m/i?105Cq61IGQYVX) 提取码`kNcK`搞定所有软件
+> #### [探索云盘-阿里](https://www.aliyundrive.com/s/em4gU57TyJd)
+> #### [探索云盘-彩云](https://caiyun.139.com/m/i?105Cq61IGQYVX) 提取码`kNcK`搞定所有软件
 
     Hello! 我是探索君。
     欢迎和我一起发现更多更好的影视资源！
