@@ -178,7 +178,7 @@
 
 * [虫洞文件共享](https://www.wormholesoft.com){:target="_blank"} - 点对点文件共享神器
 
-* [Wox](https://github.com/Wox-launcher/Wox/releases){:target="_blank"} - Windows效率工具
+* [Wox](https://github.com/Wox-launcher/Wox/releases){:target="_blank"} [官网](https://www.wox.one){:target="_blank"} - Windows效率工具
 
 * [Everything](https://www.voidtools.com/zh-cn){:target="_blank"} - 快速搜索王者
 
