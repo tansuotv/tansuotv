@@ -4,13 +4,13 @@
     Hello! 我是探索君。
     欢迎和我一起发现更多更好的影视资源！
 
-> #### 探索云盘-[阿里](https://www.aliyundrive.com/s/em4gU57TyJd)-[彩云](https://caiyun.139.com/m/i?105Cq61IGQYVX)`kNcK`
+> #### 探索云盘-[阿里](https://www.aliyundrive.com/s/em4gU57TyJd) -[彩云](https://caiyun.139.com/m/i?105Cq61IGQYVX)`kNcK`
 
 ## 1.影视在线
 
 > #### 即点即看
 
-* [大师兄影视](https://tv.ci) - 免费超清影视站
+* [大师兄影视](https://tv.ci){:target="_blank"} - 免费超清影视站
 
 * [爱西西](https://aixixi.vip) - 免费超清影视站
 
