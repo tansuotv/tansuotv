@@ -122,17 +122,17 @@
 
 * HEU KMS Activator(WIN+Office激活) - [果核剥壳](https://www.ghxi.com/heukmsactivator.html){:target="_blank"}，[GitHub zbezj大神](https://github.com/zbezj/HEU_KMS_Activator){:target="_blank"}
 
-> #### Office及WPS
+> #### WPS和Office
+
+* [WPS2021专业版](https://www.aliyundrive.com/s/WT4QujxfAPX){:target="_blank"} - 永久激活码`7LR67-WTXPA-KLUHV-GEK2E-QW4CK`
+
+* [WPS2019政府版绿色最终完美版](https://bbs.wuyou.net/forum.php?mod=viewthread&tid=426384&extra=){:target="_blank"} - 无启动界面网络功能，office备用，轻量办公使用，仅96M
 
 * [Office Tool Plus](https://otp.landian.vip/zh-cn){:target="_blank"} - 轻松部署Office
 
 * [Office C2R Install汉化版](https://www.ghxi.com/officec2rins.html){:target="_blank"} - 快速安装Office
 
 * [Office 2016精简版](https://www.ghxi.com/office4n1.html){:target="_blank"} - 推荐安装版，仅234M
-
-* [WPS2019政府版绿色最终完美版](https://bbs.wuyou.net/forum.php?mod=viewthread&tid=426384&extra=){:target="_blank"} - 无启动界面网络功能，office备用，轻量办公使用，仅96M
-
-* [WPS2021专业版](https://www.aliyundrive.com/s/WT4QujxfAPX){:target="_blank"} - 永久激活码`7LR67-WTXPA-KLUHV-GEK2E-QW4CK`
 
 > #### 破解软件
 
