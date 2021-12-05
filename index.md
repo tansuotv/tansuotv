@@ -20,6 +20,8 @@
 
 * [爱西西](https://aixixi.vip) - 免费超清影视站
 
+* [思奇影视](https://www.siqitv.vip) - 免费影视站
+
 * [凌云影视](https://www.lingyun.tv) - 全网最近好看的影视聚合下载
 
 * [BL解析](https://vip.bljiex.cc) - VIP视频在线解析
