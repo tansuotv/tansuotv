@@ -62,7 +62,9 @@
 
 * [电视盒子手机直播应用合集](https://apphot.cc/27447.html){:target="_blank"} - 烈火大佬的搜集汇总
 
-* [IPTV PRO 破解版](https://www.423down.com/9788.html) - 配合全球IPTV播放源，中文频道'https://iptv-org.github.io/iptv/languages/zho.m3u' XXX频道'https://iptv-org.github.io/iptv/categories/xxx.m3u'
+* [423Down安卓视频应用合集](https://423down.lanzouo.com/b0f1944aj){:target="_blank"}
+
+* [IPTV PRO 破解版](https://www.423down.com/9788.html){:target="_blank"} - 配合全球IPTV播放源，中文频道'https://iptv-org.github.io/iptv/languages/zho.m3u' XXX频道'https://iptv-org.github.io/iptv/categories/xxx.m3u'
 
 * [全球IPTV播放源](https://github.com/iptv-org/iptv){:target="_blank"} - 根据内容、语言、国家分类M3U频道列表
 
