@@ -98,7 +98,7 @@
 
 * [GitHub](https://github.com){:target="_blank"} - 全球软件开发者基地（免费提供本站服务器）
 
-* [无忧启动论坛](https://bbs.wuyou.net/forum.php){:target="_blank"} - 各种精品软件汇聚
+* [无忧启动论坛](http://bbs.wuyou.net/forum.php){:target="_blank"} - 各种精品软件汇聚
 
 * [烈火新站 app热](https://apphot.cc){:target="_blank"} - 点亮未来 见证精彩
 
