@@ -4,6 +4,8 @@
 
 > #### 探索云盘-[阿里](https://www.aliyundrive.com/s/em4gU57TyJd){:target="_blank"} -[彩云](https://caiyun.139.com/m/i?105Cq61IGQYVX){:target="_blank"}`kNcK`
 
+> #### 文件传输-[点我开始](https://www.snapdrop.net){:target="_blank"}
+
 ## 1.影视在线
 
 > #### 即点即看
@@ -134,6 +136,8 @@
 
 > #### 破解软件
 
+* [Listary 5.00.2843 Pro破解版](https://www.paper-soft.com/article/12){:target="_blank"} - 文件搜索办公利器
+
 * [傲梅分区助手技术员版](https://www.ghxi.com/aomeipartitionassistant.html){:target="_blank"}
 
 * [苹果Boot Camp驱动](https://www.applex.net/pages/bootcamp){:target="_blank"} - Mac用户必备
@@ -175,6 +179,8 @@
 * [坚果云官方版](https://www.jianguoyun.com){:target="_blank"}
 
 * [虫洞文件共享](https://www.wormholesoft.com){:target="_blank"} - 点对点文件共享神器
+
+* [Snapdrop文件共享](https://www.snapdrop.net){:target="_blank"} - 打开浏览器即可传输文件
 
 * [Wox GitHub](https://github.com/Wox-launcher/Wox/releases){:target="_blank"} [官网](https://www.wox.one){:target="_blank"} - Windows效率工具
 
