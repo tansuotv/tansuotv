@@ -64,13 +64,13 @@
 
 * [423Down安卓视频应用合集](https://423down.lanzouo.com/b0f1944aj){:target="_blank"}
 
-* [IPTV PRO 破解版](https://www.423down.com/9788.html){:target="_blank"} - 配合全球IPTV播放源，中文频道`https://iptv-org.github.io/iptv/languages/zho.m3u` XXX频道`https://iptv-org.github.io/iptv/categories/xxx.m3u`
-
 * [全球IPTV播放源](https://github.com/iptv-org/iptv){:target="_blank"} - 根据内容、语言、国家分类M3U频道列表
 
 > #### 视频应用
 
 * [电视家去广告版](https://tywanji.lanzouo.com/iChxix3jikd){:target="_blank"} - 看境内电视直播首选，有个bug，退出后需强行停止，否则下次打开会闪退
+
+* [IPTV PRO 破解版](https://www.423down.com/9788.html){:target="_blank"} - 配合全球IPTV播放源，中文频道`https://iptv-org.github.io/iptv/languages/zho.m3u`
 
 * [猫影视TV](https://tywanji.lanzoui.com/iBRt3w0jk5g){:target="_blank"} - 接口地址`http://165.154.64.40/mao.json`
 
