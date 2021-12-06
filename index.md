@@ -182,6 +182,8 @@
 
 * [Snapdrop文件共享](https://www.snapdrop.net){:target="_blank"} - 打开浏览器即可传输文件
 
+* [7-Zip](https://sparanoid.com/lab/7z){:target="_blank"} - 极高压缩比的开源压缩软件
+
 * [Wox GitHub](https://github.com/Wox-launcher/Wox/releases){:target="_blank"} [官网](https://www.wox.one){:target="_blank"} - Windows效率工具
 
 * [Everything](https://www.voidtools.com/zh-cn){:target="_blank"} - 快速搜索王者
