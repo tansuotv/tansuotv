@@ -1,6 +1,6 @@
 
     Hello! 我是探索君。
-    更新时间：2021年12月6日11:53
+    更新时间：2021年12月6日21:56
 
 > #### 探索云盘-[阿里](https://www.aliyundrive.com/s/em4gU57TyJd){:target="_blank"} -[彩云](https://caiyun.139.com/m/i?105Cq61IGQYVX){:target="_blank"}`kNcK`
 
@@ -87,6 +87,8 @@
 > #### 其他应用
 
 * [Clash](https://github.com/Kr328/ClashForAndroid/releases){:target="_blank"}
+
+* [清浊](https://www.dircleaner.com){:target="_blank"} - 简洁清理工具
 
 ## 3.软件精选
 
