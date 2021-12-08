@@ -1,6 +1,6 @@
 
     Hello! 我是探索君。
-    更新时间：2021年12月6日22:13
+    更新时间：2021年12月8日21:31
 
 > #### 探索云盘-[阿里](https://www.aliyundrive.com/s/em4gU57TyJd){:target="_blank"} -[彩云](https://caiyun.139.com/m/i?105Cq61IGQYVX){:target="_blank"}`kNcK`
 
@@ -195,6 +195,8 @@
 * [Everything](https://www.voidtools.com/zh-cn){:target="_blank"} - 快速搜索王者
 
 * [Listen1](https://github.com/listen1){:target="_blank"} - 搜歌，听歌，就用 Listen1
+
+* [恒星播放器](https://www.stellarplayer.com){:target="_blank"} - 用好插件
 
 * [微信官方版](https://weixin.qq.com){:target="_blank"}
 
