@@ -56,7 +56,11 @@
 
 * [片库](https://www.pianku.li){:target="_blank"} - 全网高清影视聚合下载
 
-## 2.安卓应用
+## 2.PC应用
+
+* [恒星播放器](https://www.stellarplayer.com){:target="_blank"} - 视觉享受 随心而动
+
+## 3.安卓应用
 
 > #### 应用合集
 
@@ -94,7 +98,7 @@
 
 * [清浊](https://www.dircleaner.com){:target="_blank"} - 简洁清理工具
 
-## 3.软件精选
+## 4.软件精选
 
 > #### 精品应用网站
 
@@ -195,8 +199,6 @@
 * [Everything](https://www.voidtools.com/zh-cn){:target="_blank"} - 快速搜索王者
 
 * [Listen1](https://github.com/listen1){:target="_blank"} - 搜歌，听歌，就用 Listen1
-
-* [恒星播放器](https://www.stellarplayer.com){:target="_blank"} - 用好插件
 
 * [微信官方版](https://weixin.qq.com){:target="_blank"}
 
