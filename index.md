@@ -202,7 +202,7 @@
 
 * [微信官方版](https://weixin.qq.com){:target="_blank"}
 
-* [QQ官方版](https://im.qq.com/download/index.shtml){:target="_blank"}
+* [QQ官方版](https://im.qq.com/download){:target="_blank"}
 
 * [钉钉官方版](https://www.dingtalk.com){:target="_blank"}
 
