@@ -2,13 +2,13 @@
     Hello! 我是探索君。
     更新时间：2021年12月8日21:31
 
-> #### 探索云盘-[阿里](https://www.aliyundrive.com/s/em4gU57TyJd){:target="_blank"} -[彩云](https://caiyun.139.com/m/i?105Cq61IGQYVX){:target="_blank"}`kNcK`
+> #### 探索云盘 - [①阿里云盘](https://www.aliyundrive.com/s/em4gU57TyJd){:target="_blank"} - [②和彩云云盘](https://caiyun.139.com/m/i?105Cq61IGQYVX){:target="_blank"}`kNcK`
 
 > #### 文件传输-[点我开始](https://www.snapdrop.net){:target="_blank"}
 
-## 1.影视在线
+## 1.PC电脑
 
-> #### 即点即看
+> #### 在线即点即看
 
 * [大师兄影视](https://tv.ci){:target="_blank"} - 免费超清影视站
 
@@ -42,13 +42,13 @@
 
 * [酷绘视频](https://www.kuhuiv.com){:target="_blank"} - 轻松随心看
 
-> #### 搜索推荐
+> #### 影视搜索推荐
 
 * [电影淘淘](https://www.dianyingtaotao.com){:target="_blank"} - 专业电影搜索引擎
 
 * [影猫推荐](https://www.mvcat.com){:target="_blank"} - 电影分类推荐
 
-> #### 网盘下载
+> #### 影视网盘下载
 
 * [YYDSfans](https://yyds.fans){:target="_blank"} - 网盘下载
 
@@ -56,51 +56,11 @@
 
 * [片库](https://www.pianku.li){:target="_blank"} - 全网高清影视聚合下载
 
-## 2.PC应用
+> #### 影视应用精选
 
 * [恒星播放器](https://www.stellarplayer.com){:target="_blank"} - 视觉享受 随心而动
 
-## 3.安卓应用
-
-> #### 应用合集
-
-* [电视盒子手机直播应用合集](https://apphot.cc/27447.html){:target="_blank"} - 烈火大佬的搜集汇总
-
-* [423Down安卓视频应用合集](https://423down.lanzouo.com/b0f1944aj){:target="_blank"}
-
-* [全球IPTV播放源](https://github.com/iptv-org/iptv){:target="_blank"} - 根据内容、语言、国家分类M3U频道列表
-
-> #### 视频应用
-
-* [电视家去广告版](https://tywanji.lanzouo.com/iChxix3jikd){:target="_blank"} - 看境内电视直播首选，有个bug，退出后需强行停止，否则下次打开会闪退
-
-* [IPTV PRO 破解版](https://www.423down.com/9788.html){:target="_blank"} - 配合全球IPTV播放源，中文频道`https://iptv-org.github.io/iptv/languages/zho.m3u`
-
-* [猫影视TV](https://tywanji.lanzoui.com/iBRt3w0jk5g){:target="_blank"} - 接口地址`http://165.154.64.40/mao.json`
-
-* [大师兄影视](https://tv.ci/app){:target="_blank"}
-
-* [爱西西影视](https://aixixi.vip/app.html){:target="_blank"}
-
-* [思奇影视](https://www.siqitv.vip){:target="_blank"}
-
-* [293影院](https://www.293so.com){:target="_blank"} - 手机、电视、网络机顶盒通用版（收费，拼多多搜低价）
-
-* [卧龙影视](https://www.wolong.tv){:target="_blank"}
-
-* [不卡影院](https://buka6.app){:target="_blank"}
-
-* YouTube Vanced - [官网](https://vancedapp.com/){:target="_blank"}，[GitHub](https://github.com/YTVanced/VancedManager){:target="_blank"}。先装Manager，再装microG，最后装Youtube
-
-> #### 其他应用
-
-* [Clash](https://github.com/Kr328/ClashForAndroid/releases){:target="_blank"}
-
-* [清浊](https://www.dircleaner.com){:target="_blank"} - 简洁清理工具
-
-## 4.软件精选
-
-> #### 精品应用网站
+> #### 精品软件网站
 
 * [异次元软件世界](https://www.iplaysoft.com){:target="_blank"} - 软件改变世界
 
@@ -207,3 +167,42 @@
 * [钉钉官方版](https://www.dingtalk.com){:target="_blank"}
 
 * [微软EDGE浏览器官方版](https://www.microsoft.com/zh-cn/edge?r=1){:target="_blank"}
+
+
+## 2.安卓手机
+
+> #### 影视应用合集
+
+* [电视盒子手机直播应用合集](https://apphot.cc/27447.html){:target="_blank"} - 烈火大佬的搜集汇总
+
+* [423Down安卓视频应用合集](https://423down.lanzouo.com/b0f1944aj){:target="_blank"}
+
+* [全球IPTV播放源](https://github.com/iptv-org/iptv){:target="_blank"} - 根据内容、语言、国家分类M3U频道列表
+
+> #### 视频应用精选
+
+* [电视家去广告版](https://www.ghxi.com/dianshijia.html){:target="_blank"} - 看境内电视直播首选，有个bug，退出后需强行停止，否则下次打开会闪退
+
+* [IPTV PRO 破解版](https://www.423down.com/9788.html){:target="_blank"} - 配合全球IPTV播放源，中文频道`https://iptv-org.github.io/iptv/languages/zho.m3u`
+
+* [猫影视TV](https://tywanji.lanzoui.com/iBRt3w0jk5g){:target="_blank"} - 接口地址`http://165.154.64.40/mao.json`
+
+* [大师兄影视](https://tv.ci/app){:target="_blank"}
+
+* [爱西西影视](https://aixixi.vip/app.html){:target="_blank"}
+
+* [思奇影视](https://www.siqitv.vip){:target="_blank"}
+
+* [293影院](https://www.293so.com){:target="_blank"} - 手机、电视、网络机顶盒通用版（收费，拼多多搜低价）
+
+* [卧龙影视](https://www.wolong.tv){:target="_blank"}
+
+* [不卡影院](https://buka6.app){:target="_blank"}
+
+* YouTube Vanced - [官网](https://vancedapp.com/){:target="_blank"}，[GitHub](https://github.com/YTVanced/VancedManager){:target="_blank"}。先装Manager，再装microG，最后装Youtube
+
+> #### 其他应用
+
+* [Clash](https://github.com/Kr328/ClashForAndroid/releases){:target="_blank"}
+
+* [清浊](https://www.dircleaner.com){:target="_blank"} - 简洁清理工具
