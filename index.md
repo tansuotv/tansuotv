@@ -2,9 +2,9 @@
     Hello! 我是探索君。
     这是2021年12月12日09:52最新更新的内容
 
-> #### 探索云盘 - [①阿里云盘](https://www.aliyundrive.com/s/em4gU57TyJd){:target="_blank"} - [②和彩云云盘](https://caiyun.139.com/m/i?105Cq61IGQYVX){:target="_blank"}`kNcK`
+> #### 探索云盘 - [①阿里云盘](https://www.aliyundrive.com/s/em4gU57TyJd){:target="_blank"}  [②和彩云云盘](https://caiyun.139.com/m/i?105Cq61IGQYVX){:target="_blank"}`kNcK`
 
-> #### 文件传输 - [点我开始](https://www.snapdrop.net){:target="_blank"} - 局域网内打开浏览器直接传输文件
+> #### [文件传输](https://www.snapdrop.net){:target="_blank"} - 局域网内打开浏览器直接传输文件
 
 ## 1.PC电脑
 
@@ -60,6 +60,8 @@
 
 * [恒星播放器](https://www.stellarplayer.com){:target="_blank"} - 视觉享受 随心而动
 
+* [PotPlayer视频播放器去广告绿色版](https://www.423down.com/3050.html){:target="_blank"}
+
 * [YesPlayMusic](https://www.ghxi.com/yesplaymusic.html){:target="_blank"} - 高颜值第三方网易云
 
 * [Listen1](https://github.com/listen1){:target="_blank"} - 搜歌，听歌，就用 Listen1
@@ -94,7 +96,7 @@
 
 * [CMDPE](https://www.cmdpe.com){:target="_blank"} - 可以上网远程下载的PE系统
 
-> #### Windows系统激活
+> #### 激活Windows系统
 
 * HEU KMS Activator(WIN+Office激活) - [果核剥壳](https://www.ghxi.com/heukmsactivator.html){:target="_blank"}，[GitHub zbezj大神](https://github.com/zbezj/HEU_KMS_Activator){:target="_blank"}
 
@@ -110,17 +112,29 @@
 
 * [Office 2016精简版](https://www.ghxi.com/office4n1.html){:target="_blank"} - 推荐安装版，仅234M
 
-> #### 破解软件
+> #### 效率工具应用
 
 * [Listary 5.00.2843 Pro破解版](https://www.paper-soft.com/article/12){:target="_blank"} - 文件搜索办公利器
 
-* [傲梅分区助手技术员版](https://www.ghxi.com/aomeipartitionassistant.html){:target="_blank"}
+* [Wox GitHub](https://github.com/Wox-launcher/Wox/releases){:target="_blank"} [官网](https://www.wox.one){:target="_blank"} - Windows效率工具
 
-* [苹果Boot Camp驱动](https://www.applex.net/pages/bootcamp){:target="_blank"} - Mac用户必备
+* [Everything](https://www.voidtools.com/zh-cn){:target="_blank"} - 快速搜索王者
 
 * [StartAllBack Win11开始菜单增强工具破解版](https://www.ghxi.com/startallback.html){:target="_blank"}
 
 * [StartIsBack Win8 Win10开始菜单还原破解版](https://www.ghxi.com/startisback.html){:target="_blank"}
+
+* [IDM下载神器破解版](https://www.423down.com/575.html){:target="_blank"}
+
+* [虫洞文件共享](https://www.wormholesoft.com){:target="_blank"} - 点对点文件共享神器
+
+* [Snapdrop文件共享](https://www.snapdrop.net){:target="_blank"} - 打开浏览器即可传输文件
+
+> #### 必装应用软件
+
+* [傲梅分区助手技术员版](https://www.ghxi.com/aomeipartitionassistant.html){:target="_blank"}
+
+* [苹果Boot Camp驱动](https://www.applex.net/pages/bootcamp){:target="_blank"} - Mac用户必备
 
 * [IObit Driver Booster Pro(驱动管理)便携破解版](https://www.ghxi.com/iobitdriverbooster.html){:target="_blank"}
 
@@ -128,9 +142,9 @@
 
 * [IObit Advanced SystemCare(系统优化)便携破解版](https://www.ghxi.com/advancedsystemcareultimate.html){:target="_blank"}
 
-* [IDM下载神器破解版](https://www.423down.com/575.html){:target="_blank"}
+* [WinRAR压缩软件破解版](https://www.ghxi.com/pcwinrar.html){:target="_blank"} - 老牌压缩软件
 
-* [WinRAR压缩软件破解版](https://www.ghxi.com/pcwinrar.html){:target="_blank"}
+* [7-Zip](https://sparanoid.com/lab/7z){:target="_blank"} - 极高压缩比的开源压缩软件
 
 * [FastStone Image Viewer图片查看工具便携版](https://www.ghxi.com/faststoneiw.html){:target="_blank"}
 
@@ -144,25 +158,11 @@
 
 * [Adobe Photoshop 2022 绿色版](https://www.ghxi.com/ps2022green.html){:target="_blank"}
 
-* [PotPlayer视频播放器去广告绿色版](https://www.423down.com/3050.html){:target="_blank"}
-
-> #### 官网软件
-
 * [火绒安全杀毒软件](https://www.huorong.cn){:target="_blank"}
 
 * [搜狗输入法官方版](https://pinyin.sogou.com){:target="_blank"}
 
 * [坚果云官方版](https://www.jianguoyun.com){:target="_blank"}
-
-* [虫洞文件共享](https://www.wormholesoft.com){:target="_blank"} - 点对点文件共享神器
-
-* [Snapdrop文件共享](https://www.snapdrop.net){:target="_blank"} - 打开浏览器即可传输文件
-
-* [7-Zip](https://sparanoid.com/lab/7z){:target="_blank"} - 极高压缩比的开源压缩软件
-
-* [Wox GitHub](https://github.com/Wox-launcher/Wox/releases){:target="_blank"} [官网](https://www.wox.one){:target="_blank"} - Windows效率工具
-
-* [Everything](https://www.voidtools.com/zh-cn){:target="_blank"} - 快速搜索王者
 
 * [微信官方版](https://weixin.qq.com){:target="_blank"}
 
