@@ -1,10 +1,10 @@
 
     Hello! 我是探索君。
-    更新时间：2021年12月8日21:31
+    这是2021年12月12日09:52最新更新的内容
 
 > #### 探索云盘 - [①阿里云盘](https://www.aliyundrive.com/s/em4gU57TyJd){:target="_blank"} - [②和彩云云盘](https://caiyun.139.com/m/i?105Cq61IGQYVX){:target="_blank"}`kNcK`
 
-> #### 文件传输-[点我开始](https://www.snapdrop.net){:target="_blank"}
+> #### 文件传输 - [点我开始](https://www.snapdrop.net){:target="_blank"} - 局域网内打开浏览器直接传输文件
 
 ## 1.PC电脑
 
@@ -56,9 +56,17 @@
 
 * [片库](https://www.pianku.li){:target="_blank"} - 全网高清影视聚合下载
 
-> #### 影视应用精选
+> #### 视听应用精选
 
 * [恒星播放器](https://www.stellarplayer.com){:target="_blank"} - 视觉享受 随心而动
+
+* [YesPlayMusic](https://www.ghxi.com/yesplaymusic.html){:target="_blank"} - 高颜值第三方网易云
+
+* [Listen1](https://github.com/listen1){:target="_blank"} - 搜歌，听歌，就用 Listen1
+
+* [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop){:target="_blank"} - 付费无损音乐下载神器
+
+* [极简壁纸](https://bz.zzzmh.cn/index){:target="_blank"} - 高清壁纸
 
 > #### 精品软件网站
 
@@ -73,8 +81,6 @@
 * [无忧启动论坛](http://bbs.wuyou.net/forum.php){:target="_blank"} - 各种精品软件汇聚
 
 * [烈火新站 app热](https://apphot.cc){:target="_blank"} - 点亮未来 见证精彩
-
-* [极简壁纸](https://bz.zzzmh.cn/index){:target="_blank"} - 高清壁纸
 
 > #### 下载Windows系统
 
@@ -157,8 +163,6 @@
 * [Wox GitHub](https://github.com/Wox-launcher/Wox/releases){:target="_blank"} [官网](https://www.wox.one){:target="_blank"} - Windows效率工具
 
 * [Everything](https://www.voidtools.com/zh-cn){:target="_blank"} - 快速搜索王者
-
-* [Listen1](https://github.com/listen1){:target="_blank"} - 搜歌，听歌，就用 Listen1
 
 * [微信官方版](https://weixin.qq.com){:target="_blank"}
 
