@@ -197,7 +197,7 @@
 
 * [思奇影视](https://www.siqitv.vip){:target="_blank"}
 
-* [293影院](https://www.293so.com){:target="_blank"} - 手机、电视、网络机顶盒通用版（收费，拼多多搜低价）
+* [293影院](https://www.293so.com/zy.html){:target="_blank"} - 手机、电视、网络机顶盒通用版（收费，拼多多搜低价）
 
 * [卧龙影视](https://www.wolong.tv){:target="_blank"}
 
