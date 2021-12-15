@@ -6,7 +6,7 @@
 
 > #### [文件传输](https://www.snapdrop.net){:target="_blank"} - 局域网内打开浏览器直接传输文件
 
-> #### [Emotn影视TV应用市场](https://app.emotn.com/share){:target="_blank"} - 分享码'518445'
+> #### [Emotn影视TV应用市场](https://app.emotn.com/share){:target="_blank"} - 分享码`518445`
 
 ## 1.PC电脑
 
