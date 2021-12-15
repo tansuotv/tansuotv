@@ -1,10 +1,10 @@
 
     Hello! 我是探索君。
-    这是2021年12月15日14:06最新更新的内容
+    这是2021年12月15日17:00最新更新的内容
 
 > #### 探索云盘 - [①阿里云盘](https://www.aliyundrive.com/s/em4gU57TyJd){:target="_blank"}  [②和彩云云盘](https://caiyun.139.com/m/i?105Cq61IGQYVX){:target="_blank"}`kNcK`
 
-> #### [文件传输](https://www.snapdrop.net){:target="_blank"} - 局域网内打开浏览器直接传输文件
+> #### [电脑手机文件传输](https://www.snapdrop.net){:target="_blank"} - 局域网内浏览器打开此站即可传输文件
 
 > #### [Emotn影视TV应用市场](https://app.emotn.com/share){:target="_blank"} - 分享码`518445`
 
@@ -175,7 +175,7 @@
 * [微软EDGE浏览器官方版](https://www.microsoft.com/zh-cn/edge?r=1){:target="_blank"}
 
 
-## 2.安卓手机
+## 2.安卓应用
 
 > #### 影视应用合集
 
@@ -187,9 +187,15 @@
 
 > #### 视频应用精选
 
+* [GOTV](http://www.iptv16.com){:target="_blank"} - 付费直播、点播
+
+* [293影院](https://www.293so.com/zy.html){:target="_blank"} - 手机、电视、网络机顶盒通用版（收费，拼多多搜低价）
+
 * [电视家去广告版](https://www.ghxi.com/dianshijia.html){:target="_blank"} - 看境内电视直播首选，有个bug，退出后需强行停止，否则下次打开会闪退
 
 * [IPTV PRO 破解版](https://www.423down.com/9788.html){:target="_blank"} - 配合全球IPTV播放源，中文频道`https://iptv-org.github.io/iptv/languages/zho.m3u`
+
+* YouTube Vanced - [官网](https://vancedapp.com/){:target="_blank"}，[GitHub](https://github.com/YTVanced/VancedManager){:target="_blank"}。先装Manager，再装microG，最后装Youtube vanced
 
 * [猫影视TV](https://tywanji.lanzoui.com/iBRt3w0jk5g){:target="_blank"} - 接口地址`http://165.154.64.40/mao.json`
 
@@ -199,13 +205,10 @@
 
 * [思奇影视](https://www.siqitv.vip){:target="_blank"}
 
-* [293影院](https://www.293so.com/zy.html){:target="_blank"} - 手机、电视、网络机顶盒通用版（收费，拼多多搜低价）
-
 * [卧龙影视](https://www.wolong.tv){:target="_blank"}
 
 * [不卡影院](https://buka6.app){:target="_blank"}
 
-* YouTube Vanced - [官网](https://vancedapp.com/){:target="_blank"}，[GitHub](https://github.com/YTVanced/VancedManager){:target="_blank"}。先装Manager，再装microG，最后装Youtube
 
 > #### 其他应用
 
