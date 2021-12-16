@@ -2,7 +2,7 @@
     Hello! 我是探索君。
     这是2021年12月15日17:00最新更新的内容
 
-> #### 探索云盘 - [①阿里云盘](https://www.aliyundrive.com/s/em4gU57TyJd){:target="_blank"}  [②和彩云云盘](https://caiyun.139.com/m/i?105Cq61IGQYVX){:target="_blank"}`kNcK`
+> #### 探索云盘 - [和彩云网盘](https://caiyun.139.com/m/i?105Cq61IGQYVX){:target="_blank"}提取码`kNcK`
 
 > #### [电脑手机文件传输](https://www.snapdrop.net){:target="_blank"} - 局域网内浏览器打开此站即可传输文件
 
