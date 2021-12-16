@@ -106,7 +106,7 @@
 
 * [WPS2021专业版](https://www.aliyundrive.com/s/WT4QujxfAPX){:target="_blank"} - 永久激活码`7LR67-WTXPA-KLUHV-GEK2E-QW4CK`
 
-* [WPS2019政府版绿色最终完美版](https://bbs.wuyou.net/forum.php?mod=viewthread&tid=426384&extra=){:target="_blank"} - 无启动界面网络功能，office备用，轻量办公使用，仅96M
+* [WPS2019政府版绿色最终完美版](https://caiyun.139.com/m/i?105CpORyTsGMH){:target="_blank"}提取码`17Lp` - 无启动界面网络功能，office备用，轻量办公使用，仅96M
 
 * [Office Tool Plus](https://otp.landian.vip/zh-cn){:target="_blank"} - 轻松部署Office
 
