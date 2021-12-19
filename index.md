@@ -162,7 +162,7 @@
 
 * [火绒安全杀毒软件](https://www.huorong.cn){:target="_blank"}
 
-* [搜狗输入法官方版](https://pinyin.sogou.com){:target="_blank"}
+* [搜狗输入法去广告安装版](https://www.ghxi.com/sougouinput.html){:target="_blank"}
 
 * [坚果云官方版](https://www.jianguoyun.com){:target="_blank"}
 
