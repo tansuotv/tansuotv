@@ -1,6 +1,6 @@
 
     Hello! 我是探索君。
-    这是2022年1月6日12:54最新更新的内容
+    这是2022年1月6日13:23最新更新的内容
 
 > #### [探索君的和彩云网盘](https://caiyun.139.com/m/i?105Cq61IGQYVX){:target="_blank"}提取码`kNcK`
 
@@ -11,6 +11,8 @@
 ## 1.PC电脑
 
 > #### 在线即点即看
+
+* [泥巴影院](https://www.nbyy.tv){:target="_blank"} - 在线观看电影电视节目
 
 * [大师兄影视](https://tv.ci){:target="_blank"} - 免费超清影视站
 
