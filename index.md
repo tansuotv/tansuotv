@@ -22,6 +22,8 @@
 
 * [剧迷影音](https://gimytv.com){:target="_blank"}
 
+* [天天影院](https://www.ttkb.cc){:target="_blank"}
+
 * [大师兄影视](https://tv.ci){:target="_blank"} - 免费超清影视站
 
 * [爱西西](https://aixixi.vip){:target="_blank"} - 免费超清影视站
