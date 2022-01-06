@@ -72,6 +72,8 @@
 
 * [极简壁纸](https://bz.zzzmh.cn/index){:target="_blank"} - 高清壁纸
 
+* [盒子地窖](http://www.wmsio.cn){:target="_blank"} - 各类APK下载
+
 > #### 精品软件网站
 
 * [异次元软件世界](https://www.iplaysoft.com){:target="_blank"} - 软件改变世界
