@@ -1,6 +1,6 @@
 
     Hello! 我是探索君。
-    这是2022年1月6日13:45最新更新的内容
+    这是2022年1月7日17:15最新更新的内容
 
 > #### [探索君的和彩云网盘](https://caiyun.139.com/m/i?105Cq61IGQYVX){:target="_blank"}提取码`kNcK`
 
@@ -145,6 +145,8 @@
 * [虫洞文件共享](https://www.wormholesoft.com){:target="_blank"} - 点对点文件共享神器
 
 * [Snapdrop文件共享](https://www.snapdrop.net){:target="_blank"} - 打开浏览器即可传输文件
+
+* [Mac字体应用](https://www.mactype.net){:target="_blank"} - 将Mac苹果清晰漂亮的字体用在Win系统电脑
 
 > #### 必装应用软件
 
