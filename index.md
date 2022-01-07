@@ -232,4 +232,4 @@
 
 * [清浊](https://www.dircleaner.com){:target="_blank"} - 简洁清理工具
 
-* [李跳跳](https://wwi.lanzouw.com/iWviMyi3jva){:target="_blank"} - 自动跳过启动页广告
+* [李跳跳](https://wwi.lanzouw.com/irNH3yi439i){:target="_blank"} - 自动跳过启动页广告
