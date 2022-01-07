@@ -1,6 +1,6 @@
 
     Hello! 我是探索君。
-    这是2022年1月7日17:15最新更新的内容
+    这是2022年1月8日00:04最新更新的内容
 
 > #### [探索君的和彩云网盘](https://caiyun.139.com/m/i?105Cq61IGQYVX){:target="_blank"}提取码`kNcK`
 
@@ -231,3 +231,5 @@
 * [Clash](https://github.com/Kr328/ClashForAndroid/releases){:target="_blank"}
 
 * [清浊](https://www.dircleaner.com){:target="_blank"} - 简洁清理工具
+
+* [李跳跳](https://wwi.lanzouw.com/iWviMyi3jva){:target="_blank"} - 自动跳过启动页广告
