@@ -1,12 +1,14 @@
 
     Hello! 我是探索君。
-    这是2022年1月8日00:04最新更新的内容
+    这是2022年1月8日21:47最新更新的内容
 
 > #### [探索君的和彩云网盘](https://caiyun.139.com/m/i?105Cq61IGQYVX){:target="_blank"}提取码`kNcK`
 
 > #### [探索君的Emotn影视TV应用](https://app.emotn.com/share){:target="_blank"} - 分享码`518445`
 
 > #### [电脑手机文件传输](https://www.snapdrop.net){:target="_blank"} - 局域网内浏览器打开此站即可传输文件
+
+> #### [探索君的蓝奏云影视TV应用](https://tansuo.lanzouw.com/b0174o41c){:target="_blank"} - 分享码`tansuo`
 
 ## 1.PC电脑
 
