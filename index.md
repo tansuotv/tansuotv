@@ -1,6 +1,6 @@
 
     Hello! 我是探索君。
-    这是2022年1月8日21:47最新更新的内容
+    这是2022年1月9日10:17最新更新的内容
 
 > #### [探索君的和彩云网盘](https://caiyun.139.com/m/i?105Cq61IGQYVX){:target="_blank"}提取码`kNcK`
 
@@ -14,7 +14,9 @@
 
 > #### 在线即点即看
 
-* [泥巴影院](https://www.nbyy.tv){:target="_blank"} - 在线观看电影电视节目
+* [泥巴影院](https://www.nbyy.tv){:target="_blank"} - 在线观看电影电视节目★
+
+* [嗯哩嗯哩](https://enlienli.com){:target="_blank"} - 收集互联网主流视频网站内容★
 
 * [思乐影视](https://www.4ltv.com){:target="_blank"} - 观影追剧
 
@@ -26,9 +28,13 @@
 
 * [天天影院](https://www.ttkb.cc){:target="_blank"}
 
+* [天空影视](https://www.tkys.tv){:target="_blank"} - 免费4K观影站★
+
 * [大师兄影视](https://tv.ci){:target="_blank"} - 免费超清影视站
 
 * [爱西西](https://aixixi.vip){:target="_blank"} - 免费超清影视站
+
+* [剧嗨影院](https://www.juhi.cc){:target="_blank"} - 北美免费高清视频在线观看
 
 * [思奇影视](https://www.siqitv.vip){:target="_blank"} - 免费影视站
 
