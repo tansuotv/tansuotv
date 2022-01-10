@@ -8,7 +8,7 @@
 
 > #### [电视应用精选](https://app.emotn.com/share){:target="_blank"} - 分享码`518445`
 
-> #### [视频应用精选](https://tansuo.lanzouw.com/b0174o41c){:target="_blank"}
+> #### [视频应用精选](https://tansuo.lanzouw.com/b0174o41c){:target="_blank"} - 密码`tansuo`
 
 > #### [安卓应用精选](https://tansuo.lanzouw.com/b01592xri){:target="_blank"}
 
