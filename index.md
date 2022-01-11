@@ -1,6 +1,6 @@
 
     Hello! 我是探索君。
-    这是2022年1月10日17:51最新更新的内容
+    这是2022年1月11日13:37最新更新的内容
 
 > #### [电脑手机文件传输](https://www.snapdrop.net){:target="_blank"} - 局域网内浏览器打开此站即可传输文件
 
@@ -8,9 +8,7 @@
 
 > #### [电视应用精选](https://app.emotn.com/share){:target="_blank"} - 分享码`518445`
 
-> #### [视频应用精选](https://tansuo.lanzouw.com/b0174o41c){:target="_blank"} - 密码`tansuo`
-
-> #### [安卓应用精选](https://tansuo.lanzouw.com/b01592xri){:target="_blank"}
+> #### [安卓应用精选](https://tansuo.lanzouw.com/b01592xri){:target="_blank"} - 包含直播、点播及必备软件
 
 ## 1.PC电脑
 
