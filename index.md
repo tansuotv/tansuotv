@@ -1,6 +1,6 @@
 
     Hello! 我是探索君。
-    这是2022年1月19日20:02最新更新的内容
+    这是2022年2月14日19:10最新更新的内容
 
 > #### [电脑手机文件传输](https://www.snapdrop.net){:target="_blank"} - 局域网内浏览器打开此站即可传输文件
 
@@ -223,7 +223,7 @@
 
 * YouTube Vanced - [官网](https://vancedapp.com/){:target="_blank"}，[GitHub](https://github.com/YTVanced/VancedManager){:target="_blank"}。先装Manager，再装microG，最后装Youtube vanced
 
-* [猫影视TV](https://https://teyonds.lanzouw.com/iBXERyio6fc){:target="_blank"} - 接口地址`http://tyzx.weetai.cn/mtv.json`★
+* [猫影视TV](https://https://teyonds.lanzouw.com/iBXERyio6fc){:target="_blank"} - 解析设置为【Json轮询】，接口地址`http://tyzx.weetai.cn/mtv.json``https://c1n.cn/2``https://wds.ecsxs.com/212757.json`★
 
 * [大师兄影视](https://tv.ci/app){:target="_blank"}
 
