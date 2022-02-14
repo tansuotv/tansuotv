@@ -217,13 +217,15 @@
 
 * [293影院](https://www.293so.com/zy.html){:target="_blank"} - 手机、电视、网络机顶盒通用版（收费，拼多多搜低价）
 
-* [电视家登录VIP版](https://tansuo.lanzouw.com/b01592xri){:target="_blank"} - 看境内电视直播首选，扫码登录VIP至2100年★
+* [太阳直播](https://teyonds.lanzouw.com/iRwbgx9teaf){:target="_blank"} - 看境内电视直播首选，密码`2022`★
 
 * [IPTV PRO 破解版](https://www.423down.com/9788.html){:target="_blank"} - 配合全球IPTV播放源，中文频道`https://iptv-org.github.io/iptv/languages/zho.m3u`
 
 * YouTube Vanced - [官网](https://vancedapp.com/){:target="_blank"}，[GitHub](https://github.com/YTVanced/VancedManager){:target="_blank"}。先装Manager，再装microG，最后装Youtube vanced
 
 * [猫影视TV](https://https://teyonds.lanzouw.com/iBXERyio6fc){:target="_blank"} - 解析设置为【Json轮询】，接口地址`http://tyzx.weetai.cn/mtv.json``https://c1n.cn/2``https://wds.ecsxs.com/212757.json`★
+
+* [聚多影视](https://teyonds.lanzouw.com/i3Yn0xyn3ng){:target="_blank"} - 特殊频道密码`8118`★
 
 * [大师兄影视](https://tv.ci/app){:target="_blank"}
 
