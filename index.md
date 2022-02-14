@@ -223,7 +223,7 @@
 
 * YouTube Vanced - [官网](https://vancedapp.com/){:target="_blank"}，[GitHub](https://github.com/YTVanced/VancedManager){:target="_blank"}。先装Manager，再装microG，最后装Youtube vanced
 
-* [猫影视TV](https://https://teyonds.lanzouw.com/iBXERyio6fc){:target="_blank"} - 解析设置为【Json轮询】，接口地址`http://tyzx.weetai.cn/mtv.json``https://c1n.cn/2``https://wds.ecsxs.com/212757.json`★
+* [猫影视TV](https://https://teyonds.lanzouw.com/iBXERyio6fc){:target="_blank"} - 解析设置为【Json轮询】，接口地址`http://tyzx.weetai.cn/mtv.json``https://c1n.cn/2``https://wds.ecsxs.com/212757.json``https://sourl.cn/mFADh2`★
 
 * [聚多影视](https://teyonds.lanzouw.com/i3Yn0xyn3ng){:target="_blank"} - 特殊频道密码`8118`★
 
