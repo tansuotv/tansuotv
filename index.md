@@ -106,6 +106,10 @@
 
 * [彼岸桌面](http://www.netbian.com/){:target="_blank"} - 高清壁纸下载，还有手机壁纸哦
 
+* [4K电脑壁纸](https://4k.wpcoder.cn/){:target="_blank"} - 高清4K电脑壁纸
+
+* [全面屏手机壁纸](https://m.bcoderss.com/){:target="_blank"} - 手机壁纸站
+
 > #### 精品软件网站
 
 * [异次元软件世界](https://www.iplaysoft.com){:target="_blank"} - 软件改变世界
