@@ -8,7 +8,7 @@
 
 > #### [电视应用精选](https://app.emotn.com/share){:target="_blank"} - 分享码`518445`
 
-> #### [安卓应用精选](https://tansuo.lanzouw.com/b01592xri){:target="_blank"} - 包含直播、点播及必备软件
+> #### [安卓应用精选](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} - 包含直播、点播及必备软件
 
 > #### [Netflix Disney+拼车](https://ihezu.run/esf7nk){:target="_blank"} - 好用还便宜★
 
