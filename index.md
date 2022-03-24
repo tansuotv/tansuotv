@@ -6,7 +6,7 @@
 
 > #### [电视应用精选](https://app.emotn.com/share){:target="_blank"} - 分享码`518445`
 
-> #### [安卓应用精选](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} - 包含直播、点播及必备软件
+> #### [安卓应用精选](https://tansuo.lanzoux.com/b01592xri){:target="_blank"} - 包含直播、点播及必备软件
 
 > #### [Netflix Disney+拼车](https://ihezu.run/esf7nk){:target="_blank"} - 好用还便宜★
 
@@ -174,7 +174,7 @@
 
 > #### 效率工具应用
 
-* [Listary 5.00.2843 Pro破解版](https://www.paper-soft.com/article/12){:target="_blank"} - 文件搜索办公利器
+* [Listary Pro破解版+Everything+FileLocator Pro](https://tansuo.lanzoub.com/if39Z01z860b){:target="_blank"} - 快速启动文件搜索合集
 
 * [Wox GitHub](https://github.com/Wox-launcher/Wox/releases){:target="_blank"} [官网](https://www.wox.one){:target="_blank"} - Windows效率工具
 
