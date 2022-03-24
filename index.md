@@ -1,6 +1,6 @@
 
     Hello! 我是探索君。
-    这是2022年3月7日11:49最新更新的内容
+    这是2022年3月24日11:53最新更新的内容
 
 > #### [电脑手机文件传输](https://www.snapdrop.net){:target="_blank"} - 局域网内浏览器打开此站即可传输文件
 
@@ -12,7 +12,29 @@
 
 > #### [Netflix Disney+拼车](https://ihezu.run/esf7nk){:target="_blank"} - 好用还便宜★
 
-> #### [太阳网盘](http://teyond.ysepan.com){:target="_blank"}★
+> #### [太阳网盘](http://teyonds.ysepan.com/){:target="_blank"}★
+
+## 0.特别推荐APP
+
+> #### ★★★★电视直播
+
+* [电视家](https://www.idianshijia.com/){:target="_blank"} - 找我送你官网VIP，有效期至2024年7月
+
+* [太阳直播](https://teyonds.lanzoux.com/tytv){:target="_blank"}
+
+* [超级iTV](https://teyonds.lanzouw.com/i6Sr3zzmqkd){:target="_blank"}
+
+* [GoTV（收费）](http://www.iptv16.com/downloads/){:target="_blank"}
+
+> #### ★★★★影视点播
+
+* [饭团影院](https://fantuan.tv/APP/){:target="_blank"}
+
+* [泥巴影院（梯）](https://www.nbyy.tv){:target="_blank"}
+
+* [293影院（收费）](http://www.293vod.com/zy.html){:target="_blank"}
+
+* [深蓝影库（收费）]注册限制，需要的找我
 
 ## 1.PC电脑
 
