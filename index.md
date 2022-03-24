@@ -4,8 +4,6 @@
 
 > #### [电脑手机文件传输](https://www.snapdrop.net){:target="_blank"} - 局域网内浏览器打开此站即可传输文件
 
-> #### [和彩云网盘](https://caiyun.139.com/m/i?105Cq61IGQYVX){:target="_blank"}提取码`kNcK`
-
 > #### [电视应用精选](https://app.emotn.com/share){:target="_blank"} - 分享码`518445`
 
 > #### [安卓应用精选](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} - 包含直播、点播及必备软件
