@@ -174,7 +174,7 @@
 
 > #### 效率工具应用
 
-* [Listary Pro破解版+Everything+FileLocator Pro](https://tansuo.lanzoub.com/if39Z01z860b){:target="_blank"} - 快速启动文件搜索合集
+* [Listary Pro破解版+Everything+FileLocator Pro](https://tansuo.lanzoub.com/if39Z01z860b){:target="_blank"} - 快速启动文件搜索合集★★
 
 * [Wox GitHub](https://github.com/Wox-launcher/Wox/releases){:target="_blank"} [官网](https://www.wox.one){:target="_blank"} - Windows效率工具
 
