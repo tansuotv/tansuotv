@@ -1,6 +1,6 @@
 
     Hello! 我是探索君。
-    这是2022年3月24日11:53最新更新的内容
+    这是2022年3月24日17:00最新更新的内容
 
 > #### [电脑手机文件传输](https://www.snapdrop.net){:target="_blank"} - 局域网内浏览器打开此站即可传输文件
 
@@ -16,7 +16,7 @@
 
 > #### ★★★★电视直播
 
-* [电视家](https://www.idianshijia.com/){:target="_blank"} - 找我送你官网VIP，有效期至2024年7月
+* [电视家](https://www.idianshijia.com/){:target="_blank"} - 找我送你官网VIP
 
 * [太阳直播](https://teyonds.lanzoux.com/tytv){:target="_blank"}
 
