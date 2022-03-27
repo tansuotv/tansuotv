@@ -1,10 +1,10 @@
 
     Hello! 我是探索君。
-    这是2022年3月24日17:00最新更新的内容
+    这是2022年3月27日20:34最新更新的内容
 
 > #### [电脑手机文件传输](https://www.snapdrop.net){:target="_blank"} - 局域网内浏览器打开此站即可传输文件
 
-> #### [电视应用精选](https://app.emotn.com/share){:target="_blank"} - 分享码`518445`
+> #### [电视应用精选](https://app.emotn.com/share){:target="_blank"} - 分享码`970380`
 
 > #### [安卓应用精选](https://tansuo.lanzoux.com/b01592xri){:target="_blank"} - 包含直播、点播及必备软件
 
@@ -23,6 +23,8 @@
 * [超级iTV](https://teyonds.lanzouw.com/i6Sr3zzmqkd){:target="_blank"}
 
 * [GoTV（收费）](http://www.iptv16.com/downloads/){:target="_blank"}
+
+* [江西移动直播源]`https://t.tansuo.tv/jxtv.m3u`
 
 > #### ★★★★影视点播
 
