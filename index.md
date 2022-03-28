@@ -24,8 +24,6 @@
 
 * [GoTV（收费）](http://www.iptv16.com/downloads/){:target="_blank"}
 
-* [江西移动直播源]`https://t.tansuo.tv/jxtv.m3u`
-
 > #### ★★★★影视点播
 
 * [饭团影院](https://fantuan.tv/APP/){:target="_blank"}
