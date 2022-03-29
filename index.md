@@ -1,12 +1,12 @@
 
     Hello! 我是探索君。
-    这是2022年3月27日20:34最新更新的内容
+    这是2022年3月29日22:34最新更新的内容
 
 > #### [电脑手机文件传输](https://www.snapdrop.net){:target="_blank"} - 局域网内浏览器打开此站即可传输文件
 
-> #### [电视应用精选](https://app.emotn.com/share){:target="_blank"} - 分享码`970380`
+> #### [电视应用精选](https://app.emotn.com/share){:target="_blank"} - 电视端安装emotn后通过分享码`970380`食用
 
-> #### [安卓应用精选](https://tansuo.lanzoux.com/b01592xri){:target="_blank"} - 包含直播、点播及必备软件
+> #### [安卓应用精选](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} - 手机直接点这里食用
 
 > #### [Netflix Disney+拼车](https://ihezu.run/esf7nk){:target="_blank"} - 好用还便宜★
 
@@ -257,9 +257,7 @@
 
 * YouTube Vanced - [官网](https://vancedapp.com/){:target="_blank"}，[GitHub](https://github.com/YTVanced/VancedManager){:target="_blank"}。先装Manager，再装microG，最后装Youtube vanced
 
-* [猫影视TV](https://https://teyonds.lanzouw.com/iBXERyio6fc){:target="_blank"} - 解析设置为【Json轮询】，接口地址`http://tyzx.weetai.cn/mtv.json``https://c1n.cn/2``https://wds.ecsxs.com/212757.json``https://sourl.cn/mFADh2`★
-
-* [聚多影视](https://teyonds.lanzouw.com/i3Yn0xyn3ng){:target="_blank"} - 特殊频道密码`8118`★
+* [猫影视TV](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} - 接口地址`https://mc.c1n.cn;pk;123456`★
 
 * [大师兄影视](https://tv.ci/app){:target="_blank"}
 
