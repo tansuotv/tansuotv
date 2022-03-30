@@ -1,6 +1,8 @@
 
     Hello! 我是探索君。
-    这是2022年3月29日22:34最新更新的内容
+    更新时间：2022年3月30日09:58
+
+![image](https://t.tansuo.tv/t.jpg)
 
 > #### [电脑手机文件传输](https://www.snapdrop.net){:target="_blank"} - 局域网内浏览器打开此站即可传输文件
 
