@@ -1,0 +1,23 @@
+喜爱,#genre#
+凤凰中文,http://117.169.119.199:8080/live/fhchinese/index.m3u8
+凤凰资讯,http://117.169.119.199:8080/live/fhzixun/index.m3u8
+凤凰电影,http://iptv.tvfix.org/hls/fhdy.m3u8
+BBC EARTH,http://stariptv.org:8080/wael2021/123456/92230
+国家地理,http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFN66jiN9le9Iw4Lmxp8OIVY
+History,https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+Discovery,http://cdn99.one:80/356195/FgHq4u/71864.ts
+Discovery Science,http://cdn99.one:80/356195/FgHq4u/103511.ts
+Discovery Theater,http://cdn99.one:80/356195/FgHq4u/71875.ts
+Discovery Science,http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFKY0ECm7aMBKzS8oqLca1kg
+BBC,http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/670
+CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+NHK World Japan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+ABC,http://stariptv.org:8080/hakim2021/123456/148478
+ABC NEWS,http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/3100
+ABC7,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXYZ.m3u8
+翡翠台,http://cdn99.one:80/356195/FgHq4u/103509.ts
+东森新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
+东森财经新闻,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+台视新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
+TVBS新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
