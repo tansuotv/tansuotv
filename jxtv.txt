@@ -19,26 +19,46 @@ CCTV16超清 26M2160,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212
 CCTV17 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3u8
 凤凰中文 10M720,http://117.169.119.199:8080/live/fhchinese/index.m3u8
 凤凰资讯 10M720,http://117.169.119.199:8080/live/fhzixun/index.m3u8
+凤凰电影,http://iptv.tvfix.org/hls/fhdy.m3u8
+BBC EARTH,http://stariptv.org:8080/wael2021/123456/92230
+国家地理,http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFN66jiN9le9Iw4Lmxp8OIVY
+History,https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+Discovery 4K FHDR,http://cdn99.one:80/356195/FgHq4u/71864.ts
+Discovery Science 4K,http://cdn99.one:80/356195/FgHq4u/103511.ts
+Discovery Theater,http://cdn99.one:80/356195/FgHq4u/71875.ts
+Discovery Science,http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFKY0ECm7aMBKzS8oqLca1kg
+BBC,http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/670
+CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+NHK World Japan (1080p),https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+ABC,http://stariptv.org:8080/hakim2021/123456/148478
+ABC NEWS,http://onebox.team:8080/pascahbastard03/xNDDkuv3VR/3100
+ABC7,https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WXYZ.m3u8
+翡翠台,http://cdn99.one:80/356195/FgHq4u/103509.ts
+东森新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
+东森财经新闻,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+台视新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
+TVBS新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+浙江卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8
+湖南卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225704/index.m3u8
+东方卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225659/index.m3u8
+北京卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225674/index.m3u8
+深圳卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225700/index.m3u8
+江苏卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225702/index.m3u8
+江西卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls
 纯享4K 20M2160,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 中国教育1 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225917/index.m3u8?fmt=ts2hls
 东南卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225585/index.m3u8?fmt=ts2hls
-东方卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225659/index.m3u8
-北京卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225674/index.m3u8
 四川卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225487/index.m3u8?fmt=ts2hls
 天津卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225698/index.m3u8
 安徽卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225691/index.m3u8
 山东卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225697/index.m3u8
 广东卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225701/index.m3u8
 广西卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
-江苏卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225702/index.m3u8
-江西卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls
 河北卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
 河南卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
-浙江卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8
 海南卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls
-深圳卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225700/index.m3u8
 湖北卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225699/index.m3u8
-湖南卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225704/index.m3u8
 贵州卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
 辽宁卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225696/index.m3u8
 重庆卫视 8M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225692/index.m3u8
@@ -54,7 +74,7 @@ NewTV中国功夫 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3
 NewTV军事评论 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8
 NewTV军旅剧场 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225669/index.m3u8
 NewTV农业致富 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225670/index.m3u8
-NewTV动作电影 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225671/index.m3u8
+NewTV动作电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
 NewTV古装剧场 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225678/index.m3u8
 NewTV家庭剧场 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8
 NewTV怡伴健康 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225666/index.m3u8
