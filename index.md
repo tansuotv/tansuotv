@@ -1,6 +1,6 @@
 
-    Hello! 我是探索君。
-    更新时间：2022年3月30日09:58
+    Hello! 欢迎来到探索TV，和我一起，发现更美。
+    更新时间：2022-03-30 21:52
 
 ![image](https://t.tansuo.tv/t.jpg)
 
@@ -20,7 +20,7 @@
 
 * [电视家](https://www.idianshijia.com/){:target="_blank"} - 找我送你官网VIP
 
-* [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"} - 需与直播源共同食用
+* [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"} - 需与直播源共同食用 `https://tvsee.github.io/diyp/tv.txt``https://t.tansuo.tv/jxtv.txt`
 
 * [太阳直播](https://teyonds.lanzoux.com/tytv){:target="_blank"}
 
