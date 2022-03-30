@@ -20,6 +20,8 @@
 
 * [电视家](https://www.idianshijia.com/){:target="_blank"} - 找我送你官网VIP
 
+* [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"} - 需与直播源共同食用
+
 * [太阳直播](https://teyonds.lanzoux.com/tytv){:target="_blank"}
 
 * [超级iTV](https://teyonds.lanzouw.com/i6Sr3zzmqkd){:target="_blank"}
