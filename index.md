@@ -1,6 +1,6 @@
 
     Hello! 欢迎来到探索TV，和我一起，发现更美。
-    更新时间：2022-03-30 21:52
+    更新时间：2022-03-31 01:57
 
 ![image](https://t.tansuo.tv/t.jpg)
 
@@ -110,7 +110,7 @@
 
 * [恒星播放器](https://www.stellarplayer.com){:target="_blank"} - 视觉享受 随心而动
 
-* [PotPlayer视频播放器去广告绿色版](https://www.423down.com/3050.html){:target="_blank"}
+* PotPlayer视频播放器[官网](https://potplayer.daum.net/){:target="_blank"} - [另一个网址](https://potplayer.tv/?lang=zh_CN){:target="_blank"}★
 
 * [YesPlayMusic](https://www.ghxi.com/yesplaymusic.html){:target="_blank"} - 高颜值第三方网易云
 
@@ -120,7 +120,7 @@
 
 * [盒子地窖](http://www.wmsio.cn){:target="_blank"} - 各类APK下载
 
-> #### 壁纸网站精选★
+> #### 壁纸网站精选
 
 * [极简壁纸](https://bz.zzzmh.cn/index){:target="_blank"} - 高清壁纸
 
@@ -178,9 +178,9 @@
 
 > #### 效率工具应用
 
-* [Listary Pro破解版+Everything+FileLocator Pro](https://tansuo.lanzoub.com/if39Z01z860b){:target="_blank"} - 快速启动文件搜索合集★★
+* [Listary Pro破解版+Everything+FileLocator Pro](https://tansuo.lanzoub.com/if39Z01z860b){:target="_blank"} - 快速启动文件搜索合集
 
-* [Wox GitHub](https://github.com/Wox-launcher/Wox/releases){:target="_blank"} [官网](https://www.wox.one){:target="_blank"} - Windows效率工具
+* [Wox GitHub](https://github.com/Wox-launcher/Wox/releases){:target="_blank"} [官网](https://www.wox.one){:target="_blank"} - Windows效率工具★
 
 * [Everything](https://www.voidtools.com/zh-cn){:target="_blank"} - 快速搜索王者
 
