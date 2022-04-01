@@ -1,20 +1,13 @@
 
-    Hello! 欢迎来到探索TV，和我一起，发现更美。
-    更新时间：2022-04-01 12:09
-
-![image](https://t.tansuo.tv/img/t2.jpg)
-
-> #### [电脑手机文件传输](https://www.snapdrop.net){:target="_blank"} - 局域网内浏览器打开此站即可传输文件
-
-> #### [电视应用精选](https://app.emotn.com/share){:target="_blank"} - 电视端安装emotn后通过分享码`970380`食用★
-
-> #### [安卓应用精选](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} - 手机直接点这里食用★
+    🕥更新时间：2022-04-01 14:03
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
-## 0.特别推荐APP
+## 0.特别推荐
 
-> #### ★★★★电视直播
+> #### ★★★★直播点播
+
+* [电视应用精选](https://app.emotn.com/share){:target="_blank"} - 电视端安装emotn后通过分享码`970380`食用★
 
 * [电视家](https://www.idianshijia.com/){:target="_blank"}
 
@@ -26,8 +19,6 @@
 
 * [GoTV（收费）](http://www.iptv16.com/downloads/){:target="_blank"}
 
-> #### ★★★★影视点播
-
 * [饭团影院](https://fantuan.tv/APP/){:target="_blank"}
 
 * [泥巴影院（梯子）](https://www.nbyy.tv){:target="_blank"}
@@ -38,13 +29,13 @@
 
 * 深蓝影库（收费） - 注册限制，需要的找我
 
-> #### ★★★★一站搞定
+> #### ★★★★大佬合集
 
 * [太阳网盘](http://teyonds.ysepan.com/){:target="_blank"}
 
 * [盒子地窖](http://www.wmsio.cn){:target="_blank"}
 
-* [烈火大佬的电视盒子手机直播应用合集](https://apphot.cc/27447.html){:target="_blank"}
+* [烈火电视盒子手机直播应用合集](https://apphot.cc/27447.html){:target="_blank"}
 
 * [423Down安卓视频应用合集](https://423down.lanzouo.com/b0f1944aj){:target="_blank"}
 
@@ -133,7 +124,6 @@
 * [Listen1](https://github.com/listen1){:target="_blank"} - 搜歌，听歌，就用 Listen1
 
 * [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop){:target="_blank"} - 付费无损音乐下载神器
-
 
 > #### 壁纸网站精选
 
@@ -278,7 +268,6 @@
 * [卧龙影视](https://www.wolong.tv){:target="_blank"}
 
 * [不卡影院](https://buka6.app){:target="_blank"}
-
 
 > #### 其他应用
 
