@@ -1,14 +1,14 @@
 
     Hello! 欢迎来到探索TV，和我一起，发现更美。
-    更新时间：2022-04-01 10:05
+    更新时间：2022-04-01 12:09
 
 ![image](https://t.tansuo.tv/img/t2.jpg)
 
 > #### [电脑手机文件传输](https://www.snapdrop.net){:target="_blank"} - 局域网内浏览器打开此站即可传输文件
 
-> #### [电视应用精选](https://app.emotn.com/share){:target="_blank"} - 电视端安装emotn后通过分享码`970380`食用
+> #### [电视应用精选](https://app.emotn.com/share){:target="_blank"} - 电视端安装emotn后通过分享码`970380`食用★
 
-> #### [安卓应用精选](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} - 手机直接点这里食用
+> #### [安卓应用精选](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} - 手机直接点这里食用★
 
 > #### [Netflix Disney+拼车](https://ihezu.run/esf7nk){:target="_blank"} - 好用还便宜★
 
@@ -18,23 +18,25 @@
 
 * [电视家](https://www.idianshijia.com/){:target="_blank"}
 
-* [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"} - 需与直播源共同食用 `https://tvsee.github.io/diyp/tv.txt``https://t.tansuo.tv/jxtv.txt`
+* [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"} - 需与直播源共同食用 `https://tvsee.github.io/diyp/tv.txt``https://t.tansuo.tv/jxtv.txt`★
 
 * [太阳直播](https://teyonds.lanzoux.com/tytv){:target="_blank"}
 
 * [超级iTV](https://teyonds.lanzouw.com/i6Sr3zzmqkd){:target="_blank"}
 
-* [GoTV（钱）](http://www.iptv16.com/downloads/){:target="_blank"}
+* [GoTV（收费）](http://www.iptv16.com/downloads/){:target="_blank"}
 
 > #### ★★★★影视点播
 
 * [饭团影院](https://fantuan.tv/APP/){:target="_blank"}
 
-* [泥巴影院（梯）](https://www.nbyy.tv){:target="_blank"}
+* [泥巴影院（梯子）](https://www.nbyy.tv){:target="_blank"}
 
-* [293影院（钱）](http://www.293vod.com/zy.html){:target="_blank"}
+* [293影院（收费）](http://www.293vod.com/zy.html){:target="_blank"}
 
-* 深蓝影库（钱） - 注册限制，需要的找我
+* [猫影视TV](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} - 接口地址在本页面最底端★
+
+* 深蓝影库（收费） - 注册限制，需要的找我
 
 > #### ★★★★一站搞定
 
@@ -48,13 +50,17 @@
 
 * [全球IPTV直播源](https://github.com/iptv-org/iptv){:target="_blank"} - 根据内容、语言、国家分类M3U频道列表
 
+![image](https://t.tansuo.tv/img/t2.jpg)
+
 ## 1.PC电脑
 
 > #### 在线即点即看
 
-* [泥巴影院（梯）](https://www.nbyy.tv){:target="_blank"} - 在线观看电影电视节目★
+* [泥巴影院（梯子）](https://www.nbyy.tv){:target="_blank"} - 在线观看电影电视节目★
 
-* [嗯哩嗯哩](https://enlienli.com){:target="_blank"} - 收集互联网主流视频网站内容★
+* [片吧影院](https://www.pianba.tv){:target="_blank"}★
+
+* [嗯哩嗯哩](https://enlienli.com){:target="_blank"} - 收集互联网主流视频网站内容
 
 * [思乐影视](https://www.4ltv.com){:target="_blank"} - 观影追剧
 
@@ -66,7 +72,7 @@
 
 * [天天影院](https://www.ttkb.cc){:target="_blank"}
 
-* [天空影视](https://www.tkys.tv){:target="_blank"} - 免费4K观影站★
+* [天空影视](https://www.tkys.tv){:target="_blank"} - 免费4K观影站
 
 * [大师兄影视](https://tv.ci){:target="_blank"} - 免费超清影视站
 
@@ -127,7 +133,6 @@
 * [Listen1](https://github.com/listen1){:target="_blank"} - 搜歌，听歌，就用 Listen1
 
 * [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop){:target="_blank"} - 付费无损音乐下载神器
-
 
 
 > #### 壁纸网站精选
@@ -248,6 +253,7 @@
 
 * [微软EDGE浏览器官方版](https://www.microsoft.com/zh-cn/edge?r=1){:target="_blank"}
 
+![image](https://t.tansuo.tv/img/t2.jpg)
 
 ## 2.安卓应用
 
@@ -262,8 +268,6 @@
 * [IPTV PRO 破解版](https://www.423down.com/9788.html){:target="_blank"} - 配合全球IPTV播放源，中文频道`https://iptv-org.github.io/iptv/languages/zho.m3u`
 
 * YouTube Vanced - [官网](https://vancedapp.com/){:target="_blank"}，[GitHub](https://github.com/YTVanced/VancedManager){:target="_blank"}。先装Manager，再装microG，最后装Youtube vanced
-
-* [猫影视TV](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} - 接口地址`https://mc.c1n.cn;pk;123456`★
 
 * [大师兄影视](https://tv.ci/app){:target="_blank"}
 
@@ -283,3 +287,42 @@
 * [清浊](https://www.dircleaner.com){:target="_blank"} - 简洁清理工具
 
 * [李跳跳](https://wwi.lanzouw.com/irNH3yi439i){:target="_blank"} - 自动跳过启动页广告
+
+![image](https://t.tansuo.tv/img/t2.jpg)
+
+## 3.猫影视TV接口
+https://c1n.cn/2
+http://c1n.cn/mao
+https://maoys.c1n.cn
+https://maotv.c1n.cn
+https://c1n.cn/cat
+https://c1n.cn/mao
+http://gg.gg/cccvvv
+http://gg.gg/maotv10
+http://gg.gg/maotv28
+https://wds.ecsxs.com/212757.json
+https://wds.ecsxs.com/213821.json
+https://wds.ecsxs.com/213679.json
+https://wds.ecsxs.com/213766.txt
+https://wds.ecsxs.com/213013.json
+https://wds.ecsxs.com/212010.json
+https://wds.ecsxs.com/213313.json
+https://wds.ecsxs.com/216537.json
+https://wds.ecsxs.com/216731.json
+https://wds.ecsxs.com/220912.json
+https://pastebin.com/raw/GG51y0JG
+https://pastebin.com/raw/FuMsfJWw
+https://pastebin.com/raw/KGRduBqa
+https://pastebin.com/raw/yMNq26ND
+http://www.nihaogege.com/cat/yl.js
+https://tool.wotianna.com/mysjk.json
+http://pglblb.test.upcdn.net/mao.json
+http://pglblb.test.upcdn.net/20220216.json
+https://cdn.jsdelivr.net/gh/zxfccmm4/steve@main/steve3
+https://tvapp.guilaile.cn/wp-content/uploads/2021/08/dshzjk.txt
+https://codeberg.org/attachments/36e750cc-e7b0-4a19-a985-22ffce164a2b
+http://118.190.244.195/gengduoziyuansouweixingongzhonghaobktx123/0226.json
+https://mo-xiao.coding.net/p/c/d/c/git/raw/master/maoys.json?download=false
+https://gitee.com/wyy007cn/tv/raw/master/tv1.json
+https://netcut.cn/p/fdd1fe928a529b31;pk;catyking520
+https://mc.c1n.cn;pk;123456
