@@ -10,6 +10,8 @@
 
 > #### [安卓应用精选](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} - 手机直接点这里食用★
 
+[![image](https://t.tansuo.tv/img/nfshop.png)](https://ihezu.run/esf7nk){:target="_blank"}
+
 > #### [Netflix Disney+拼车](https://ihezu.run/esf7nk){:target="_blank"} - 好用还便宜★
 
 ## 0.特别推荐APP
