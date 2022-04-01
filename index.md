@@ -1,6 +1,6 @@
 
     Hello! 欢迎来到探索TV，和我一起，发现更美。
-    更新时间：2022-03-31 01:57
+    更新时间：2022-04-01 10:05
 
 ![image](https://t.tansuo.tv/t.jpg)
 
@@ -12,13 +12,11 @@
 
 > #### [Netflix Disney+拼车](https://ihezu.run/esf7nk){:target="_blank"} - 好用还便宜★
 
-> #### [太阳网盘](http://teyonds.ysepan.com/){:target="_blank"}★
-
 ## 0.特别推荐APP
 
 > #### ★★★★电视直播
 
-* [电视家](https://www.idianshijia.com/){:target="_blank"} - 找我送你官网VIP
+* [电视家](https://www.idianshijia.com/){:target="_blank"}
 
 * [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"} - 需与直播源共同食用 `https://tvsee.github.io/diyp/tv.txt``https://t.tansuo.tv/jxtv.txt`
 
@@ -26,7 +24,7 @@
 
 * [超级iTV](https://teyonds.lanzouw.com/i6Sr3zzmqkd){:target="_blank"}
 
-* [GoTV（收费）](http://www.iptv16.com/downloads/){:target="_blank"}
+* [GoTV（钱）](http://www.iptv16.com/downloads/){:target="_blank"}
 
 > #### ★★★★影视点播
 
@@ -34,15 +32,27 @@
 
 * [泥巴影院（梯）](https://www.nbyy.tv){:target="_blank"}
 
-* [293影院（收费）](http://www.293vod.com/zy.html){:target="_blank"}
+* [293影院（钱）](http://www.293vod.com/zy.html){:target="_blank"}
 
-* 深蓝影库（收费） - 注册限制，需要的找我
+* 深蓝影库（钱） - 注册限制，需要的找我
+
+> #### ★★★★一站搞定
+
+* [太阳网盘](http://teyonds.ysepan.com/){:target="_blank"}
+
+* [盒子地窖](http://www.wmsio.cn){:target="_blank"}
+
+* [烈火大佬的电视盒子手机直播应用合集](https://apphot.cc/27447.html){:target="_blank"}
+
+* [423Down安卓视频应用合集](https://423down.lanzouo.com/b0f1944aj){:target="_blank"}
+
+* [全球IPTV直播源](https://github.com/iptv-org/iptv){:target="_blank"} - 根据内容、语言、国家分类M3U频道列表
 
 ## 1.PC电脑
 
 > #### 在线即点即看
 
-* [泥巴影院](https://www.nbyy.tv){:target="_blank"} - 在线观看电影电视节目★
+* [泥巴影院（梯）](https://www.nbyy.tv){:target="_blank"} - 在线观看电影电视节目★
 
 * [嗯哩嗯哩](https://enlienli.com){:target="_blank"} - 收集互联网主流视频网站内容★
 
@@ -118,7 +128,7 @@
 
 * [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop){:target="_blank"} - 付费无损音乐下载神器
 
-* [盒子地窖](http://www.wmsio.cn){:target="_blank"} - 各类APK下载
+
 
 > #### 壁纸网站精选
 
@@ -240,14 +250,6 @@
 
 
 ## 2.安卓应用
-
-> #### 影视应用合集
-
-* [电视盒子手机直播应用合集](https://apphot.cc/27447.html){:target="_blank"} - 烈火大佬的搜集汇总
-
-* [423Down安卓视频应用合集](https://423down.lanzouo.com/b0f1944aj){:target="_blank"}
-
-* [全球IPTV播放源](https://github.com/iptv-org/iptv){:target="_blank"} - 根据内容、语言、国家分类M3U频道列表
 
 > #### 视频应用精选
 
