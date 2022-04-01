@@ -2,7 +2,7 @@
     Hello! 欢迎来到探索TV，和我一起，发现更美。
     更新时间：2022-04-01 10:05
 
-![image](https://t.tansuo.tv/t2.jpg)
+![image](https://t.tansuo.tv/img/t2.jpg)
 
 > #### [电脑手机文件传输](https://www.snapdrop.net){:target="_blank"} - 局域网内浏览器打开此站即可传输文件
 
