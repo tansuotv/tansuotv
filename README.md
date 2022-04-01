@@ -4,7 +4,7 @@
 
 ### 探索TV 发现更美 🔭 https://t.tansuo.tv
 
-![image](https://t.tansuo.tv/t.jpg)
+![image](https://t.tansuo.tv/img/t.jpg)
 
 <!--
 **tansuotv/tansuotv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
