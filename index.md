@@ -271,9 +271,9 @@
 
 > #### 其他应用
 
-* [开源阅读](https://github.com/gedoor/legado){:target="_blank"} [①官网下载](https://github.com/gedoor/legado/releases){:target="_blank"} [②酷安下载](https://www.coolapk.com/apk/256030){:target="_blank"} - 不只是阅读神器★★
+* [开源阅读](https://github.com/gedoor/legado){:target="_blank"} - [①官网下载](https://github.com/gedoor/legado/releases){:target="_blank"} [②酷安下载](https://www.coolapk.com/apk/256030){:target="_blank"} 不只是阅读神器★★
 
-* [微软TTS](https://github.com/ag2s20150909/TTS/releases){:target="_blank"} - 开源阅读语音引擎,手机安装TTS可支持朗读中文（小米好像不装就可以）
+* [微软TTS](https://github.com/ag2s20150909/TTS/releases){:target="_blank"} - ↑↑开源阅读语音引擎，手机安装TTS可支持朗读中文（小米好像不装就可以）
 
 * [Clash](https://github.com/Kr328/ClashForAndroid/releases){:target="_blank"}
 
@@ -283,7 +283,7 @@
 
 ![image](https://t.tansuo.tv/img/t2.jpg)
 
-## 3.接口
+## 3.看不懂但很有用
 
 > #### 开源阅读书源
 
