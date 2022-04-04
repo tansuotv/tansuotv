@@ -313,18 +313,23 @@ https://iptv-org.github.io/iptv/languages/zho.m3u (中文频道)
 
 https://iptv-org.github.io/iptv/languages/eng.m3u (英文频道)
 
+
 > #### 开源阅读订阅源（注意是订阅源，不是书源，可以下载精校完本小说）
 
 1.一程大佬
+
 `https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/dy.json`
 `https://shuyuan.miaogongzi.net/shuyuan/1635780366.json`
 
 2.关耳大佬
+
 `http://yck.mumuceo.com/d/CXwCA`
+
 
 > #### 开源阅读书源（书源导入位置在APP我的—书源管理—右上角网络导入。提醒！选择1-2位大佬的追更就行，没必要全部导入）
 
 1.namofree大佬（通用，精简，比较适合大多数人）
+
 `https://namofree.gitee.io/yuedu3/legado3_booksource_by_Namo.json`
 `https://gitee.com/namofree/yuedu3/raw/legado3booksource/legado3_booksource_by_Namo.json`
 
@@ -335,68 +340,88 @@ https://iptv-org.github.io/iptv/languages/eng.m3u (英文频道)
 每次导入之前建议把之前的Namo分组删除全新导入！
 
 2.一程大佬（通用，精简，比较适合大多数人）
+
 `https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/sy.json`
 `https://gitee.com/vpq/codes/ez5qu1ifx260layps3b7981/raw?blob_name=3.0sy.json`
 
 3.破冰大佬（1000+优质书源合集，需复制到浏览器下载后使用本地导入方式进行导入）
+
 `https://pobing.lanzoui.com/b0cxk0w8b`   密码：`59bV`
 
 4.haxc大佬漫画
+
 `https://haxc.coding.net/p/booksrc/d/booksrc/git/raw/master/bookSource.json`
 
 5.糖果超甜大佬女频
+
 `https://tangguochaotian.coding.net/p/tangguoshuyuan1015/d/tangguo/git/raw/master/exportBookSource.json`
 
 6.关耳大佬女频
+
 `https://guaner001125.coding.net/p/coding-code-guide/d/booksources/git/raw/master/sources/guaner.json`
 
 7.渡边美波大佬
+
 `https://gitee.com/jia_to_hui/read-30-preferred-book-source/raw/master/bookSource.json`
 
 8.其他
+
 XIU2精品`https://yuedu.xiu2.xyz/shuyuan`
 
 XIU2精品（备）`https://cdn.jsdelivr.net/gh/XIU2/Yuedu/shuyuan`
 
 全网榜单数据`https://gitee.com/zoeybai/read/raw/Xiaobai/bangdan.json`
 
-一介书生（集合150分类准确）：
+一介书生（集合150分类准确）
+
 `https://gitee.com/YiJieSS/Yuedu/raw/master/bookSource.json`
 
-狼火霸世（酷安大佬439源）：
+狼火霸世（酷安大佬439源）
+
 `https://gedoor.github.io/MyBookshelf/bookSource.json`
 
-狼火霸世（酷安大佬1537源）：
+狼火霸世（酷安大佬1537源）
+
 `https://cdn.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io@1.1/202003.txt`
 
-狼火霸世（酷安大佬717源）：
+狼火霸世（酷安大佬717源）
+
 `https://cdn.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/yeudu3.0-202005.json`
 
-南笙星辰（精简177源）：
+南笙星辰（精简177源）
+
 `https://gitee.com/ch4nge/readbook/raw/master/booksoure`
 
-南笙星辰（维护177源）：
+南笙星辰（维护177源）
+
 `https://gitee.com/ch4nge/readbook/raw/master/booksource9`
 
-关耳大佬（酷安大佬听歌源）：
+关耳大佬（酷安大佬听歌源）
+
 `https://gitee.com/zmn1307617161/booksource/raw/master/%E4%B9%A6%E6%BA%90/3%E4%B8%AA%E9%9F%B3%E4%B9%90%E6%BA%90.json`
 
-山高水长(微信圈子整理废卢书源)：
+山高水长(微信圈子整理废卢书源)
+
 `https://gitee.com/ch4nge/readbook/raw/master/booksource_fl`
 
-渡边美波（精选优质28源合集）：
+渡边美波（精选优质28源合集）
+
 `https://gitee.com/ch4nge/readbook/raw/master/booksource_jx`
 
-狼火霸世（精选优质合集 2.0 3.0都可以用）：
+狼火霸世（精选优质合集 2.0 3.0都可以用）
+
 `https://gitee.com/ch4nge/readbook/raw/master/booksource_lhbs`
 
-破冰6(有声书源22合集)：
+破冰6(有声书源22合集)
+
 `https://gitee.com/ch4nge/readbook/raw/master/booksources_ts`
 
-南笙星辰（更新177源）：
+南笙星辰（更新177源）
+
 `https://gitee.com/ch4nge/readbook/raw/master/booksource_177`
 
-不是玄奇（搜索引擎书源）：
+不是玄奇（搜索引擎书源）
+
 `https://gitee.com/no-mystery/bushixuanqi-quanwangsoushu/raw/master/%E5%85%A8%E7%BD%91%E6%90%9C%E4%B9%A6(%E7%99%BE%E5%BA%A6%E3%80%81%E8%B0%B7%E6%AD%8C%E3%80%81%E5%A4%B8%E5%85%8B).json`
 
 > #### 猫影视接口
