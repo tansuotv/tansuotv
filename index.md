@@ -1,5 +1,5 @@
 
-    🕥更新时间：2022-04-04 15:32
+    🕥更新时间：2022-04-04 16:17
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -271,7 +271,9 @@
 
 > #### 其他应用
 
-* [阅读](https://github.com/XIU2/Yuedu){:target="_blank"} [①官网下载](https://github.com/gedoor/legado/releases){:target="_blank"} [②酷安下载](https://www.coolapk.com/apk/256030){:target="_blank"} - 不只是阅读神器★★
+* [开源阅读](https://github.com/gedoor/legado){:target="_blank"} [①官网下载](https://github.com/gedoor/legado/releases){:target="_blank"} [②酷安下载](https://www.coolapk.com/apk/256030){:target="_blank"} - 不只是阅读神器★★
+
+* [微软TTS](https://github.com/ag2s20150909/TTS/releases){:target="_blank"} - 开源阅读语音引擎,手机安装TTS可支持朗读中文（小米好像不装就可以）
 
 * [Clash](https://github.com/Kr328/ClashForAndroid/releases){:target="_blank"}
 
@@ -283,11 +285,11 @@
 
 ## 3.接口
 
-> #### 阅读书源
+> #### 开源阅读书源
 
-书源网络导入地址：https://yuedu.xiu2.xyz/shuyuan
+XIU2精品书源：https://yuedu.xiu2.xyz/shuyuan
 
-备用书源网络导入地址：https://cdn.jsdelivr.net/gh/XIU2/Yuedu/shuyuan
+XIU2精品书源（备）：https://cdn.jsdelivr.net/gh/XIU2/Yuedu/shuyuan
 
 全网榜单数据：两个择其一导入 源自于同一网站不同排版 不同大佬制作：https://gitee.com/zoeybai/read/raw/Xiaobai/bangdan.json
 
@@ -322,6 +324,16 @@ Namo（基础精简带净化）：https://gitee.com/namofree/yuedu3/raw/legado3b
 不是玄奇（搜索引擎书源）：https://gitee.com/no-mystery/bushixuanqi-quanwangsoushu/raw/master/%E5%85%A8%E7%BD%91%E6%90%9C%E4%B9%A6(%E7%99%BE%E5%BA%A6%E3%80%81%E8%B0%B7%E6%AD%8C%E3%80%81%E5%A4%B8%E5%85%8B).json
 
 > #### 猫影视接口
+
+https://gitee.com/tv88/v1/raw/master/v1;pk;743073078
+
+https://mo-xiao.coding.net/p/c/d/c/git/raw/master/mao.json
+
+http://tyzx.weetai.cn/mtv/0330.json
+
+https://netcut.cn/p/fdd1fe928a529b31;pk;catyking520
+
+https://mc.c1n.cn;pk;123456
 
 https://c1n.cn/2
 
