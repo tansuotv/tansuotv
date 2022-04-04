@@ -313,9 +313,18 @@ https://iptv-org.github.io/iptv/languages/zho.m3u (中文频道)
 
 https://iptv-org.github.io/iptv/languages/eng.m3u (英文频道)
 
+> #### 开源阅读订阅源（注意是订阅源，不是书源，可以下载精校完本小说）
+
+1.一程大佬：
+https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/dy.json
+https://shuyuan.miaogongzi.net/shuyuan/1635780366.json
+
+2.关耳大佬
+http://yck.mumuceo.com/d/CXwCA
+
 > #### 开源阅读书源（书源导入位置在APP我的—书源管理—右上角网络导入。提醒！选择1-2位大佬的追更就行，没必要全部导入）
 
-1.namofree大佬的书源：（通用，精简，比较适合大多数人）
+1.namofree大佬（通用，精简，比较适合大多数人）
 https://namofree.gitee.io/yuedu3/legado3_booksource_by_Namo.json
 https://gitee.com/namofree/yuedu3/raw/legado3booksource/legado3_booksource_by_Namo.json
 增加了金庸书库，可以看看金庸老爷子各个版本的小说全集（需要在发现页进入，已关闭搜索，以免影响其他书籍换源速度）；
@@ -324,30 +333,33 @@ https://gitee.com/namofree/yuedu3/raw/legado3booksource/legado3_booksource_by_Na
 本书源适用于3.0版，2.0版阅读app应该大部分都能用，但不保证全部适用；
 每次导入之前建议把之前的Namo分组删除全新导入！
 
-2.一程大佬的书源合集：（通用，精简，比较适合大多数人）
+2.一程大佬（通用，精简，比较适合大多数人）
 https://e-c.coding.net/p/yicheng/d/YD/git/raw/master/sy.json
 https://gitee.com/vpq/codes/ez5qu1ifx260layps3b7981/raw?blob_name=3.0sy.json
 
-3.破冰大佬的书源合集：（1000+优质书源合集，需复制到浏览器下载后使用本地导入方式进行导入）（3.26更新）
+3.破冰大佬（1000+优质书源合集，需复制到浏览器下载后使用本地导入方式进行导入）（3.26更新）
 https://pobing.lanzoui.com/b0cxk0w8b   密码：59bV
 
-4.破冰大佬的听书源合集：(需复制到浏览器下载后使用本地导入方式进行导入)
+4.破冰大佬听书(需复制到浏览器下载后使用本地导入方式进行导入)
 https://pobing.lanzoui.com/b0cxk0w8b   密码：59bV
 
-5.haxc大佬的漫画源合集：
+5.haxc大佬漫画
 https://haxc.coding.net/p/booksrc/d/booksrc/git/raw/master/bookSource.json
 
-6.糖果超甜大佬的女频书源合集：
+6.糖果超甜大佬女频
 https://tangguochaotian.coding.net/p/tangguoshuyuan1015/d/tangguo/git/raw/master/exportBookSource.json
 
-7.关耳大佬的女频书源合集：
+7.关耳大佬女频
 https://guaner001125.coding.net/p/coding-code-guide/d/booksources/git/raw/master/sources/guaner.json
 
-8.其他：
-XIU2精品书源：
+8.渡边美波大佬
+https://gitee.com/jia_to_hui/read-30-preferred-book-source/raw/master/bookSource.json
+
+9.其他：
+XIU2精品：
 https://yuedu.xiu2.xyz/shuyuan
 
-XIU2精品书源（备）：
+XIU2精品（备）：
 https://cdn.jsdelivr.net/gh/XIU2/Yuedu/shuyuan
 
 全网榜单数据：两个择其一导入 源自于同一网站不同排版 不同大佬制作：
