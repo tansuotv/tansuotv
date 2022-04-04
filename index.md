@@ -285,6 +285,34 @@
 
 ## 3.看不懂但很有用
 
+> #### 电视直播源（多得看不过来）
+
+https://iptv-org.github.io/iptv/index.m3u
+
+https://iptv-org.github.io/iptv/index.nsfw.m3u (包含不可描述内容)
+
+https://iptv-org.github.io/iptv/index.category.m3u (根据内容区分)
+
+https://iptv-org.github.io/iptv/index.country.m3u (根据国家区分)
+
+https://iptv-org.github.io/iptv/index.language.m3u (根据语言区分)
+
+https://iptv-org.github.io/iptv/index.region.m3u (根据区域区分)
+
+https://iptv-org.github.io/iptv/categories/entertainment.m3u (娱乐频道)
+
+https://iptv-org.github.io/iptv/categories/movies.m3u (电影频道)
+
+https://iptv-org.github.io/iptv/categories/music.m3u (音乐频道)
+
+https://iptv-org.github.io/iptv/categories/outdoor.m3u (户外频道)
+
+https://iptv-org.github.io/iptv/categories/sports.m3u (体育频道)
+
+https://iptv-org.github.io/iptv/languages/zho.m3u (中文频道)
+
+https://iptv-org.github.io/iptv/languages/eng.m3u (英文频道)
+
 > #### 开源阅读书源
 
 XIU2精品书源：https://yuedu.xiu2.xyz/shuyuan
