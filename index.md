@@ -1,5 +1,5 @@
 
-    🕥更新时间：2022-04-01 14:03
+    🕥更新时间：2022-04-04 15:32
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -271,6 +271,8 @@
 
 > #### 其他应用
 
+* [阅读](https://github.com/XIU2/Yuedu){:target="_blank"} [①官网下载](https://github.com/gedoor/legado/releases){:target="_blank"} [②酷安下载](https://www.coolapk.com/apk/256030){:target="_blank"} - 不只是阅读神器★★
+
 * [Clash](https://github.com/Kr328/ClashForAndroid/releases){:target="_blank"}
 
 * [清浊](https://www.dircleaner.com){:target="_blank"} - 简洁清理工具
@@ -279,7 +281,47 @@
 
 ![image](https://t.tansuo.tv/img/t2.jpg)
 
-## 3.猫影视TV接口
+## 3.接口
+
+> #### 阅读书源
+
+书源网络导入地址：https://yuedu.xiu2.xyz/shuyuan
+
+备用书源网络导入地址：https://cdn.jsdelivr.net/gh/XIU2/Yuedu/shuyuan
+
+全网榜单数据：两个择其一导入 源自于同一网站不同排版 不同大佬制作：https://gitee.com/zoeybai/read/raw/Xiaobai/bangdan.json
+
+Namo（基础精简带净化）：https://gitee.com/namofree/yuedu3/raw/legado3booksource/legado3_booksource_by_Namo.json
+
+一介书生（集合150分类准确）：https://gitee.com/YiJieSS/Yuedu/raw/master/bookSource.json
+
+一程丶（酷安大佬488源）：https://gitee.com/vpq/codes/ez5qu1ifx260layps3b7981/raw?blob_name=3.0sy.json
+
+狼火霸世（酷安大佬439源）：https://gedoor.github.io/MyBookshelf/bookSource.json
+
+狼火霸世（酷安大佬1537源）：https://cdn.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io@1.1/202003.txt
+
+狼火霸世（酷安大佬717源）：https://cdn.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/yeudu3.0-202005.json
+
+南笙星辰（八月精简177源）：https://gitee.com/ch4nge/readbook/raw/master/booksoure
+
+南笙星辰（九月维护177源）：https://gitee.com/ch4nge/readbook/raw/master/booksource9
+
+关耳大佬（酷安大佬听歌源）：https://gitee.com/zmn1307617161/booksource/raw/master/%E4%B9%A6%E6%BA%90/3%E4%B8%AA%E9%9F%B3%E4%B9%90%E6%BA%90.json
+
+山高水长(微信圈子整理废卢书源)：https://gitee.com/ch4nge/readbook/raw/master/booksource_fl
+
+渡边美波（精选优质28源合集）：https://gitee.com/ch4nge/readbook/raw/master/booksource_jx
+
+狼火霸世（精选优质合集 2.0 3.0都可以用）：https://gitee.com/ch4nge/readbook/raw/master/booksource_lhbs
+
+破冰6(有声书源22合集)：https://gitee.com/ch4nge/readbook/raw/master/booksources_ts
+
+南笙星辰（2020.12.7更新177源）：https://gitee.com/ch4nge/readbook/raw/master/booksource_177
+
+不是玄奇（搜索引擎书源）：https://gitee.com/no-mystery/bushixuanqi-quanwangsoushu/raw/master/%E5%85%A8%E7%BD%91%E6%90%9C%E4%B9%A6(%E7%99%BE%E5%BA%A6%E3%80%81%E8%B0%B7%E6%AD%8C%E3%80%81%E5%A4%B8%E5%85%8B).json
+
+> #### 猫影视接口
 
 https://c1n.cn/2
 
