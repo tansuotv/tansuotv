@@ -1,5 +1,5 @@
 
-    🕥更新时间：2022-04-04 19:35
+    🕥更新时间：2022-04-05 15:03
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -7,13 +7,13 @@
 
 > #### ★★★★直播点播
 
-* [电视应用精选](https://app.emotn.com/share){:target="_blank"} - 电视端安装emotn后通过分享码`970380`食用★
+* [电视应用精选](https://app.emotn.com/share){:target="_blank"} - 电视端安装emotn后通过分享码`970380`食用
 
 * [电视家](https://www.idianshijia.com/){:target="_blank"}
 
-* [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"} - 需与直播源共同食用 `https://tvsee.github.io/diyp/tv.txt``https://t.tansuo.tv/jxtv.txt`★
+* [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"} - 需与直播源共同食用 `https://tvsee.github.io/diyp/tv.txt``https://t.tansuo.tv/jxtv.txt`
 
-* [太阳直播](https://teyonds.lanzoux.com/tytv){:target="_blank"}
+* [太阳直播](https://teyonds.lanzoux.com/tytv){:target="_blank"}★
 
 * [超级iTV](https://teyonds.lanzouw.com/i6Sr3zzmqkd){:target="_blank"}
 
@@ -26,6 +26,8 @@
 * [293影院（收费）](http://www.293vod.com/zy.html){:target="_blank"}
 
 * [猫影视TV](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} - 接口地址在本页面最底端★
+
+* [BiuBiu播放器](https://teyonds.lanzouw.com/itX9C025l3ob){:target="_blank"} - 全局接口`http://tyzx.weetai.cn/bbtv/1.json`★
 
 * 深蓝影库（收费） - 注册限制，需要的找我
 
