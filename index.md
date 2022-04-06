@@ -5,7 +5,7 @@
 
 ## 0.特别推荐
 
-> #### ★★★★直播点播
+> #### ★★★★看视频
 
 * [电视应用精选](https://app.emotn.com/share){:target="_blank"} - 电视端安装emotn后通过分享码`970380`食用
 
@@ -31,7 +31,13 @@
 
 * 深蓝影库（收费） - 注册限制，需要的找我
 
-> #### ★★★★大佬合集
+> #### ★★★★听音乐
+
+* [椒盐音乐](https://moriafly.xyz/HiMoriafly/salt-player/){:target="_blank"} - 好用的安卓本地音乐播放器★
+
+* [歌词适配](https://gcsp.lanzouo.com/i21EBzigi7e){:target="_blank"} - 你要的音乐这里都有★
+
+> #### ★★★★抱大佬
 
 * [太阳网盘](http://teyonds.ysepan.com/){:target="_blank"}
 
