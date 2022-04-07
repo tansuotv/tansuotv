@@ -7,8 +7,6 @@
 
 > #### ★★★★看视频
 
-* [电视应用精选](https://app.emotn.com/share){:target="_blank"} - 电视端安装emotn后通过分享码`970380`食用
-
 * [电视家](https://www.idianshijia.com/){:target="_blank"}
 
 * [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"} - 需与直播源共同食用 `https://tvsee.github.io/diyp/tv.txt``https://t.tansuo.tv/jxtv.txt`
@@ -53,6 +51,10 @@
 * [423Down安卓视频应用合集](https://423down.lanzouo.com/b0f1944aj){:target="_blank"}
 
 * [全球IPTV直播源](https://github.com/iptv-org/iptv){:target="_blank"} - 根据内容、语言、国家分类M3U频道列表
+
+* [电视应用精选](https://app.emotn.com/share){:target="_blank"} - 电视端安装emotn后通过分享码`970380`食用
+
+* [安卓应用集合](https://tansuo.lanzoub.com/b01592xri){:target="_blank"}
 
 ![image](https://t.tansuo.tv/img/t2.jpg)
 
