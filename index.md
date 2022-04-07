@@ -1,5 +1,5 @@
 
-    🕥更新时间：2022-04-05 15:03
+    🕥更新时间：2022-04-07 11:17
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -29,11 +29,11 @@
 
 * [BiuBiu播放器](https://teyonds.lanzouw.com/itX9C025l3ob){:target="_blank"} - 全局接口`http://tyzx.weetai.cn/bbtv/1.json`★
 
-* 深蓝影库（收费） - 注册限制，需要的找我
+* **深蓝影库（收费）** - 注册限制，需要的去[TG群找我](https://t.me/tansuo){:target="_blank"}
 
 > #### ★★★★听音乐
 
-* Spotify全家桶 - [安卓解锁高级版（去限制、去广告）](https://423down.lanzouo.com/b0f2b551a){:target="_blank"} [电脑Win重制版（去限制、去广告）](https://wwa.lanzouo.com/iwrCttph8uj){:target="_blank"}密`52pj` [Macsome Spotify Downloader（去限制、下载歌曲）](https://pan.baidu.com/s/1_R7sPf3uxiig52e-xBsfeA?pwd=eu8i){:target="_blank"}密`eu8i`
+* **Spotify全家桶** - [安卓解锁高级版（去限制、去广告）](https://423down.lanzouo.com/b0f2b551a){:target="_blank"} [电脑Win重制版（去限制、去广告）](https://wwa.lanzouo.com/iwrCttph8uj){:target="_blank"}密`52pj` [Macsome Spotify Downloader（去限制、下载歌曲）](https://pan.baidu.com/s/1_R7sPf3uxiig52e-xBsfeA?pwd=eu8i){:target="_blank"}密`eu8i`
 
 * [椒盐音乐](https://moriafly.xyz/HiMoriafly/salt-player/){:target="_blank"} - 好用的安卓本地音乐播放器★
 
