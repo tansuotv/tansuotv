@@ -33,7 +33,10 @@
 
 > #### ★★★★听音乐
 
-* **Spotify全家桶** - [安卓解锁高级版（去限制、去广告）](https://423down.lanzouo.com/b0f2b551a){:target="_blank"} [电脑Win重制版（去限制、去广告）](https://wwa.lanzouo.com/iwrCttph8uj){:target="_blank"}密`52pj` [Macsome Spotify Downloader（去限制、下载歌曲）](https://pan.baidu.com/s/1_R7sPf3uxiig52e-xBsfeA?pwd=eu8i){:target="_blank"}密`eu8i`
+* **Spotify全家桶**<br/>
+[安卓解锁高级版（去限制、去广告）](https://423down.lanzouo.com/b0f2b551a){:target="_blank"}<br/>
+[电脑Win重制版（去限制、去广告）](https://wwa.lanzouo.com/iwrCttph8uj){:target="_blank"}密`52pj`<br/>
+[Macsome Spotify Downloader（去限制、下载歌曲）](https://pan.baidu.com/s/1_R7sPf3uxiig52e-xBsfeA?pwd=eu8i){:target="_blank"}密`eu8i`
 
 * [椒盐音乐](https://moriafly.xyz/HiMoriafly/salt-player/){:target="_blank"} - 好用的安卓本地音乐播放器★
 
