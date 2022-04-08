@@ -36,9 +36,11 @@
 [电脑Win重制版（去限制、去广告）](https://wwa.lanzouo.com/iwrCttph8uj){:target="_blank"}密`52pj`<br/>
 [Macsome Spotify Downloader（去限制、下载歌曲）](https://pan.baidu.com/s/1_R7sPf3uxiig52e-xBsfeA?pwd=eu8i){:target="_blank"}密`eu8i`
 
-* [椒盐音乐](https://moriafly.xyz/HiMoriafly/salt-player/){:target="_blank"} - 好用的安卓本地音乐播放器★
+* [椒盐音乐](https://moriafly.xyz/HiMoriafly/salt-player/){:target="_blank"} - 好用的安卓本地音乐播放器
 
-* [歌词适配](https://gcsp.lanzouo.com/i21EBzigi7e){:target="_blank"} - 你要的音乐这里都有★
+* [歌词适配](https://gcsp.lanzouo.com/i21EBzigi7e){:target="_blank"} - 你要的音乐这里都有
+
+* [MyRadio全球收音机](https://lanzoux.com/iU1C8vlyr9c/){:target="_blank"} - [官网](https://guloolootech.com/2021/05/25/my-radio-a-free-radio-station-app/){:target="_blank"}★
 
 > #### ★★★★抱大佬
 
