@@ -9,7 +9,7 @@
 
 * [电视家](https://www.idianshijia.com/){:target="_blank"}
 
-* [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"} - 需与直播源共同食用 `https://tvsee.github.io/diyp/tv.txt``https://t.tansuo.tv/jxtv.txt`
+* [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"} - 需与直播源共同食用 `https://tvsee.github.io/diyp/tv.txt``https://iptv-org.github.io/iptv/index.nsfw.m3u`
 
 * [太阳直播](https://teyonds.lanzoux.com/tytv){:target="_blank"}★
 
