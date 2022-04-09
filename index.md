@@ -7,9 +7,9 @@
 
 > #### ★★★★看视频
 
-* [电视家](https://www.idianshijia.com/){:target="_blank"}
+* [电视家](https://www.idianshijia.com/){:target="_blank"}★
 
-* [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"} - 需与直播源共同食用 `https://tvsee.github.io/diyp/tv.txt``https://iptv-org.github.io/iptv/index.nsfw.m3u`
+* [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"} - 需与直播源共同食用 `https://tvsee.github.io/diyp/tv.txt``https://iptv-org.github.io/iptv/index.nsfw.m3u`★
 
 * [太阳直播](https://teyonds.lanzoux.com/tytv){:target="_blank"}★
 
@@ -31,14 +31,14 @@
 
 > #### ★★★★听音乐
 
-* **Spotify全家桶**<br/>
+* **Spotify全家桶**<br/>★
 [安卓解锁高级版（去限制、去广告）](https://423down.lanzouo.com/b0f2b551a){:target="_blank"}<br/>
 [电脑Win重制版（去限制、去广告）](https://wwa.lanzouo.com/iwrCttph8uj){:target="_blank"}密`52pj`<br/>
 [Macsome Spotify Downloader（去限制、下载歌曲）](https://pan.baidu.com/s/1_R7sPf3uxiig52e-xBsfeA?pwd=eu8i){:target="_blank"}密`eu8i`
 
-* [椒盐音乐](https://moriafly.xyz/HiMoriafly/salt-player/){:target="_blank"} - 好用的安卓本地音乐播放器
+* [椒盐音乐](https://moriafly.xyz/HiMoriafly/salt-player/){:target="_blank"} - 好用的安卓本地音乐播放器★
 
-* [歌词适配](https://gcsp.lanzouo.com/i21EBzigi7e){:target="_blank"} - 你要的音乐这里都有
+* [歌词适配](https://gcsp.lanzouo.com/i21EBzigi7e){:target="_blank"} - 你要的音乐这里都有★
 
 * [MyRadio全球收音机](https://lanzoux.com/iU1C8vlyr9c/){:target="_blank"} - [官网](https://guloolootech.com/2021/05/25/my-radio-a-free-radio-station-app/){:target="_blank"}★
 
@@ -204,7 +204,7 @@
 
 * [Wox GitHub](https://github.com/Wox-launcher/Wox/releases){:target="_blank"} [官网](https://www.wox.one){:target="_blank"} - Windows效率工具★
 
-* [Everything](https://www.voidtools.com/zh-cn){:target="_blank"} - 快速搜索王者
+* [Everything](https://www.voidtools.com/zh-cn){:target="_blank"} - 快速搜索王者★
 
 * [StartAllBack Win11开始菜单增强工具破解版](https://www.ghxi.com/startallback.html){:target="_blank"}
 
@@ -274,7 +274,7 @@
 
 * [IPTV PRO 破解版](https://www.423down.com/9788.html){:target="_blank"} - 配合全球IPTV播放源，中文频道`https://iptv-org.github.io/iptv/languages/zho.m3u`
 
-* YouTube Vanced - [官网](https://vancedapp.com/){:target="_blank"}，[GitHub](https://github.com/YTVanced/VancedManager){:target="_blank"}。先装Manager，再装microG，最后装Youtube vanced
+* YouTube Vanced - [官网](https://vancedapp.com/){:target="_blank"}，[GitHub](https://github.com/YTVanced/VancedManager){:target="_blank"}。[下载地址①](https://d.vancedmanager.com/VancedManager_v2.6.2.apk){:target="_blank"} [下载地址②](https://tansuo.lanzoub.com/b017flgfg){:target="_blank"}密码`f22q` <br/>**安装方法** 先装Manager再进Manager里面装microG，最后装YouTube Vanced和YouTube Music Vanced。★★
 
 * [大师兄影视](https://tv.ci/app){:target="_blank"}
 
