@@ -1,5 +1,5 @@
 
-    🕥更新时间：2022-04-07 11:17
+    🕥更新时间：2022-04-09 17:00
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -7,6 +7,14 @@
 
 > #### ★★★★看视频
 
+* YouTube Vanced ★★<br/>
+
+[官网](https://vancedapp.com/){:target="_blank"}，[GitHub](https://github.com/YTVanced/VancedManager){:target="_blank"}<br/>
+[下载地址①](https://d.vancedmanager.com/VancedManager_v2.6.2.apk){:target="_blank"} [下载地址②](https://tansuo.lanzoub.com/b017flgfg){:target="_blank"}密码`f22q` <br/>
+**安装方法**<br/>
+先装Manager再进Manager里面装microG 最后装YouTube Vanced和YouTube Music Vanced
+详细介绍：[点击这里](https://vancedmanager.com/){:target="_blank"}
+ 
 * [电视家](https://www.idianshijia.com/){:target="_blank"}★
 
 * [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"} - 需与直播源共同食用 `https://tvsee.github.io/diyp/tv.txt``https://iptv-org.github.io/iptv/index.nsfw.m3u`★
@@ -273,8 +281,6 @@
 * [太阳直播](https://teyonds.lanzouw.com/iRwbgx9teaf){:target="_blank"} - 看境内电视直播首选，密码`2022`★
 
 * [IPTV PRO 破解版](https://www.423down.com/9788.html){:target="_blank"} - 配合全球IPTV播放源，中文频道`https://iptv-org.github.io/iptv/languages/zho.m3u`
-
-* YouTube Vanced - [官网](https://vancedapp.com/){:target="_blank"}，[GitHub](https://github.com/YTVanced/VancedManager){:target="_blank"}。[下载地址①](https://d.vancedmanager.com/VancedManager_v2.6.2.apk){:target="_blank"} [下载地址②](https://tansuo.lanzoub.com/b017flgfg){:target="_blank"}密码`f22q` <br/>**安装方法** 先装Manager再进Manager里面装microG，最后装YouTube Vanced和YouTube Music Vanced。★★
 
 * [大师兄影视](https://tv.ci/app){:target="_blank"}
 
