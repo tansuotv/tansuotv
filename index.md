@@ -1,5 +1,5 @@
 
-    🕥更新时间：2022-04-09 17:00
+    🕥更新时间：2022-04-10 20:44
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -13,7 +13,11 @@
 **安装方法**<br/>
 先装Manager再进Manager里面装microG 最后装YouTube Vanced和YouTube Music Vanced<br/>
 详细介绍：[点击这里](https://vancedmanager.com/){:target="_blank"}
- 
+
+* NewPipe ★★<br/>
+[官网](https://newpipe.net/){:target="_blank"} [GitHub](https://github.com/TeamNewPipe/NewPipe){:target="_blank"} [下载](https://github.com/TeamNewPipe/NewPipe/releases){:target="_blank"}<br/>
+YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanced的有力补充
+
 * [电视家](https://www.idianshijia.com/){:target="_blank"}★
 
 * [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"} - 需与直播源共同食用 `https://tvsee.github.io/diyp/tv.txt``https://iptv-org.github.io/iptv/index.nsfw.m3u`★
