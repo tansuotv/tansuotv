@@ -38,8 +38,6 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [BiuBiu播放器](https://teyonds.lanzouw.com/itX9C025l3ob){:target="_blank"} - 全局接口`http://tyzx.weetai.cn/bbtv/1.json`★
 
-* **深蓝影库（收费）** - 注册限制，需要的去[TG群找我](https://t.me/tansuo){:target="_blank"}
-
 > #### ★★★★听音乐
 
 * **Spotify全家桶**★★<br/>
