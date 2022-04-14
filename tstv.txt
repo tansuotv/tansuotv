@@ -45,6 +45,7 @@ Discovery Science,http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFKY0ECm
 凤凰资讯,http://117.169.119.199:8080/live/fhzixun/index.m3u8
 翡翠台,http://cdn99.one:80/356195/FgHq4u/103509.ts
 港台电视31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_5400_av-p.m3u8?sd=10&rebase=on
+有线新闻台,https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-3b9423a2-1649950465-1650037045-782ae765c512c55713a70c8e0cd521e2-8da1e6fbb43596d_83b-03/freehd209_h.live/chunklist_w703564817.m3u8
 东森新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
 东森财经新闻,http://seb.sason.top/sc/dscjxw_fhd.m3u8
 台视新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw
