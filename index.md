@@ -1,5 +1,5 @@
 
-    🕥更新时间：2022-04-15 22:59
+    🕥更新时间：2022-04-15 23:08
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -7,7 +7,7 @@
 
 > #### ★★★★看视频
 
-* [<font face="微软雅黑" color=red size=4>2022最新全球电视IPTV直播源吸星大法</font>](https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan){:target="_blank"}★★
+* [<font face="微软雅黑" color=red size=4>2022最新全球电视IPTV直播源吸星大法</font>](https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan){:target="_blank"} 解压密码`tansuo.tv`★★
 
 * YouTube Vanced ★★<br/>
 [官网](https://vancedapp.com/){:target="_blank"}，[GitHub](https://github.com/YTVanced/VancedManager){:target="_blank"}<br/>
