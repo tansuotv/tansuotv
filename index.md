@@ -1,11 +1,13 @@
 
-    🕥更新时间：2022-04-10 20:44
+    🕥更新时间：2022-04-15 22:59
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
 ## 0.特别推荐
 
 > #### ★★★★看视频
+
+*[<font color=red>2022最新全球电视IPTV直播源吸星大法</font>](https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan){:target="_blank"}★★
 
 * YouTube Vanced ★★<br/>
 [官网](https://vancedapp.com/){:target="_blank"}，[GitHub](https://github.com/YTVanced/VancedManager){:target="_blank"}<br/>
