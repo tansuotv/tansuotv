@@ -7,7 +7,7 @@
 
 > #### ★★★★看视频
 
-* [<font color=red>2022最新全球电视IPTV直播源吸星大法</font>](https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan){:target="_blank"}★★
+* [<font face="微软雅黑" color=red size=4>2022最新全球电视IPTV直播源吸星大法</font>](https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan){:target="_blank"}★★
 
 * YouTube Vanced ★★<br/>
 [官网](https://vancedapp.com/){:target="_blank"}，[GitHub](https://github.com/YTVanced/VancedManager){:target="_blank"}<br/>
