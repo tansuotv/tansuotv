@@ -1,4 +1,5 @@
 ■ zhiboyuan.zip里面是我收集的超级稳定直播源，以及下面的工具（不含播放器）。
+■ 播放器，去这里下载：https://tansuo.lanzoub.com/b01592xri 。
 
 ■ 列表制作转换工具TeleList
 可以将txt和m3u文件互相转换。
