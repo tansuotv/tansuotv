@@ -7,7 +7,7 @@
 
 > #### ★★★★看视频
 
-* [<font color=red size=4>2022最新全球电视IPTV直播源吸星大法</font>](https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan){:target="_blank"} 解压密码`tansuo.tv`★★
+* [<font color=red size=4>2022最新全球电视IPTV直播源吸星大法</font>](https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan){:target="_blank"} 解压密码`tansuo.tv`★★<br/>本人维护的直播源`https://t.tansuo.tv/tv.txt` 使用DIYP在接口设置中导入即可，EPG节目信息接口`http://epg.51zmt.top:8000/api/diyp/`
 
 * YouTube Vanced ★★<br/>
 [官网](https://vancedapp.com/){:target="_blank"}，[GitHub](https://github.com/YTVanced/VancedManager){:target="_blank"}<br/>
