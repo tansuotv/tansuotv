@@ -1,5 +1,5 @@
 
-    🕥更新时间：2022-04-17 01:05
+    🕥更新时间：2022-04-17 18:07
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -27,6 +27,8 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [太阳直播](https://teyonds.lanzoux.com/tytv){:target="_blank"}★
 
+* 阿刚TV 免费无广告的高清电视直播APP★<br/>[官网](https://www.isharepc.com/32043.html){:target="_blank"} [下载地址](https://isharepc.lanzoul.com/iXG2502e1bfe)
+
 * [超级iTV](https://teyonds.lanzouw.com/i6Sr3zzmqkd){:target="_blank"}
 
 * [GoTV（收费）](http://www.iptv16.com/downloads/){:target="_blank"}
@@ -37,7 +39,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [293影院（收费）](http://www.293vod.com/zy.html){:target="_blank"}
 
-* [猫影视TV](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} - 接口地址在本页面最底端★
+* [猫影视TV最新版](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} - 接口地址在本页面最底端★
 
 * [BiuBiu播放器](https://teyonds.lanzouw.com/itX9C025l3ob){:target="_blank"} - 全局接口`http://tyzx.weetai.cn/bbtv/1.json`★
 
@@ -452,7 +454,9 @@ XIU2精品（备）`https://cdn.jsdelivr.net/gh/XIU2/Yuedu/shuyuan`
 
 `https://gitee.com/no-mystery/bushixuanqi-quanwangsoushu/raw/master/%E5%85%A8%E7%BD%91%E6%90%9C%E4%B9%A6(%E7%99%BE%E5%BA%A6%E3%80%81%E8%B0%B7%E6%AD%8C%E3%80%81%E5%A4%B8%E5%85%8B).json`
 
-> #### 猫影视接口
+> #### 猫影视TV接口
+
+http://tyzx.weetai.cn/mtv/jk.json ★
 
 https://gitee.com/tv88/v1/raw/master/v1;pk;743073078
 
