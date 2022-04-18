@@ -29,7 +29,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * 阿刚TV 免费无广告的高清电视直播APP★<br/>[官网](https://www.isharepc.com/32043.html){:target="_blank"} [下载地址](https://isharepc.lanzoul.com/iXG2502e1bfe)
 
-* [超级iTV](https://teyonds.lanzouw.com/i6Sr3zzmqkd){:target="_blank"}
+* [超级iTV](https://tansuo.lanzoub.com/b01592xri){:target="_blank"}★★
 
 * [GoTV（收费）](http://www.iptv16.com/downloads/){:target="_blank"}
 
