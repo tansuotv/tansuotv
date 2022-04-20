@@ -1,5 +1,5 @@
 
-    🕥更新时间：2022-04-18 17:02
+    🕥更新时间：2022-04-20 18:06
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -33,11 +33,13 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [GoTV（收费）](http://www.iptv16.com/downloads/){:target="_blank"}
 
+* [293影院（收费）](http://www.293vod.com/zy.html){:target="_blank"}
+
 * [饭团影院](https://fantuan.tv/APP/){:target="_blank"}
 
 * [泥巴影院（梯子）](https://www.nbyy.tv){:target="_blank"}
 
-* [293影院（收费）](http://www.293vod.com/zy.html){:target="_blank"}
+* [鸡盒盘](https://jihepan.com/){:target="_blank"} 阿里云盘资源免费分享永久汇总页★★
 
 * [猫影视TV最新版](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} - 接口地址在本页面最底端★
 
@@ -58,7 +60,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 > #### ★★★★抱大佬
 
-* [太阳网盘](http://teyonds.ysepan.com/){:target="_blank"}
+* [太阳网盘](http://teyonds.ysepan.com/){:target="_blank"}★★
 
 * [盒子地窖](http://www.wmsio.cn){:target="_blank"}
 
