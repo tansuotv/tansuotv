@@ -39,7 +39,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [泥巴影院（梯子）](https://www.nbyy.tv){:target="_blank"}
 
-* [鸡盒盘](https://jihepan.com/){:target="_blank"} 阿里云盘资源免费分享永久汇总页★★
+* [鸡盒盘](https://jihepan.com/){:target="_blank"} 阿里云盘资源免费分享永久汇总页★★<br/>[<font color=red>阿里云盘TV官网</font>](https://aliyunpantv.gitlab.io/){:target="_blank"}
 
 * [猫影视TV最新版](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} - 接口地址在本页面最底端★
 
