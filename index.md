@@ -60,7 +60,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 > #### ★★★★玩游戏
 
-* [**小霸王**](https://www.yikm.net/){:target="_blank"} - 红白机 FC在线游戏 街机游戏 街机在线★★
+* [<font color=red>小霸王</font>](https://www.yikm.net/){:target="_blank"} - 红白机 FC在线游戏 街机游戏 街机在线★★
 
 * [扫雷游戏在线玩](https://www.saolei123.com/){:target="_blank"} - 还有五子棋、黑白棋、塔防、数独、找色差、2048、迷宫
 
