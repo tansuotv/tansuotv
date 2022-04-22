@@ -1,5 +1,5 @@
 
-    🕥更新时间：2022-04-20 18:06
+    🕥更新时间：2022-04-22 17:40
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -57,6 +57,14 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 * [歌词适配](https://gcsp.lanzouo.com/i21EBzigi7e){:target="_blank"} - 你要的音乐这里都有★
 
 * [MyRadio全球收音机](https://lanzoux.com/iU1C8vlyr9c/){:target="_blank"} - [官网](https://guloolootech.com/2021/05/25/my-radio-a-free-radio-station-app/){:target="_blank"}★
+
+> #### ★★★★玩游戏
+
+* [**小霸王**](https://www.yikm.net/){:target="_blank"} - 红白机 FC在线游戏 街机游戏 街机在线★★
+
+* [扫雷游戏在线玩](https://www.saolei123.com/){:target="_blank"} - 还有五子棋、黑白棋、塔防、数独、找色差、2048、迷宫
+
+* [红警在线](https://cncnet.org/red-alert){:target="_blank"}
 
 > #### ★★★★抱大佬
 
