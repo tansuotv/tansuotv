@@ -1,5 +1,5 @@
 
-    🕥更新时间：2022-04-22 17:40
+    🕥更新时间：2022-04-24 10:30  ★按住 ctrl+F 快速找到你要的内容
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -7,7 +7,9 @@
 
 > #### ★★★★看视频
 
-* [<font color=red size=4>2022最新全球电视IPTV直播源吸星大法</font>](https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan){:target="_blank"} 解压密码`tansuo.tv`★★<br/>本人维护的直播源`https://t.tansuo.tv/tv.txt` 使用DIYP在接口设置中导入即可，EPG节目信息接口`http://epg.51zmt.top:8000/api/diyp/`<br/>[EPG大佬站点](http://epg.51zmt.top:8000/){:target="_blank"}<br/>找到的两个超稳定直播源：<br/>`https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u`<br/>
+[<font color=red>黑鸟播放器</font>](https://guihet.com/blackbird-player.html){:target="_blank"} PC端看电视直播神器
+
+* [2022最新全球电视IPTV直播源吸星大法</font>](https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan){:target="_blank"} 解压密码`tansuo.tv`★★<br/>本人维护的直播源`https://t.tansuo.tv/tv.txt` 使用DIYP在接口设置中导入即可，EPG节目信息接口`http://epg.51zmt.top:8000/api/diyp/`<br/>[EPG大佬站点](http://epg.51zmt.top:8000/){:target="_blank"}<br/>找到的两个超稳定直播源：<br/>`https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u`<br/>
 `https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u`
 
 * YouTube Vanced ★★<br/>
