@@ -552,5 +552,7 @@ https://netcut.cn/p/fdd1fe928a529b31;pk;catyking520
 https://mc.c1n.cn;pk;123456
 
 <hr />
+
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<p align="center"><span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span></p>
+<p align="center"><span id="busuanzi_container_site_pv">探索TV 发现更美 PV <span id="busuanzi_value_site_pv"></span></span></p>
+
