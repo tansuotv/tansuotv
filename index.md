@@ -1,6 +1,3 @@
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<p align="center"><span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span></p>
-
     🕥更新时间：2022-04-26 09:47  ● ctrl+F 快速找到你要的内容
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
@@ -553,3 +550,7 @@ https://gitee.com/wyy007cn/tv/raw/master/tv1.json
 https://netcut.cn/p/fdd1fe928a529b31;pk;catyking520
 
 https://mc.c1n.cn;pk;123456
+
+<hr />
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<p align="center"><span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span></p>
