@@ -1,5 +1,5 @@
 
-    🕥更新时间：2022-04-24 10:34  ●按住 ctrl+F 快速找到你要的内容
+    🕥更新时间：2022-04-26 09:47  ●<font color=red>ctrl+F</font>快速找到你要的内容
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -94,6 +94,8 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 * [泥巴影院（梯子）](https://www.nbyy.tv){:target="_blank"} - 在线观看电影电视节目★
 
 * [片吧影院](https://www.pianba.tv){:target="_blank"}★
+
+* [茶杯狐](https://www.cupfox.app){:target="_blank"}★
 
 * [嗯哩嗯哩](https://enlienli.com){:target="_blank"} - 收集互联网主流视频网站内容
 
@@ -313,7 +315,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 > #### 其他应用
 
-* [开源阅读](https://www.legado.top/){:target="_blank"} - 不只是阅读神器★★
+* [开源阅读](https://www.legado.top/){:target="_blank"} - 不只是阅读神器★★<font color=red>Z-Library电子书搜索下载</font> [1通用网址](https://1lib.domains){:target="_blank"} [2海外网址](https://z-lib.org/){:target="_blank"}
 
 * [微软TTS](https://github.com/ag2s20150909/TTS/releases){:target="_blank"} - ↑↑开源阅读语音引擎，手机安装TTS可支持朗读中文（小米好像不装就可以）
 
