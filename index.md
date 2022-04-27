@@ -1,4 +1,4 @@
-    🕥更新时间：2022-04-26 09:47  ● ctrl+F 快速找到你要的内容
+    🕥更新时间：2022-04-27 19:11  ● ctrl+F 快速寻找
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -94,7 +94,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [片吧影院](https://www.pianba.tv){:target="_blank"}★
 
-* [茶杯狐](https://www.cupfox.app){:target="_blank"}★
+* [<font color=red>茶杯狐 Cupfox </font>](https://www.cupfox.app){:target="_blank"} - 努力让找电影变得简单★
 
 * [嗯哩嗯哩](https://enlienli.com){:target="_blank"} - 收集互联网主流视频网站内容
 
