@@ -198,6 +198,8 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [烈火新站 app热](https://apphot.cc){:target="_blank"} - 点亮未来 见证精彩
 
+* [<font color=red>CloudBox</font>](https://note.youdao.com/ynoteshare/index.html?id=d86269fb8e2c30850a2f993ddcc1c1c5){:target="_blank"} - 超牛聚合工具箱，仅10M不到，内置近两百款实用工具★★
+
 > #### 下载Windows系统
 
 * [itellyou新版](https://next.itellyou.cn){:target="_blank"} - WINDOWS11系统原版
