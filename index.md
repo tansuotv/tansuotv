@@ -1,4 +1,4 @@
-    🕥更新时间：2022-04-28 16:58  ● ctrl+F 快速寻找
+    🕥更新时间：2022-04-29 22:49  ● ctrl+F 快速寻找
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -81,7 +81,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [电视应用精选](https://app.emotn.com/share){:target="_blank"} - 电视端安装emotn后通过分享码`970380`食用
 
-* [安卓应用集合](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} [应用市场集合](https://tansuo.lanzoub.com/b017g34qd){:target="_blank"}
+* [<font color=red>安卓应用集合</font>](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} [应用市场集合](https://tansuo.lanzoub.com/b017g34qd){:target="_blank"}
 密码`979l`
 
 ![image](https://t.tansuo.tv/img/t2.jpg)
