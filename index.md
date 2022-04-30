@@ -1,4 +1,4 @@
-    🕥更新时间：2022-04-30 19:15  ● ctrl+F 快速寻找
+    🕥更新时间：2022-04-30 21:16  ● ctrl+F 快速寻找
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -338,7 +338,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [清浊](https://www.dircleaner.com){:target="_blank"} - 简洁清理工具
 
-* [李跳跳](https://wwi.lanzouw.com/irNH3yi439i){:target="_blank"} - 自动跳过启动页广告
+* [李跳跳 派大星 2.01最新版官方下载](https://wwe.lanzouw.com/b01v0g3wj){:target="_blank"} - 密码`1233` 自动跳过启动页广告
 
 ![image](https://t.tansuo.tv/img/t2.jpg)
 
