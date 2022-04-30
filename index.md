@@ -114,9 +114,9 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [37OU电影（梯子）](https://www.37ou.com){:target="_blank"}
 
-* [片吧影院](https://www.pianba.tv){:target="_blank"}★
-
 * [<font color=red>茶杯狐 Cupfox </font>](https://www.cupfox.app){:target="_blank"} - 努力让找电影变得简单★
+
+* [片吧影院](https://www.pianba.tv){:target="_blank"}
 
 * [嗯哩嗯哩](https://enlienli.com){:target="_blank"} - 收集互联网主流视频网站内容
 
