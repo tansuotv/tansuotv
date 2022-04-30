@@ -1,4 +1,4 @@
-    🕥更新时间：2022-04-30 14:08  ● ctrl+F 快速寻找
+    🕥更新时间：2022-04-30 19:15  ● ctrl+F 快速寻找
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -94,6 +94,24 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [泥巴影院（梯子）](https://www.nbyy.tv){:target="_blank"} - 在线观看电影电视节目★
 
+* [欧乐影院（梯子）](https://www.olevod.com){:target="_blank"}
+
+* [HOHO TV（梯子）](https://hoho.tv){:target="_blank"} - 海外华人在线影视平台
+
+* [剧Q（梯子）](https://dramasq.biz){:target="_blank"}
+
+* [剧迷影音（梯子）](https://gimytv.com){:target="_blank"}
+
+* [在线之家（梯子）](www.zxzjtv.com){:target="_blank"}
+
+* [独播库（梯子）](https://www.duboku.tv){:target="_blank"}
+
+* [NO视频（梯子）](https://www.novipnoad.com){:target="_blank"} - 不负追剧好时光
+
+* [555电影（梯子）](https://www.5ying.fun){:target="_blank"}
+
+* [谍影网（梯子）](https://tvdie.cc){:target="_blank"}
+
 * [片吧影院](https://www.pianba.tv){:target="_blank"}★
 
 * [<font color=red>茶杯狐 Cupfox </font>](https://www.cupfox.app){:target="_blank"} - 努力让找电影变得简单★
@@ -101,12 +119,6 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 * [嗯哩嗯哩](https://enlienli.com){:target="_blank"} - 收集互联网主流视频网站内容
 
 * [思乐影视](https://www.4ltv.com){:target="_blank"} - 观影追剧
-
-* [555电影](https://www.555dy.me){:target="_blank"}
-
-* [独播库](https://www.duboku.tv){:target="_blank"}
-
-* [剧迷影音](https://gimytv.com){:target="_blank"}
 
 * [天天影院](https://www.ttkb.cc){:target="_blank"}
 
@@ -123,8 +135,6 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 * [凌云影视](https://www.lingyun.tv){:target="_blank"} - 全网最近好看的影视聚合下载
 
 * [BL解析](https://vip.bljiex.cc){:target="_blank"} - VIP视频在线解析
-
-* [NO视频](https://www.novipnoad.com){:target="_blank"} - 不负追剧好时光
 
 * [555电影](https://www.o8tv.com){:target="_blank"} - 免费VIP资源在线看
 
