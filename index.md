@@ -338,7 +338,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [清浊](https://www.dircleaner.com){:target="_blank"} - 简洁清理工具
 
-* [李跳跳 派大星 2.01最新版官方下载](https://wwe.lanzouw.com/b01v0g3wj){:target="_blank"} - 密码`1233` 自动跳过启动页广告
+* [<font color=red>李跳跳 派大星 2.01最新版官方下载</font>](https://wwe.lanzouw.com/b01v0g3wj){:target="_blank"} - 密码`1233` 自动跳过启动页广告<br/>长按“更多”，进入全局参数设置，通过`{"toast_text":"小猪佩奇"}`可以自定义跳过广告时的提示，我用的是“玛卡巴卡”，更多参数设置可以点击“指南”
 
 ![image](https://t.tansuo.tv/img/t2.jpg)
 
