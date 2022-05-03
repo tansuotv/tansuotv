@@ -7,7 +7,12 @@
 > #### ★★★★看视频
 
 * <font color=red>剧荒？不可能！</font><br/>
-[影猫](https://www.mvcat.com){:target="_blank"} 有趣的灵魂+丰富的标签<br/>[猫眼专业版](https://piaofang.maoyan.com/dashboard){:target="_blank"} 实时数据：电影票房+网播热度+电视收视<br/>[Trakt](https://trakt.tv){:target="_blank"} 追踪、整理、发现<br/>[TMDB](https://www.themoviedb.org){:target="_blank"} [IMDB](https://www.imdb.com){:target="_blank"}<br/>[Bangumi 番组计划](https://bangumi.tv/){:target="_blank"} 动漫、书籍、音乐、游戏、三次元
+[①影猫](https://www.mvcat.com){:target="_blank"} 有趣的灵魂+丰富的标签<br/>
+[②猫眼专业版](https://piaofang.maoyan.com/dashboard){:target="_blank"} 实时数据：电影票房+网播热度+电视收视<br/>
+[③Trakt](https://trakt.tv){:target="_blank"} 追踪、整理、发现<br/>
+[④TMDB](https://www.themoviedb.org){:target="_blank"}<br/>
+[⑤IMDB](https://www.imdb.com){:target="_blank"}<br/>
+[⑥Bangumi 番组计划](https://bangumi.tv/){:target="_blank"} 动漫、书籍、音乐、游戏、三次元
 
 * [黑鸟播放器](https://guihet.com/blackbird-player.html){:target="_blank"} PC端看电视直播神器★★
 
