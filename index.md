@@ -252,6 +252,8 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 > #### 效率工具应用
 
+* [<font color=red>antdownload度盘下载神器</font>](https://wwt.lanzouy.com/iOqcC03yy3sd){:target="_blank"} - 全网最强，无需登陆，不怕封号，秒杀脚本直链★★
+
 * [Listary Pro破解版+Everything+FileLocator Pro](https://tansuo.lanzoub.com/if39Z01z860b){:target="_blank"} - 快速启动文件搜索合集
 
 * [Wox GitHub](https://github.com/Wox-launcher/Wox/releases){:target="_blank"} [官网](https://www.wox.one){:target="_blank"} - Windows效率工具★
