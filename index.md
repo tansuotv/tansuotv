@@ -1,4 +1,4 @@
-    2022-05-23 17:07更新 ctrl+F快速寻找
+     2022-05-23 17:07更新 | ctrl+F快速寻找
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
