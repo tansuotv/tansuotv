@@ -1,4 +1,4 @@
-     2022-05-23 17:07更新 | ctrl+F快速寻找
+     2022-05-24 12:00更新 | ctrl+F快速寻找
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -66,6 +66,8 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 * [歌词适配](https://gcsp.lanzouo.com/i21EBzigi7e){:target="_blank"} - 你要的音乐这里都有★
 
 * [MyRadio全球收音机](https://lanzoux.com/iU1C8vlyr9c/){:target="_blank"} - [官网](https://guloolootech.com/2021/05/25/my-radio-a-free-radio-station-app/){:target="_blank"}★
+
+* **卡音** - [官网](http://www.janz.plus/){:target="_blank"} [官网下载](https://zhoshuangquan.lanzouw.com/b015p86wd){:target="_blank"}
 
 > #### ★★★★玩游戏
 
