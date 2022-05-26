@@ -1,4 +1,4 @@
-     2022-05-24 12:00更新 | ctrl+F快速寻找
+     2022-05-26 10:37更新 | ctrl+F 快速寻找
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -38,7 +38,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * **阿刚TV** 免费无广告的高清电视直播APP★<br/>[官网](https://www.isharepc.com/32043.html){:target="_blank"} [下载地址](https://isharepc.lanzoul.com/iXG2502e1bfe)
 
-* [超级iTV](https://tansuo.lanzoub.com/b01592xri){:target="_blank"}★★
+* [<font color=red>超级iTV</font>](https://pan.lanzoui.com/b0aggpogd){:target="_blank"}★★
 
 * [GoTV（收费）](http://www.iptv16.com/downloads/){:target="_blank"}
 
@@ -67,7 +67,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [MyRadio全球收音机](https://lanzoux.com/iU1C8vlyr9c/){:target="_blank"} - [官网](https://guloolootech.com/2021/05/25/my-radio-a-free-radio-station-app/){:target="_blank"}★
 
-* **卡音** - [官网](http://www.janz.plus/){:target="_blank"} [官网下载](https://zhoshuangquan.lanzouw.com/b015p86wd){:target="_blank"}
+* **<font color=red>卡音</font>** - [官网](http://www.janz.plus/){:target="_blank"} [官网下载](https://zhoshuangquan.lanzouw.com/b015p86wd){:target="_blank"}
 
 > #### ★★★★玩游戏
 
