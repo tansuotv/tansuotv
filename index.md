@@ -46,11 +46,11 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [饭团影院](https://fantuan.tv/APP/){:target="_blank"}
 
-* [泥巴影院（梯子）](https://www.nbyy.tv){:target="_blank"}
+* [泥巴影院18+（梯子）](https://www.mudvod.tv/){:target="_blank"} [泥巴影院绿色版（梯子）](https://www.mudvod1.tv/){:target="_blank"}
 
 * [鸡盒盘](https://jihepan.com/){:target="_blank"} 阿里云盘资源免费分享永久汇总页★★<br/>[<font color=red>阿里云盘TV官网</font>](https://aliyunpantv.gitlab.io/){:target="_blank"}
 
-* [猫影视TV最新版](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} - 接口地址在本页面最底端★
+* [猫影视TV最新版 TV BOX](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} - <font color=red>焕新出发★</font>
 
 * [BiuBiu播放器](https://teyonds.lanzouw.com/itX9C025l3ob){:target="_blank"} - 全局接口`http://tyzx.weetai.cn/bbtv/1.json`★
 
