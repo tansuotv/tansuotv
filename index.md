@@ -1,4 +1,4 @@
-     2022-07-20 22:36更新 | ctrl+F 快速寻找
+     2022-07-26 19:08更新 | ctrl+F 快速寻找
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -50,7 +50,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [鸡盒盘](https://jihepan.com/){:target="_blank"} 阿里云盘资源免费分享永久汇总页★★<br/>[<font color=red>阿里云盘TV官网</font>](https://aliyunpantv.gitlab.io/){:target="_blank"}
 
-* [猫影视TV最新版 TV BOX](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} - <font color=red>焕新出发★</font>
+* [猫影视TV替换] [TV BOX Pro + 喵影视TV](https://tansuo.lanzoub.com/b01592xri){:target="_blank"}- <font color=red>焕新出发★</font>
 
 * [BiuBiu播放器](https://teyonds.lanzouw.com/itX9C025l3ob){:target="_blank"} - 全局接口`http://tyzx.weetai.cn/bbtv/1.json`★
 
