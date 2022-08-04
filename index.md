@@ -6,9 +6,12 @@
 
 > #### ★★★★看视频
 
-* <font color=red>★★TVBox接口★★</font>
-https://cdn.jsdelivr.net/gh/GDaily/TVbox@master/TVbox.text
-https://raw.githubusercontent.com/GDaily/TVbox/main/TVbox.text
+* <font color=red>★★TVBox在线接口★★</font>
+`https://cdn.jsdelivr.net/gh/GDaily/TVbox@master/TVbox.text`
+`https://raw.githubusercontent.com/GDaily/TVbox/main/TVbox.text`
+`https://pastebin.com/raw/sbPpDm9G`
+`https://kjsc0310.github.io/tvy/jk8.json`
+`https://kjsc0310.github.io/tvy/jk9.json`
 
 * 剧荒？不可能！
 [①影猫](https://www.mvcat.com){:target="_blank"} 有趣的灵魂+丰富的标签<br/>
