@@ -1,4 +1,4 @@
-     2022-07-26 19:08更新 | ctrl+F 快速寻找
+     2022-08-04 22:39更新 | ctrl+F 快速寻找
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -6,7 +6,11 @@
 
 > #### ★★★★看视频
 
-* <font color=red>剧荒？不可能！</font>
+* <font color=red>★★TVBox接口★★</font>
+https://cdn.jsdelivr.net/gh/GDaily/TVbox@master/TVbox.text
+https://raw.githubusercontent.com/GDaily/TVbox/main/TVbox.text
+
+* 剧荒？不可能！
 [①影猫](https://www.mvcat.com){:target="_blank"} 有趣的灵魂+丰富的标签<br/>
 [②猫眼专业版](https://piaofang.maoyan.com/dashboard){:target="_blank"} 实时数据：电影票房+网播热度+电视收视<br/>
 [③Trakt](https://trakt.tv){:target="_blank"} 追踪、整理、发现<br/>
@@ -173,6 +177,8 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 * [电影淘淘](https://www.dianyingtaotao.com){:target="_blank"} - 专业电影搜索引擎
 
 * [影猫推荐](https://www.mvcat.com){:target="_blank"} - 电影分类推荐
+
+* [<font color=red>VIP视频在线解析★★超级好用</font>](https://svip.bljiex.cc/){:target="_blank"}
 
 > #### 影视网盘下载
 
