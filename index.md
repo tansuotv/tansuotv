@@ -6,8 +6,7 @@
 
 > #### ★★★★看视频
 
-* <font color=red>★★TVBox接口★★</font><br/>
-①在线接口<br/>
+* <font color=red>★★TVBox接口★★</font><br/>①在线接口<br/>
 `https://cdn.jsdelivr.net/gh/GDaily/TVbox@master/TVbox.text`<br/>
 `https://raw.githubusercontent.com/GDaily/TVbox/main/TVbox.text`<br/>
 `https://pastebin.com/raw/sbPpDm9G`<br/>
