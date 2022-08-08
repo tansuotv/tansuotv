@@ -1,4 +1,4 @@
-     2022-08-04 22:39更新 | ctrl+F 快速寻找
+     2022-08-08 21:37更新 | ctrl+F 快速寻找
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -105,6 +105,8 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 密码`979l`
 
 * [Telegram中文搜索](http://www.sssoou.com){:target="_blank"}
+
+* [Leica徕卡相机](https://pan.baidu.com/s/16rvxge0BJYpyjFKZvtF6Kg?pwd=tans){:target="_blank"} - 根据手机机型选择安装和配置文件
 
 ![image](https://t.tansuo.tv/img/t2.jpg)
 
