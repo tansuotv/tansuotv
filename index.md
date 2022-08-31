@@ -6,7 +6,7 @@
 
 > #### ★★★★看视频
 
-* <font color=red>影视采集</font><br/>
+* <font color=red>影视采集</font>
 [红牛资源1080p](https://hongniuziyuan.com){:target="_blank"}<br/>
 [无尽资源](https://www.wujinzy.com){:target="_blank"}
 
@@ -21,9 +21,12 @@
 * [黑鸟播放器](https://guihet.com/blackbird-player.html){:target="_blank"} PC端看电视直播神器★★
 
 * [2022最新全球电视IPTV直播源吸星大法](https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan){:target="_blank"} 解压密码`tansuo.tv`★★<br/>
-两个超稳定直播源：<br/>`https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u`<br/>
+两个超稳定直播源↓↓↓<br/>
+`https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u`<br/>
 `https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u`<br/>
-EPG节目信息接口:`http://epg.51zmt.top:8000/api/diyp/`<br/>[EPG大佬站点](http://epg.51zmt.top:8000/){:target="_blank"}
+EPG节目信息接口↓↓↓<br/>
+`http://epg.51zmt.top:8000/api/diyp/`<br/>
+[EPG大佬站点](http://epg.51zmt.top:8000/){:target="_blank"}
 
 * YouTube Vanced ★★<br/>
 [官网](https://vancedapp.com/){:target="_blank"}，[GitHub](https://github.com/YTVanced/VancedManager){:target="_blank"}<br/>
