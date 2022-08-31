@@ -1,4 +1,4 @@
-     2022-08-08 21:37更新 | ctrl+F 快速寻找
+     2022-08-31 21:33更新 | ctrl+F 快速寻找
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -6,15 +6,9 @@
 
 > #### ★★★★看视频
 
-* <font color=red>TVBox接口</font>
-**①在线接口**<br/>
-`https://cdn.jsdelivr.net/gh/GDaily/TVbox@master/TVbox.text`<br/>
-`https://raw.githubusercontent.com/GDaily/TVbox/main/TVbox.text`<br/>
-`https://pastebin.com/raw/sbPpDm9G`<br/>
-`https://kjsc0310.github.io/tvy/jk8.json`<br/>
-`https://kjsc0310.github.io/tvy/jk9.json`<br/>
-**②本地接口**<br/>
-后续提供
+* <font color=red>影视采集</font>
+[红牛资源1080p](https://hongniuziyuan.com){:target="_blank"}
+[无尽资源](https://www.wujinzy.com){:target="_blank"}
 
 * 剧荒？不可能！<br/>
 [①影猫](https://www.mvcat.com){:target="_blank"} 有趣的灵魂+丰富的标签<br/>
@@ -509,7 +503,6 @@ XIU2精品（备）`https://cdn.jsdelivr.net/gh/XIU2/Yuedu/shuyuan`
 
 `https://gitee.com/no-mystery/bushixuanqi-quanwangsoushu/raw/master/%E5%85%A8%E7%BD%91%E6%90%9C%E4%B9%A6(%E7%99%BE%E5%BA%A6%E3%80%81%E8%B0%B7%E6%AD%8C%E3%80%81%E5%A4%B8%E5%85%8B).json`
 
-> #### 猫影视TV接口已失效，TV BOX焕新出发！
 
 <hr />
 
