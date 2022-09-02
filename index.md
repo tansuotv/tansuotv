@@ -1,17 +1,38 @@
-     2022-08-31 21:33更新 | ctrl+F 快速寻找
+     2022-09-02 18:23更新 | ctrl+F 快速寻找
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
 ## 0.特别推荐
 
+> #### ★★★★抱大佬
+
+* [太阳网盘](http://teyonds.ysepan.com/){:target="_blank"}★★★
+
+* [盒子地窖](http://www.wmsio.cn){:target="_blank"}
+
+* [烈火电视盒子手机直播应用合集](https://apphot.cc/27447.html){:target="_blank"}
+
+* [423Down安卓视频应用合集](https://423down.lanzouo.com/b0f1944aj){:target="_blank"}
+
+* [全球IPTV直播源](https://github.com/iptv-org/iptv){:target="_blank"} - 根据内容、语言、国家分类M3U频道列表★★★
+
+* [电视应用精选](https://app.emotn.com/share){:target="_blank"} - 电视端安装emotn后通过分享码`970380`食用
+
+* [<font color=red>安卓应用集合★★★</font>](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} [应用市场集合](https://tansuo.lanzoub.com/b017g34qd){:target="_blank"}
+密码`979l`
+
+* [Telegram中文搜索](http://www.sssoou.com){:target="_blank"}
+
+* [<font color=red>安卓手机秒变Leica徕卡相机</font>](https://pan.baidu.com/s/16rvxge0BJYpyjFKZvtF6Kg?pwd=tans){:target="_blank"} - 根据机型选择不同安装和配置文件
+
 > #### ★★★★看视频
 
 * <font color=red>影视采集</font>
-[红牛资源1080p](https://hongniuziyuan.com){:target="_blank"}<br/>
+[红牛资源1080p★★★](https://hongniuziyuan.com){:target="_blank"}<br/>
 [无尽资源](https://www.wujinzy.com){:target="_blank"}
 
 * 剧荒？不可能！<br/>
-[①影猫](https://www.mvcat.com){:target="_blank"} 有趣的灵魂+丰富的标签<br/>
+[①影猫](https://www.mvcat.com){:target="_blank"} 有趣的灵魂+丰富的标签★★★<br/>
 [②猫眼专业版](https://piaofang.maoyan.com/dashboard){:target="_blank"} 实时数据：电影票房+网播热度+电视收视<br/>
 [③Trakt](https://trakt.tv){:target="_blank"} 追踪、整理、发现<br/>
 [④TMDB](https://www.themoviedb.org){:target="_blank"}<br/>
@@ -20,7 +41,7 @@
 
 * [黑鸟播放器](https://guihet.com/blackbird-player.html){:target="_blank"} PC端看电视直播神器★★
 
-* [2022最新全球电视IPTV直播源吸星大法](https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan){:target="_blank"} 解压密码`tansuo.tv`★★<br/>
+* [2022最新全球电视IPTV直播源吸星大法](https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan){:target="_blank"} 解压密码`tansuo.tv`★★★<br/>
 两个超稳定直播源↓↓↓<br/>
 `https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u`<br/>
 `https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u`<br/>
@@ -28,40 +49,40 @@ EPG节目信息接口↓↓↓<br/>
 `http://epg.51zmt.top:8000/api/diyp/`<br/>
 [EPG大佬站点](http://epg.51zmt.top:8000/){:target="_blank"}
 
-* YouTube Vanced ★★<br/>
+* YouTube Vanced ★★★<br/>
 [官网](https://vancedapp.com/){:target="_blank"}，[GitHub](https://github.com/YTVanced/VancedManager){:target="_blank"}<br/>
 [下载地址①](https://d.vancedmanager.com/VancedManager_v2.6.2.apk){:target="_blank"} [下载地址②](https://tansuo.lanzoub.com/b017flgfg){:target="_blank"}密码`f22q`<br/>
 **安装方法**<br/>
 先装Manager再进Manager里面装microG 最后装YouTube Vanced和YouTube Music Vanced<br/>
 详细介绍：[点击这里](https://vancedmanager.com/){:target="_blank"}
 
-* NewPipe ★★<br/>
+* NewPipe<br/>
 [官网](https://newpipe.net/){:target="_blank"} [GitHub](https://github.com/TeamNewPipe/NewPipe){:target="_blank"} [下载](https://github.com/TeamNewPipe/NewPipe/releases){:target="_blank"}<br/>
 YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanced的有力补充
 
 * [电视家](https://www.idianshijia.com/){:target="_blank"}★
 
-* [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"} - 需与直播源共同食用 `https://tvsee.github.io/diyp/tv.txt``https://iptv-org.github.io/iptv/index.nsfw.m3u`★
+* [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"}★★★<br/> - 需与直播源共同食用 `https://tvsee.github.io/diyp/tv.txt``https://iptv-org.github.io/iptv/index.nsfw.m3u`
 
-* [太阳直播](https://teyonds.lanzoux.com/tytv){:target="_blank"}★
+* [太阳直播](https://teyonds.lanzoux.com/tytv){:target="_blank"}
 
-* **阿刚TV** 免费无广告的高清电视直播APP★<br/>[官网](https://www.isharepc.com/32043.html){:target="_blank"} [下载地址](https://isharepc.lanzoul.com/iXG2502e1bfe)
+* **阿刚TV** 免费无广告的高清电视直播APP<br/>[官网](https://www.isharepc.com/32043.html){:target="_blank"} [下载地址](https://isharepc.lanzoul.com/iXG2502e1bfe)
 
-* [<font color=red>超级iTV</font>](https://pan.lanzoui.com/b0aggpogd){:target="_blank"}★★
+* [<font color=red>超级iTV</font>](https://pan.lanzoui.com/b0aggpogd){:target="_blank"}
 
-* [GoTV（收费）](http://www.iptv16.com/downloads/){:target="_blank"}
+* [GoTV（收费）](http://www.iptv16.com/downloads/){:target="_blank"}★★★
 
 * [293影院（收费）](http://www.293vod.com/zy.html){:target="_blank"}
 
-* [饭团影院](https://fantuan.tv/APP/){:target="_blank"}
+* [<font color=red>影视工场TV</font>](https://down.ysgc.xyz/?ysgc){:target="_blank"}★★
 
-* [泥巴影院18+（梯子）](https://www.mudvod.tv/){:target="_blank"} [泥巴影院绿色版（梯子）](https://www.mudvod1.tv/){:target="_blank"}
+* [泥巴影院18+（梯子）](https://www.mudvod.tv/){:target="_blank"} [泥巴影院绿色版（梯子）](https://www.mudvod1.tv/){:target="_blank"}★★★
 
 * [鸡盒盘](https://jihepan.com/){:target="_blank"} 阿里云盘资源免费分享永久汇总页★★<br/>[<font color=red>阿里云盘TV官网</font>](https://aliyunpantv.gitlab.io/){:target="_blank"}
 
-* [猫影视TV替换] [TV BOX Pro + 喵影视TV](https://tansuo.lanzoub.com/b01592xri){:target="_blank"}- <font color=red>焕新出发★</font>
+* [TV BOX 内置源懒人版](https://tansuo.lanzoub.com/b01592xri){:target="_blank"}- <font color=red>焕新出发★★★</font>
 
-* [BiuBiu播放器](https://teyonds.lanzouw.com/itX9C025l3ob){:target="_blank"} - 全局接口`http://tyzx.weetai.cn/bbtv/1.json`★
+* [BiuBiu播放器](https://teyonds.lanzouw.com/itX9C025l3ob){:target="_blank"} - 全局接口`http://tyzx.weetai.cn/bbtv/1.json`
 
 > #### ★★★★听音乐
 
@@ -70,42 +91,21 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 [电脑Win重制版（去限制、去广告）](https://wwa.lanzouo.com/iwrCttph8uj){:target="_blank"}密`52pj`<br/>
 [Macsome Spotify Downloader（去限制、下载歌曲）](https://pan.baidu.com/s/1_R7sPf3uxiig52e-xBsfeA?pwd=eu8i){:target="_blank"}密`eu8i`
 
-* [椒盐音乐](https://moriafly.xyz/HiMoriafly/salt-player/){:target="_blank"} - 好用的安卓本地音乐播放器★
+* [椒盐音乐](https://moriafly.xyz/HiMoriafly/salt-player/){:target="_blank"} - 好用的安卓本地音乐播放器
 
-* [歌词适配](https://gcsp.lanzouo.com/i21EBzigi7e){:target="_blank"} - 你要的音乐这里都有★
+* [歌词适配](https://gcsp.lanzouo.com/i21EBzigi7e){:target="_blank"} - 你要的音乐这里都有★★★
 
-* [MyRadio全球收音机](https://lanzoux.com/iU1C8vlyr9c/){:target="_blank"} - [官网](https://guloolootech.com/2021/05/25/my-radio-a-free-radio-station-app/){:target="_blank"}★
+* [MyRadio全球收音机](https://lanzoux.com/iU1C8vlyr9c/){:target="_blank"} - [官网](https://guloolootech.com/2021/05/25/my-radio-a-free-radio-station-app/){:target="_blank"}
 
 * <font color=red>卡音</font> - [官网](http://www.janz.plus/){:target="_blank"} [官网下载](https://zhoshuangquan.lanzouw.com/b015p86wd){:target="_blank"}
 
 > #### ★★★★玩游戏
 
-* [<font color=red>小霸王</font>](https://www.yikm.net/){:target="_blank"} - 红白机 FC在线游戏 街机游戏 街机在线★★
+* [<font color=red>小霸王</font>](https://www.yikm.net/){:target="_blank"} - 红白机 FC在线游戏 街机游戏 街机在线
 
 * [扫雷游戏在线玩](https://www.saolei123.com/){:target="_blank"} - 还有五子棋、黑白棋、塔防、数独、找色差、2048、迷宫
 
 * [红警在线](https://cncnet.org/red-alert){:target="_blank"}
-
-> #### ★★★★抱大佬
-
-* [太阳网盘](http://teyonds.ysepan.com/){:target="_blank"}★★
-
-* [盒子地窖](http://www.wmsio.cn){:target="_blank"}
-
-* [烈火电视盒子手机直播应用合集](https://apphot.cc/27447.html){:target="_blank"}
-
-* [423Down安卓视频应用合集](https://423down.lanzouo.com/b0f1944aj){:target="_blank"}
-
-* [全球IPTV直播源](https://github.com/iptv-org/iptv){:target="_blank"} - 根据内容、语言、国家分类M3U频道列表
-
-* [电视应用精选](https://app.emotn.com/share){:target="_blank"} - 电视端安装emotn后通过分享码`970380`食用
-
-* [<font color=red>安卓应用集合</font>](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} [应用市场集合](https://tansuo.lanzoub.com/b017g34qd){:target="_blank"}
-密码`979l`
-
-* [Telegram中文搜索](http://www.sssoou.com){:target="_blank"}
-
-* [<font color=red>安卓手机秒变Leica徕卡相机</font>](https://pan.baidu.com/s/16rvxge0BJYpyjFKZvtF6Kg?pwd=tans){:target="_blank"} - 根据机型选择不同安装和配置文件
 
 ![image](https://t.tansuo.tv/img/t2.jpg)
 
@@ -113,7 +113,11 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 > #### 在线即点即看
 
-* [泥巴影院（梯子）](https://www.nbyy.tv){:target="_blank"} - 在线观看电影电视节目★
+* [<font color=red>泥巴影院（梯子）</font>](https://www.nbyy.tv){:target="_blank"} - 在线观看电影电视节目★
+
+* [<font color=red>茶杯狐 Cupfox </font>](https://www.cupfox.app){:target="_blank"} - 努力让找电影变得简单★
+
+* [<font color=red>影视工场TV</font>](https://www.3434.tv){:target="_blank"} - 在线观看电影电视节目★
 
 * [欧乐影院（梯子）](https://www.olevod.com){:target="_blank"}
 
@@ -134,8 +138,6 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 * [谍影网（梯子）](https://tvdie.cc){:target="_blank"}
 
 * [37OU电影（梯子）](https://www.37ou.com){:target="_blank"}
-
-* [<font color=red>茶杯狐 Cupfox </font>](https://www.cupfox.app){:target="_blank"} - 努力让找电影变得简单★
 
 * [片吧影院](https://www.pianba.tv){:target="_blank"}
 
