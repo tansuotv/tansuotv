@@ -1,4 +1,4 @@
-     2022-09-02 18:23更新 | ctrl+F 快速寻找
+     2022-09-04 21:24更新 | ctrl+F 快速寻找
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -16,7 +16,7 @@
 
 * [全球IPTV直播源](https://github.com/iptv-org/iptv){:target="_blank"} - 根据内容、语言、国家分类M3U频道列表★★★
 
-* [电视应用精选](https://app.emotn.com/share){:target="_blank"} - 电视端安装emotn后通过分享码`970380`食用
+* [电视应用精选](https://app.emotn.com/share){:target="_blank"} - 电视端安装emotn后通过分享码`428439`食用
 
 * [<font color=red>安卓应用集合★★★</font>](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} [应用市场集合](https://tansuo.lanzoub.com/b017g34qd){:target="_blank"}
 密码`979l`
