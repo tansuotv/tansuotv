@@ -1,10 +1,14 @@
-     2022-09-04 21:24更新 | ctrl+F 快速寻找
+     2022-09-12 10:24更新 | ctrl+F 快速寻找
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
 ## 0.特别推荐
 
 > #### ★★★★抱大佬
+
+* [<font color=red>安卓应用集合★★★</font>](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} 包含TVBOX内置源版、喵影视TV及小苹果影视盒子等超级好用TV应用
+
+* [<font color=red>电视应用精选★★★</font>](https://app.emotn.com/share){:target="_blank"} - 电视端安装[ Emotn ](https://app.emotn.com/){:target="_blank"}后通过分享码`428439`食用，包含应用同上
 
 * [太阳网盘](http://teyonds.ysepan.com/){:target="_blank"}★★★
 
@@ -16,14 +20,9 @@
 
 * [全球IPTV直播源](https://github.com/iptv-org/iptv){:target="_blank"} - 根据内容、语言、国家分类M3U频道列表★★★
 
-* [电视应用精选](https://app.emotn.com/share){:target="_blank"} - 电视端安装emotn后通过分享码`428439`食用
-
-* [<font color=red>安卓应用集合★★★</font>](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} [应用市场集合](https://tansuo.lanzoub.com/b017g34qd){:target="_blank"}
-密码`979l`
-
 * [Telegram中文搜索](http://www.sssoou.com){:target="_blank"}
 
-* [<font color=red>安卓手机秒变Leica徕卡相机</font>](https://pan.baidu.com/s/16rvxge0BJYpyjFKZvtF6Kg?pwd=tans){:target="_blank"} - 根据机型选择不同安装和配置文件
+* [安卓手机秒变Leica徕卡相机](https://pan.baidu.com/s/16rvxge0BJYpyjFKZvtF6Kg?pwd=tans){:target="_blank"} - 根据机型选择不同安装和配置文件
 
 > #### ★★★★看视频
 
@@ -80,7 +79,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [鸡盒盘](https://jihepan.com/){:target="_blank"} 阿里云盘资源免费分享永久汇总页★★<br/>[<font color=red>阿里云盘TV官网</font>](https://aliyunpantv.gitlab.io/){:target="_blank"}
 
-* [TV BOX 内置源懒人版](https://tansuo.lanzoub.com/b01592xri){:target="_blank"}- <font color=red>焕新出发★★★</font>
+* [<font color=red>TVBOX Github站</font>](https://github.com/liu673cn/box){:target="_blank"} [接口地址](https://github.com/dlgt7/TVbox-interface){:target="_blank"}
 
 * [BiuBiu播放器](https://teyonds.lanzouw.com/itX9C025l3ob){:target="_blank"} - 全局接口`http://tyzx.weetai.cn/bbtv/1.json`
 
