@@ -8,11 +8,11 @@
 
 * [<font color=red>安卓应用集合★★★</font>](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} 包含TVBOX内置源版、喵影视TV及小苹果影视盒子等超级好用TV应用
 
-* [<font color=red>电视应用精选★★★</font>](https://app.emotn.com/share){:target="_blank"} - 电视端安装[ Emotn ](https://app.emotn.com/){:target="_blank"}后通过分享码`428439`食用，包含应用同上
+* [<font color=red>电视应用精选★★★</font>](https://app.emotn.com/share){:target="_blank"} 电视端安装[ Emotn ](https://app.emotn.com/){:target="_blank"}后通过分享码`428439`食用，包含应用同上
 
-* [太阳网盘](http://teyonds.ysepan.com/){:target="_blank"}★★★
+* [太阳网盘](http://teyonds.ysepan.com/){:target="_blank"}★★
 
-* [盒子地窖](http://www.wmsio.cn){:target="_blank"}
+* [盒子地窖](http://www.wmsio.cn){:target="_blank"}★★
 
 * [烈火电视盒子手机直播应用合集](https://apphot.cc/27447.html){:target="_blank"}
 
