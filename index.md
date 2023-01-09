@@ -1,4 +1,4 @@
-     2022-09-12 10:24更新 | ctrl+F 快速寻找
+     2023-01-10 07:36更新 | ctrl+F 快速寻找
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -8,9 +8,13 @@
 
 * [<font color=red>安卓应用集合★★★</font>](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} 包含TVBOX内置源版、喵影视TV及小苹果影视盒子等超级好用TV应用
 
-* [<font color=red>电视应用精选★★★</font>](https://app.emotn.com/share){:target="_blank"} 电视端安装[ Emotn ](https://app.emotn.com/){:target="_blank"}后通过分享码`428439`食用，包含应用同上
+* [<font color=red>电视应用精选★★★</font>](https://app.emotn.com/share){:target="_blank"} 电视端安装[ Emotn ](https://app.emotn.com/){:target="_blank"}后通过分享码`428439`食用，包含应用同上，如果盒子不能安装或打开，可以[点击这里](https://tansuo.lanzoub.com/b01592xri){:target="_blank"}将应用下载到U盘后，再将U盘插到盒子上安装
 
-* [太阳网盘](http://teyonds.ysepan.com/){:target="_blank"}★★
+* [太阳网盘](http://teyonds.ysepan.com/){:target="_blank"}★★★
+
+* [吾爱有三TV集合](https://wuaiyousan.lanzoui.com/b02unwved){:target="_blank"}★★★ <font color=red>PythonBox+j0.json确实好用！</font>
+
+* [吾爱有三TV接口](https://wuaiyousan.lanzoui.com/b02v72i4f){:target="_blank"}★★
 
 * [盒子地窖](http://www.wmsio.cn){:target="_blank"}★★
 
@@ -61,13 +65,9 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [电视家](https://www.idianshijia.com/){:target="_blank"}★
 
-* [DIYP](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"}★★★<br/> - 需与直播源共同食用 `https://tvsee.github.io/diyp/tv.txt``https://iptv-org.github.io/iptv/index.nsfw.m3u`
+* [<font color=red>DIYP影音各种版本</font>](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"}★★★<br/> - 需与直播源共同食用 `https://tvsee.github.io/diyp/tv.txt``https://iptv-org.github.io/iptv/index.nsfw.m3u`
 
-* [太阳直播](https://teyonds.lanzoux.com/tytv){:target="_blank"}
-
-* **阿刚TV** 免费无广告的高清电视直播APP<br/>[官网](https://www.isharepc.com/32043.html){:target="_blank"} [下载地址](https://isharepc.lanzoul.com/iXG2502e1bfe)
-
-* [<font color=red>超级iTV</font>](https://pan.lanzoui.com/b0aggpogd){:target="_blank"}
+* [<font color=red>超级iTV 无会员无广告</font>](https://pan.lanzoui.com/b0aggpogd){:target="_blank"}
 
 * [GoTV（收费）](http://www.iptv16.com/downloads/){:target="_blank"}★★★
 
