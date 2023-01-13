@@ -1,4 +1,4 @@
-     2023-01-10 07:36更新 | ctrl+F 快速寻找
+     2023-01-14 00:56更新 | ctrl+F 快速寻找
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -6,9 +6,9 @@
 
 > #### ★★★★抱大佬
 
-* [<font color=red>安卓应用集合★★★</font>](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} 包含TVBOX内置源版、喵影视TV及小苹果影视盒子等超级好用TV应用
+* [<font color=red>安卓应用集合★★★</font>](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} 推荐蚂蚁影视魔改版、MoewTV高级版、太阳直播、PythonBox及小苹果影视盒子等超级好用TV应用
 
-* [<font color=red>电视应用精选★★★</font>](https://app.emotn.com/share){:target="_blank"} 电视端安装[ Emotn ](https://app.emotn.com/){:target="_blank"}后通过分享码`428439`食用，包含应用同上，如果盒子不能安装或打开，可以[点击这里](https://tansuo.lanzoub.com/b01592xri){:target="_blank"}将应用下载到U盘后，再将U盘插到盒子上安装
+* [<font color=red>我的小站-阿里云盘资源共享站★★★</font>](https://pan666.cn/){:target="_blank"}
 
 * [太阳网盘](http://teyonds.ysepan.com/){:target="_blank"}★★★
 
