@@ -117,9 +117,9 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
-## 其他
+## 阅读及其他
 
-* [开源阅读★★](https://www.legado.top/){:target="_blank"} - [精品书源★](https://yuedu.xiu2.xyz/){:target="_blank"} - 扫描二维码导入 / 复制URL网络导入 / 下载文件本地导入 [GitHub站★](https://github.com/XIU2/Yuedu){:target="_blank"}
+* [开源阅读APK★★](https://github.com/gedoor/legado/releases){:target="_blank"} - [精品书源★](https://yuedu.xiu2.xyz/){:target="_blank"} - 扫描二维码导入 / 复制URL网络导入 / 下载文件本地导入 [GitHub站★](https://github.com/XIU2/Yuedu){:target="_blank"}
 
 * <font color=red>Z-Library电子书搜索下载</font> [1通用网址](https://1lib.domains){:target="_blank"} [2海外网址](https://z-lib.org/){:target="_blank"}
 
