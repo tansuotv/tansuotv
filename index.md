@@ -1,4 +1,4 @@
-     2023-01-19 20:21更新 | ctrl+F 快速寻找
+     2023-01-19 20:47更新 | ctrl+F 快速寻找
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -22,8 +22,6 @@
 * [烈火电视盒子手机直播应用合集](https://apphot.cc/27447.html){:target="_blank"}
 
 * [423Down安卓视频应用合集](https://423down.lanzouo.com/b0f1944aj){:target="_blank"}
-
-* [全球IPTV直播源](https://github.com/iptv-org/iptv){:target="_blank"} - 根据内容、语言、国家分类M3U频道列表
 
 * 支持阿里云盘的TV播放器：[<font color=red>阿里云盘TV★★★</font>](https://aliyunpantv.gitlab.io/){:target="_blank"} [<font color=red>小白云盘TV★★★</font>](https://crazynoby.github.io/){:target="_blank"}
 
@@ -57,14 +55,6 @@
 [⑤IMDB](https://www.imdb.com){:target="_blank"}<br/>
 [⑥Bangumi 番组计划](https://bangumi.tv/){:target="_blank"} 动漫、书籍、音乐、游戏、三次元
 
-* [2022最新全球电视IPTV直播源吸星大法](https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan){:target="_blank"} 解压密码`tansuo.tv`★★★<br/>
-两个超稳定直播源↓↓↓<br/>
-`https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u`<br/>
-`https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u`<br/>
-EPG节目信息接口↓↓↓<br/>
-`http://epg.51zmt.top:8000/api/diyp/`<br/>
-[EPG大佬站点](http://epg.51zmt.top:8000/){:target="_blank"}
-
 * YouTube Vanced ★★★<br/>
 [官网](https://vancedapp.com/){:target="_blank"}，[GitHub](https://github.com/YTVanced/VancedManager){:target="_blank"}<br/>
 [下载地址①](https://d.vancedmanager.com/VancedManager_v2.6.2.apk){:target="_blank"} [下载地址②](https://tansuo.lanzoub.com/b017flgfg){:target="_blank"}密码`f22q`<br/>
@@ -76,7 +66,34 @@ EPG节目信息接口↓↓↓<br/>
 [官网](https://newpipe.net/){:target="_blank"} [GitHub](https://github.com/TeamNewPipe/NewPipe){:target="_blank"} [下载](https://github.com/TeamNewPipe/NewPipe/releases){:target="_blank"}<br/>
 YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanced的有力补充
 
-* [<font color=red>DIYP影音各种版本</font>](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"}★★★<br/> - 需与直播源共同食用 `https://tvsee.github.io/diyp/tv.txt``https://iptv-org.github.io/iptv/index.nsfw.m3u`
+[![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
+
+## 直播：安卓手机/电视/盒子
+
+* [2022最新全球电视IPTV直播源吸星大法](https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan){:target="_blank"} 解压密码`tansuo.tv`★★★<br/>
+
+* [<font color=red>DIYP影音各种版本</font>](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"}★★★<br/> - 需与直播源共同食用<br/>
+稳定直播源↓↓↓<br/>
+`https://tvsee.github.io/diyp/tv.txt`<br/>
+`https://iptv-org.github.io/iptv/index.nsfw.m3u`<br/>
+`https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u`<br/>
+`https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u`<br/>
+EPG节目信息接口↓↓↓<br/>
+`http://epg.51zmt.top:8000/api/diyp/` [EPG大佬站点](http://epg.51zmt.top:8000/){:target="_blank"}<br/>
+[全球IPTV直播源↓↓↓](https://github.com/iptv-org/iptv){:target="_blank"} - 根据内容、语言、国家分类M3U频道列表<br/>
+`https://iptv-org.github.io/iptv/index.m3u`<br/>
+`https://iptv-org.github.io/iptv/index.nsfw.m3u` (包含不可描述内容)<br/>
+`https://iptv-org.github.io/iptv/index.category.m3u` (根据内容区分)<br/>
+`https://iptv-org.github.io/iptv/index.country.m3u` (根据国家区分)<br/>
+`https://iptv-org.github.io/iptv/index.language.m3u` (根据语言区分)<br/>
+`https://iptv-org.github.io/iptv/index.region.m3u` (根据区域区分)<br/>
+`https://iptv-org.github.io/iptv/categories/entertainment.m3u` (娱乐频道)<br/>
+`https://iptv-org.github.io/iptv/categories/movies.m3u` (电影频道)<br/>
+`https://iptv-org.github.io/iptv/categories/music.m3u` (音乐频道)<br/>
+`https://iptv-org.github.io/iptv/categories/outdoor.m3u` (户外频道)<br/>
+`https://iptv-org.github.io/iptv/categories/sports.m3u` (体育频道)<br/>
+`https://iptv-org.github.io/iptv/languages/zho.m3u` (中文频道)<br/>
+`https://iptv-org.github.io/iptv/languages/eng.m3u` (英文频道)<br/>
 
 * [GoTV（收费）](http://www.iptv16.com/downloads/){:target="_blank"}★★★
 
@@ -368,34 +385,6 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
 ## DDDD各种接口/节目源
-
-> #### IPTV（6000+）
-
-https://iptv-org.github.io/iptv/index.m3u
-
-https://iptv-org.github.io/iptv/index.nsfw.m3u (包含不可描述内容)
-
-https://iptv-org.github.io/iptv/index.category.m3u (根据内容区分)
-
-https://iptv-org.github.io/iptv/index.country.m3u (根据国家区分)
-
-https://iptv-org.github.io/iptv/index.language.m3u (根据语言区分)
-
-https://iptv-org.github.io/iptv/index.region.m3u (根据区域区分)
-
-https://iptv-org.github.io/iptv/categories/entertainment.m3u (娱乐频道)
-
-https://iptv-org.github.io/iptv/categories/movies.m3u (电影频道)
-
-https://iptv-org.github.io/iptv/categories/music.m3u (音乐频道)
-
-https://iptv-org.github.io/iptv/categories/outdoor.m3u (户外频道)
-
-https://iptv-org.github.io/iptv/categories/sports.m3u (体育频道)
-
-https://iptv-org.github.io/iptv/languages/zho.m3u (中文频道)
-
-https://iptv-org.github.io/iptv/languages/eng.m3u (英文频道)
 
 > #### 开源阅读订阅源（注意是订阅源，不是书源，可以下载精校完本小说）
 
