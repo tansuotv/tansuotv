@@ -88,7 +88,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [<font color=red>TVBOX Github站</font>](https://github.com/liu673cn/box){:target="_blank"} [接口地址](https://github.com/dlgt7/TVbox-interface){:target="_blank"}
 
-![image](https://t.tansuo.tv/img/t2.jpg)
+[![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
 ## 音乐
 
@@ -105,7 +105,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * <font color=red>卡音</font> - [官网](http://www.janz.plus/){:target="_blank"} [官网下载](https://zhoshuangquan.lanzouw.com/b015p86wd){:target="_blank"}
 
-![image](https://t.tansuo.tv/img/t2.jpg)
+[![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
 ## 游戏
 
@@ -115,7 +115,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [红警在线](https://cncnet.org/red-alert){:target="_blank"}
 
-![image](https://t.tansuo.tv/img/t2.jpg)
+[![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
 ## 其他
 
@@ -133,7 +133,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [安卓手机秒变Leica徕卡相机](https://pan.baidu.com/s/16rvxge0BJYpyjFKZvtF6Kg?pwd=tans){:target="_blank"} - 根据机型选择不同安装和配置文件
 
-![image](https://t.tansuo.tv/img/t2.jpg)
+[![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
 ## 视频：PC电脑
 
@@ -237,7 +237,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop){:target="_blank"} - 付费无损音乐下载神器
 
-![image](https://t.tansuo.tv/img/t2.jpg)
+[![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
 ## 壁纸
 
@@ -253,7 +253,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [全面屏手机壁纸](https://m.bcoderss.com/){:target="_blank"} - 手机壁纸站
 
-![image](https://t.tansuo.tv/img/t2.jpg)
+[![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
 ## 软件应用：PC电脑
 
@@ -365,7 +365,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [微软EDGE浏览器官方版](https://www.microsoft.com/zh-cn/edge?r=1){:target="_blank"}
 
-![image](https://t.tansuo.tv/img/t2.jpg)
+[![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
 ## DDDD各种接口/节目源
 
