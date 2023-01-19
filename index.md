@@ -1,14 +1,14 @@
-     2023-01-19 20:47更新 | ctrl+F 快速寻找
+     2023-01-19 20:54 更新 | ctrl+F 快速寻找
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
 ## 视频：安卓手机/电视/盒子
 
-* [<font color=red>探索TV安卓应用集合★★★常态化更新主站</font>](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} 推荐蚂蚁影视魔改版、MoewTV高级版、太阳直播、PythonBox及小苹果影视盒子等超级好用TV应用
-①先安装PythonBox
-②再安装小白文件管理器
-③打开小白文件管理器，将U盘中的JS文件夹长按遥控器确定键复制，然后粘贴至盒子的主目录里
-④打开PythonBox，进入设置-配置地址，点击进去后先获取读取本地权限，然后手机扫屏幕上的二维码，选择手机底部右侧的“配置”按钮，然后将`clan://localhost/JS/js0.json`输入并确认，这样电视上就填好了这个配置地址，点击电视上的确认
+* [<font color=red>探索TV安卓应用集合★★★</font>](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} 超多好用TV应用常态化更新<br/>
+①先安装PythonBox<br/>
+②再安装小白文件管理器<br/>
+③打开小白文件管理器，将U盘中的JS文件夹长按遥控器确定键复制，然后粘贴至盒子的主目录里<br/>
+④打开PythonBox，进入设置-配置地址，点击进去后先获取读取本地权限，然后手机扫屏幕上的二维码，选择手机底部右侧的“配置”按钮，然后将`clan://localhost/JS/js0.json`输入并确认，这样电视上就填好了这个配置地址，点击电视上的确认<br/>
 ⑤按遥控器返回键返回PythonBox首页，底部提示类似“jar加载成功”字样，就成功了，可以想看啥看啥了
 
 * [太阳网盘★★★](http://teyonds.ysepan.com/){:target="_blank"} 推荐太阳直播
@@ -72,15 +72,15 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [2022最新全球电视IPTV直播源吸星大法](https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan){:target="_blank"} 解压密码`tansuo.tv`★★★<br/>
 
-* [<font color=red>DIYP影音各种版本</font>](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"}★★★<br/> - 需与直播源共同食用<br/>
-稳定直播源↓↓↓<br/>
+* [<font color=red>DIYP影音各种版本</font>](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"}★★★ - 需与直播源共同食用<br/>
+①稳定直播源↓↓↓<br/>
 `https://tvsee.github.io/diyp/tv.txt`<br/>
 `https://iptv-org.github.io/iptv/index.nsfw.m3u`<br/>
 `https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u`<br/>
 `https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u`<br/>
-EPG节目信息接口↓↓↓<br/>
+②EPG节目信息接口↓↓↓<br/>
 `http://epg.51zmt.top:8000/api/diyp/` [EPG大佬站点](http://epg.51zmt.top:8000/){:target="_blank"}<br/>
-[全球IPTV直播源↓↓↓](https://github.com/iptv-org/iptv){:target="_blank"} - 根据内容、语言、国家分类M3U频道列表<br/>
+③[全球IPTV直播源↓↓↓](https://github.com/iptv-org/iptv){:target="_blank"} - 根据内容、语言、国家分类M3U频道列表<br/>
 `https://iptv-org.github.io/iptv/index.m3u`<br/>
 `https://iptv-org.github.io/iptv/index.nsfw.m3u` (包含不可描述内容)<br/>
 `https://iptv-org.github.io/iptv/index.category.m3u` (根据内容区分)<br/>
@@ -95,11 +95,11 @@ EPG节目信息接口↓↓↓<br/>
 `https://iptv-org.github.io/iptv/languages/zho.m3u` (中文频道)<br/>
 `https://iptv-org.github.io/iptv/languages/eng.m3u` (英文频道)<br/>
 
-* [GoTV（收费）](http://www.iptv16.com/downloads/){:target="_blank"}★★★
+* [<font color=red>GoTV（收费）</font>](http://www.iptv16.com/downloads/){:target="_blank"}★★★
 
 * [293影院（收费）](http://www.293vod.com/zy.html){:target="_blank"}
 
-* [<font color=red>影视工场TV</font>](https://down.ysgc.xyz/?ysgc){:target="_blank"}★★
+* [影视工场TV](https://down.ysgc.xyz/?ysgc){:target="_blank"}★★
 
 * [泥巴影院18+（梯子）](https://www.mudvod.tv/){:target="_blank"} [泥巴影院绿色版（梯子）](https://www.mudvod1.tv/){:target="_blank"}★★★
 
