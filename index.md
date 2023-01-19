@@ -1,34 +1,49 @@
-     2023-01-19 19:37更新 | ctrl+F 快速寻找
+     2023-01-19 20:21更新 | ctrl+F 快速寻找
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
-## 0.特别推荐
+## 视频：安卓手机/电视/盒子
 
-> #### ★★★★抱大佬
+* [<font color=red>探索TV安卓应用集合★★★常态化更新主站</font>](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} 推荐蚂蚁影视魔改版、MoewTV高级版、太阳直播、PythonBox及小苹果影视盒子等超级好用TV应用
+①先安装PythonBox
+②再安装小白文件管理器
+③打开小白文件管理器，将U盘中的JS文件夹长按遥控器确定键复制，然后粘贴至盒子的主目录里
+④打开PythonBox，进入设置-配置地址，点击进去后先获取读取本地权限，然后手机扫屏幕上的二维码，选择手机底部右侧的“配置”按钮，然后将'clan://localhost/JS/js0.json'输入并确认，这样电视上就填好了这个配置地址，点击电视上的确认
+⑤按遥控器返回键返回PythonBox首页，底部提示类似“jar加载成功”字样，就成功了，可以想看啥看啥了
 
-* [<font color=red>安卓应用集合★★★</font>](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} 推荐蚂蚁影视魔改版、MoewTV高级版、太阳直播、PythonBox及小苹果影视盒子等超级好用TV应用
+* [太阳网盘★★★](http://teyonds.ysepan.com/){:target="_blank"} 推荐太阳直播
 
-* [<font color=red>我的小站-阿里云盘资源共享站★★★</font>](https://pan666.cn/){:target="_blank"}
+* [吾爱有三TV集合](https://wuaiyousan.lanzoui.com/b02unwved){:target="_blank"} <font color=red>PythonBox+j0.json确实好用！</font>
 
-* [太阳网盘](http://teyonds.ysepan.com/){:target="_blank"}★★★
+* [吾爱有三TV接口](https://wuaiyousan.lanzoui.com/b02v72i4f){:target="_blank"}
 
-* [吾爱有三TV集合](https://wuaiyousan.lanzoui.com/b02unwved){:target="_blank"}★★★ <font color=red>PythonBox+j0.json确实好用！</font>
-
-* [吾爱有三TV接口](https://wuaiyousan.lanzoui.com/b02v72i4f){:target="_blank"}★★
-
-* [盒子地窖](http://www.wmsio.cn){:target="_blank"}★★
+* [盒子地窖](http://www.wmsio.cn){:target="_blank"}
 
 * [烈火电视盒子手机直播应用合集](https://apphot.cc/27447.html){:target="_blank"}
 
 * [423Down安卓视频应用合集](https://423down.lanzouo.com/b0f1944aj){:target="_blank"}
 
-* [全球IPTV直播源](https://github.com/iptv-org/iptv){:target="_blank"} - 根据内容、语言、国家分类M3U频道列表★★★
+* [全球IPTV直播源](https://github.com/iptv-org/iptv){:target="_blank"} - 根据内容、语言、国家分类M3U频道列表
 
-* [Telegram中文搜索](http://www.sssoou.com){:target="_blank"}
+* 支持阿里云盘的TV播放器：[<font color=red>阿里云盘TV★★★</font>](https://aliyunpantv.gitlab.io/){:target="_blank"} [<font color=red>小白云盘TV★★★</font>](https://crazynoby.github.io/){:target="_blank"}
 
-* [安卓手机秒变Leica徕卡相机](https://pan.baidu.com/s/16rvxge0BJYpyjFKZvtF6Kg?pwd=tans){:target="_blank"} - 根据机型选择不同安装和配置文件
+* 阿里云盘影视资源站：[<font color=red>阿里云盘资源1</font>](https://pan666.cn/){:target="_blank"} [<font color=red>阿里云盘资源2</font>](https://t.me/zaihuayun){:target="_blank"} [鸡盒盘](https://jihepan.com/){:target="_blank"} [Telegram中文搜索](http://www.sssoou.com){:target="_blank"}
 
-> #### ★★★★看视频
+* [GOTV](http://www.iptv16.com){:target="_blank"} - 付费直播、点播
+
+* [293影院](https://www.293so.com/zy.html){:target="_blank"} - 手机、电视、网络机顶盒通用版（收费，拼多多搜低价）
+
+* [IPTV PRO 破解版](https://www.423down.com/9788.html){:target="_blank"} - 配合全球IPTV播放源，中文频道`https://iptv-org.github.io/iptv/languages/zho.m3u`
+
+* [大师兄影视](https://tv.ci/app){:target="_blank"}
+
+* [爱西西影视](https://aixixi.vip/app.html){:target="_blank"}
+
+* [思奇影视](https://www.siqitv.vip){:target="_blank"}
+
+* [卧龙影视](https://www.wolong.tv){:target="_blank"}
+
+* [不卡影院](https://buka6.app){:target="_blank"}
 
 * <font color=red>影视采集</font>
 [红牛资源1080p★★★](https://hongniuziyuan.com){:target="_blank"}<br/>
@@ -41,8 +56,6 @@
 [④TMDB](https://www.themoviedb.org){:target="_blank"}<br/>
 [⑤IMDB](https://www.imdb.com){:target="_blank"}<br/>
 [⑥Bangumi 番组计划](https://bangumi.tv/){:target="_blank"} 动漫、书籍、音乐、游戏、三次元
-
-* [黑鸟播放器](https://guihet.com/blackbird-player.html){:target="_blank"} PC端看电视直播神器★★
 
 * [2022最新全球电视IPTV直播源吸星大法](https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan){:target="_blank"} 解压密码`tansuo.tv`★★★<br/>
 两个超稳定直播源↓↓↓<br/>
@@ -63,11 +76,7 @@ EPG节目信息接口↓↓↓<br/>
 [官网](https://newpipe.net/){:target="_blank"} [GitHub](https://github.com/TeamNewPipe/NewPipe){:target="_blank"} [下载](https://github.com/TeamNewPipe/NewPipe/releases){:target="_blank"}<br/>
 YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanced的有力补充
 
-* [电视家](https://www.idianshijia.com/){:target="_blank"}★
-
 * [<font color=red>DIYP影音各种版本</font>](https://sharerw.lanzoui.com/b0aevufxe){:target="_blank"}★★★<br/> - 需与直播源共同食用 `https://tvsee.github.io/diyp/tv.txt``https://iptv-org.github.io/iptv/index.nsfw.m3u`
-
-* [<font color=red>超级iTV 无会员无广告</font>](https://pan.lanzoui.com/b0aggpogd){:target="_blank"}
 
 * [GoTV（收费）](http://www.iptv16.com/downloads/){:target="_blank"}★★★
 
@@ -77,13 +86,11 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [泥巴影院18+（梯子）](https://www.mudvod.tv/){:target="_blank"} [泥巴影院绿色版（梯子）](https://www.mudvod1.tv/){:target="_blank"}★★★
 
-* [鸡盒盘](https://jihepan.com/){:target="_blank"} 阿里云盘资源免费分享永久汇总页★★<br/>[<font color=red>阿里云盘TV官网</font>](https://aliyunpantv.gitlab.io/){:target="_blank"}
-
 * [<font color=red>TVBOX Github站</font>](https://github.com/liu673cn/box){:target="_blank"} [接口地址](https://github.com/dlgt7/TVbox-interface){:target="_blank"}
 
-* [BiuBiu播放器](https://teyonds.lanzouw.com/itX9C025l3ob){:target="_blank"} - 全局接口`http://tyzx.weetai.cn/bbtv/1.json`
+![image](https://t.tansuo.tv/img/t2.jpg)
 
-> #### ★★★★听音乐
+## 音乐
 
 * **Spotify全家桶**★★<br/>
 [安卓解锁高级版（去限制、去广告）](https://423down.lanzouo.com/b0f2b551a){:target="_blank"}<br/>
@@ -98,7 +105,9 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * <font color=red>卡音</font> - [官网](http://www.janz.plus/){:target="_blank"} [官网下载](https://zhoshuangquan.lanzouw.com/b015p86wd){:target="_blank"}
 
-> #### ★★★★玩游戏
+![image](https://t.tansuo.tv/img/t2.jpg)
+
+## 游戏
 
 * [<font color=red>小霸王</font>](https://www.yikm.net/){:target="_blank"} - 红白机 FC在线游戏 街机游戏 街机在线
 
@@ -108,7 +117,25 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 ![image](https://t.tansuo.tv/img/t2.jpg)
 
-## 1.PC电脑
+## 其他
+
+* [开源阅读★★](https://www.legado.top/){:target="_blank"} - [精品书源★](https://yuedu.xiu2.xyz/){:target="_blank"} - 扫描二维码导入 / 复制URL网络导入 / 下载文件本地导入 [GitHub站★](https://github.com/XIU2/Yuedu){:target="_blank"}
+
+* <font color=red>Z-Library电子书搜索下载</font> [1通用网址](https://1lib.domains){:target="_blank"} [2海外网址](https://z-lib.org/){:target="_blank"}
+
+* [微软TTS](https://github.com/ag2s20150909/TTS/releases){:target="_blank"} - ↑↑开源阅读语音引擎，手机安装TTS可支持朗读中文（小米好像不装就可以）
+
+* [Clash](https://github.com/Kr328/ClashForAndroid/releases){:target="_blank"}
+
+* [清浊](https://www.dircleaner.com){:target="_blank"} - 简洁清理工具
+
+* [<font color=red>李跳跳 派大星 2.01最新版官方下载</font>](https://wwe.lanzouw.com/b01v0g3wj){:target="_blank"} - 密码`1233` 自动跳过启动页广告<br/>长按“更多”，进入全局参数设置，通过`{"toast_text":"小猪佩奇"}`可以自定义跳过广告时的提示，我用的是“玛卡巴卡”，更多参数设置可以点击“指南”
+
+* [安卓手机秒变Leica徕卡相机](https://pan.baidu.com/s/16rvxge0BJYpyjFKZvtF6Kg?pwd=tans){:target="_blank"} - 根据机型选择不同安装和配置文件
+
+![image](https://t.tansuo.tv/img/t2.jpg)
+
+## 视频：PC电脑
 
 > #### 在线即点即看
 
@@ -198,6 +225,8 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 > #### 视听应用精选
 
+* [黑鸟播放器](https://guihet.com/blackbird-player.html){:target="_blank"} PC端看电视直播神器★★
+
 * [恒星播放器](https://www.stellarplayer.com){:target="_blank"} - 视觉享受 随心而动
 
 * PotPlayer视频播放器[官网](https://potplayer.daum.net/){:target="_blank"} - [另一个网址](https://potplayer.tv/?lang=zh_CN){:target="_blank"}★
@@ -208,7 +237,9 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [洛雪音乐助手](https://github.com/lyswhut/lx-music-desktop){:target="_blank"} - 付费无损音乐下载神器
 
-> #### 壁纸网站精选
+![image](https://t.tansuo.tv/img/t2.jpg)
+
+## 壁纸
 
 * [极简壁纸](https://bz.zzzmh.cn/index){:target="_blank"} - 高清壁纸
 
@@ -221,6 +252,10 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 * [4K电脑壁纸](https://4k.wpcoder.cn/){:target="_blank"} - 高清4K电脑壁纸
 
 * [全面屏手机壁纸](https://m.bcoderss.com/){:target="_blank"} - 手机壁纸站
+
+![image](https://t.tansuo.tv/img/t2.jpg)
+
+## 软件应用：PC电脑
 
 > #### 精品软件网站
 
@@ -332,43 +367,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 ![image](https://t.tansuo.tv/img/t2.jpg)
 
-## 2.安卓应用
-
-> #### 视频应用精选
-
-* [GOTV](http://www.iptv16.com){:target="_blank"} - 付费直播、点播
-
-* [293影院](https://www.293so.com/zy.html){:target="_blank"} - 手机、电视、网络机顶盒通用版（收费，拼多多搜低价）
-
-* [太阳直播](https://teyonds.lanzouw.com/iRwbgx9teaf){:target="_blank"} - 看境内电视直播首选，密码`2022`★
-
-* [IPTV PRO 破解版](https://www.423down.com/9788.html){:target="_blank"} - 配合全球IPTV播放源，中文频道`https://iptv-org.github.io/iptv/languages/zho.m3u`
-
-* [大师兄影视](https://tv.ci/app){:target="_blank"}
-
-* [爱西西影视](https://aixixi.vip/app.html){:target="_blank"}
-
-* [思奇影视](https://www.siqitv.vip){:target="_blank"}
-
-* [卧龙影视](https://www.wolong.tv){:target="_blank"}
-
-* [不卡影院](https://buka6.app){:target="_blank"}
-
-> #### 其他应用
-
-* [开源阅读](https://www.legado.top/){:target="_blank"} - 不只是阅读神器★★<font color=red>Z-Library电子书搜索下载</font> [1通用网址](https://1lib.domains){:target="_blank"} [2海外网址](https://z-lib.org/){:target="_blank"}
-
-* [微软TTS](https://github.com/ag2s20150909/TTS/releases){:target="_blank"} - ↑↑开源阅读语音引擎，手机安装TTS可支持朗读中文（小米好像不装就可以）
-
-* [Clash](https://github.com/Kr328/ClashForAndroid/releases){:target="_blank"}
-
-* [清浊](https://www.dircleaner.com){:target="_blank"} - 简洁清理工具
-
-* [<font color=red>李跳跳 派大星 2.01最新版官方下载</font>](https://wwe.lanzouw.com/b01v0g3wj){:target="_blank"} - 密码`1233` 自动跳过启动页广告<br/>长按“更多”，进入全局参数设置，通过`{"toast_text":"小猪佩奇"}`可以自定义跳过广告时的提示，我用的是“玛卡巴卡”，更多参数设置可以点击“指南”
-
-![image](https://t.tansuo.tv/img/t2.jpg)
-
-## 3.DDDD
+## DDDD各种接口/节目源
 
 > #### IPTV（6000+）
 
@@ -398,10 +397,7 @@ https://iptv-org.github.io/iptv/languages/zho.m3u (中文频道)
 
 https://iptv-org.github.io/iptv/languages/eng.m3u (英文频道)
 
-
 > #### 开源阅读订阅源（注意是订阅源，不是书源，可以下载精校完本小说）
-
-[「阅读」APP 精品书源★★★★★](https://yuedu.xiu2.xyz/){:target="_blank"} - 扫描二维码导入 / 复制URL网络导入 / 下载文件本地导入 [GitHub站](https://github.com/XIU2/Yuedu){:target="_blank"}
 
 1.一程大佬
 
@@ -411,7 +407,6 @@ https://iptv-org.github.io/iptv/languages/eng.m3u (英文频道)
 2.关耳大佬
 
 `http://yck.mumuceo.com/d/CXwCA`
-
 
 > #### 开源阅读书源（书源导入位置在APP我的—书源管理—右上角网络导入。提醒！选择1-2位大佬的追更就行，没必要全部导入）
 
