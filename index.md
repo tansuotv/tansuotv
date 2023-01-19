@@ -1,4 +1,4 @@
-     2023-01-14 00:56更新 | ctrl+F 快速寻找
+     2023-01-19 19:37更新 | ctrl+F 快速寻找
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -92,7 +92,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [椒盐音乐](https://moriafly.xyz/HiMoriafly/salt-player/){:target="_blank"} - 好用的安卓本地音乐播放器
 
-* [歌词适配](https://gcsp.lanzouo.com/i21EBzigi7e){:target="_blank"} - 你要的音乐这里都有★★★
+* [歌词适配](https://gcsp.lanzoux.com/b0e895h2b?w1=){:target="_blank"} - 你要的音乐这里都有★★★
 
 * [MyRadio全球收音机](https://lanzoux.com/iU1C8vlyr9c/){:target="_blank"} - [官网](https://guloolootech.com/2021/05/25/my-radio-a-free-radio-station-app/){:target="_blank"}
 
@@ -400,6 +400,8 @@ https://iptv-org.github.io/iptv/languages/eng.m3u (英文频道)
 
 
 > #### 开源阅读订阅源（注意是订阅源，不是书源，可以下载精校完本小说）
+
+[「阅读」APP 精品书源★★★★★](https://yuedu.xiu2.xyz/){:target="_blank"} - 扫描二维码导入 / 复制URL网络导入 / 下载文件本地导入 [GitHub站](https://github.com/XIU2/Yuedu){:target="_blank"}
 
 1.一程大佬
 
