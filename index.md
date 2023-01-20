@@ -1,6 +1,6 @@
 ![image](https://t.tansuo.tv/img/2023.png)
 
-     2023-01-19 20:54 更新 | ctrl+F 快速寻找
+     2023-01-20 21:06 更新 | ctrl+F 快速寻找
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -112,6 +112,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 ## 音乐
 
 * **Spotify全家桶**★★<br/>
+[<font color=red>如何在 PC/Mac 上破解 Spotify Premium [2023 年最佳方法]</font>](https://www.tunefab.com/zh-CN/spotify/spotify-cracked-pc.html){:target="_blank"}<br/>
 [安卓解锁高级版（去限制、去广告）](https://423down.lanzouo.com/b0f2b551a){:target="_blank"}<br/>
 [电脑Win重制版（去限制、去广告）](https://wwa.lanzouo.com/iwrCttph8uj){:target="_blank"}密`52pj`<br/>
 [Macsome Spotify Downloader（去限制、下载歌曲）](https://pan.baidu.com/s/1_R7sPf3uxiig52e-xBsfeA?pwd=eu8i){:target="_blank"}密`eu8i`
