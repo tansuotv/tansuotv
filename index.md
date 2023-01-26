@@ -1,6 +1,6 @@
 ![image](https://t.tansuo.tv/img/2023.png)
 
-     2023-01-20 21:06 更新 | ctrl+F 快速寻找
+     2023-01-26 23:27 更新 | ctrl+F 快速寻找
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -24,6 +24,8 @@
 * [烈火电视盒子手机直播应用合集](https://apphot.cc/27447.html){:target="_blank"}
 
 * [423Down安卓视频应用合集](https://423down.lanzouo.com/b0f1944aj){:target="_blank"}
+
+* [<font color=red>阿虚同学的储物间★★★</font>](https://axutongxue.com/){:target="_blank"}
 
 * 支持阿里云盘的TV播放器：[<font color=red>阿里云盘TV★★★</font>](https://aliyunpantv.gitlab.io/){:target="_blank"} [<font color=red>小白云盘TV★★★</font>](https://crazynoby.github.io/){:target="_blank"}
 
