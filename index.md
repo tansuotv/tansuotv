@@ -1,6 +1,6 @@
 ![image](https://t.tansuo.tv/img/2023.png)
 
-     2023-01-26 23:27 更新 | ctrl+F 快速寻找
+     2023-02-04 08:49 更新 | ctrl+F 快速寻找
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
@@ -59,16 +59,20 @@
 [⑤IMDB](https://www.imdb.com){:target="_blank"}<br/>
 [⑥Bangumi 番组计划](https://bangumi.tv/){:target="_blank"} 动漫、书籍、音乐、游戏、三次元
 
-* YouTube Vanced ★★★<br/>
+* <font color=red>YouTube ★★★</font><br/>
+①YouTube Vanced <font color=red>已停止更新</font><br/>
 [官网](https://vancedapp.com/){:target="_blank"}，[GitHub](https://github.com/YTVanced/VancedManager){:target="_blank"}<br/>
 [下载地址①](https://d.vancedmanager.com/VancedManager_v2.6.2.apk){:target="_blank"} [下载地址②](https://tansuo.lanzoub.com/b017flgfg){:target="_blank"}密码`f22q`<br/>
 **安装方法**<br/>
 先装Manager再进Manager里面装microG 最后装YouTube Vanced和YouTube Music Vanced<br/>
-详细介绍：[点击这里](https://vancedmanager.com/){:target="_blank"}
-
-* NewPipe<br/>
+详细介绍：[点击这里](https://vancedmanager.com/){:target="_blank"}<br/>
+<br/>
+②NewPipe<br/>
 [官网](https://newpipe.net/){:target="_blank"} [GitHub](https://github.com/TeamNewPipe/NewPipe){:target="_blank"} [下载](https://github.com/TeamNewPipe/NewPipe/releases){:target="_blank"}<br/>
-YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanced的有力补充
+YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanced的有力补充<br/>
+③重置版<br/>
+[APKFab Vanced Official - Block All Ads For Tube Vanced](https://apkfab.com/zh/vanced-official-block-all-ads-for-tube-vanced/com.biomes.vanced){:target="_blank"}<br/>
+[LITEAPKS YouTube ReVanced](https://liteapks.com/youtube-revanced.html){:target="_blank"}<br/>
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
