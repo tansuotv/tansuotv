@@ -33,19 +33,7 @@
 
 * [GOTV](http://www.iptv16.com){:target="_blank"} - 付费直播、点播
 
-* [293影院](https://www.293so.com/zy.html){:target="_blank"} - 手机、电视、网络机顶盒通用版（收费，拼多多搜低价）
-
 * [IPTV PRO 破解版](https://www.423down.com/9788.html){:target="_blank"} - 配合全球IPTV播放源，中文频道`https://iptv-org.github.io/iptv/languages/zho.m3u`
-
-* [大师兄影视](https://tv.ci/app){:target="_blank"}
-
-* [爱西西影视](https://aixixi.vip/app.html){:target="_blank"}
-
-* [思奇影视](https://www.siqitv.vip){:target="_blank"}
-
-* [卧龙影视](https://www.wolong.tv){:target="_blank"}
-
-* [不卡影院](https://buka6.app){:target="_blank"}
 
 * <font color=red>影视采集</font>
 [红牛资源1080p★★★](https://hongniuziyuan.com){:target="_blank"}<br/>
