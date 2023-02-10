@@ -74,7 +74,7 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 `https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u`<br/>
 `https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u`<br/>
 月光寶盒PRO直播源 `https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt`<br/>
-[<font color=red>更多直播源</font>]](https://zb.v1.mk/){:target="_blank"}★★★<br/>
+[<font color=red>直播源汇总</font>](https://zb.v1.mk/){:target="_blank"}★★★<br/>
 ②EPG节目信息接口↓↓↓<br/>
 `http://epg.51zmt.top:8000/api/diyp/` [EPG大佬站点](http://epg.51zmt.top:8000/){:target="_blank"}<br/>
 ③[全球IPTV直播源↓↓↓](https://github.com/iptv-org/iptv){:target="_blank"} - 根据内容、语言、国家分类M3U频道列表<br/>
