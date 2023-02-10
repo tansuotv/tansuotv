@@ -104,6 +104,8 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 [接口地址](https://github.com/dlgt7/TVbox-interface){:target="_blank"}<br/>
 [TVBox网络接口](https://leevi0321.gitee.io/api/){:target="_blank"}<br/>
 `http://52bsj.vip:98/18dxwoai`<br/>
+`https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json`
+`https://raw.iqiq.io/xianyuyimu/TVBOX-/main/TVBox/备用.json`
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
