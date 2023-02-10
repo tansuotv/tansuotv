@@ -100,7 +100,10 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 
 * [泥巴影院18+（梯子）](https://www.mudvod.tv/){:target="_blank"} [泥巴影院绿色版（梯子）](https://www.mudvod1.tv/){:target="_blank"}★★★
 
-* [<font color=red>TVBOX Github站</font>](https://github.com/liu673cn/box){:target="_blank"} [接口地址](https://github.com/dlgt7/TVbox-interface){:target="_blank"}
+* [<font color=red>TVBOX Github站</font>](https://github.com/liu673cn/box){:target="_blank"}<br/>
+[接口地址](https://github.com/dlgt7/TVbox-interface){:target="_blank"}<br/>
+[TVBox网络接口](https://leevi0321.gitee.io/api/){:target="_blank"}<br/>
+`http://52bsj.vip:98/18dxwoai`<br/>
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
