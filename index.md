@@ -1,15 +1,15 @@
-     2023-02-10 23:19 更新 | ctrl+F 快速寻找
+     2023-02-11 11:19 更新 | ctrl+F 快速寻找
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
 ## 视频：安卓手机/电视/盒子
 
 * [<font color=red>探索TV安卓应用集合★★★</font>](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} 超多好用TV应用常态化更新<br/>
-①先安装PythonBox<br/>
-②再安装小白文件管理器<br/>
+①安装PythonBox<br/>
+②安装小白文件管理器<br/>
 ③打开小白文件管理器，将U盘中的JS文件夹长按遥控器确定键复制，然后粘贴至盒子的主目录里<br/>
-④打开PythonBox，进入设置-配置地址，点击进去后先获取读取本地权限，然后手机扫屏幕上的二维码，选择手机底部右侧的“配置”按钮，然后将`clan://localhost/JS/js0.json`输入并确认，这样电视上就填好了这个配置地址，点击电视上的确认<br/>
-⑤按遥控器返回键返回PythonBox首页，底部提示类似“jar加载成功”字样，就成功了，可以想看啥看啥了
+④打开PythonBox，进入设置-配置地址，点击进去后先获取读取本地权限，然后手机扫屏幕上的二维码，选择手机底部右侧的“配置”按钮，将`clan://localhost/JS/js0.json`输入并确认，这样电视上就填好了这个配置地址，点击电视上的确认<br/>
+⑤按遥控器返回键返回PythonBox首页，底部提示类似“jar加载成功”字样，想看啥看啥
 
 * [太阳网盘★★★](http://teyonds.ysepan.com/){:target="_blank"} 推荐太阳直播
 
@@ -29,9 +29,42 @@
 
 * 阿里云盘影视资源站：[<font color=red>阿里云盘资源1</font>](https://pan666.cn/){:target="_blank"} [<font color=red>阿里云盘资源2</font>](https://t.me/zaihuayun){:target="_blank"} [鸡盒盘](https://jihepan.com/){:target="_blank"} [Telegram中文搜索](http://www.sssoou.com){:target="_blank"}
 
-* [GOTV](http://www.iptv16.com){:target="_blank"} - 付费直播、点播
-
-* [IPTV PRO 破解版](https://www.423down.com/9788.html){:target="_blank"} - 配合全球IPTV播放源，中文频道`https://iptv-org.github.io/iptv/languages/zho.m3u`
+* [<font color=red>TVBOX Github站</font>](https://github.com/liu673cn/box){:target="_blank"}<br/>
+[接口地址](https://github.com/dlgt7/TVbox-interface){:target="_blank"}<br/>
+[TVBox网络接口](https://leevi0321.gitee.io/api/){:target="_blank"}<br/>
+`http://52bsj.vip:98/18dxwoai`<br/>
+`https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json`<br/>
+`https://raw.iqiq.io/xianyuyimu/TVBOX-/main/TVBox/备用.json`<br/>
+`http://byyds.top/w.txt`<br/>
+`https://dxawi.github.io/0/0.json`<br/>
+`https://download.kstore.space/download/2863/01.txt`<br/>
+`https://liu673cn.github.io/box/m.json`<br/>
+`https://raw.liucn.cc/box/m.json`<br/>
+`https://raw.liucn.cc/box/xiaopingguo.json`<br/>
+`http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0`<br/>
+`https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt`<br/>
+`https://cdn.jsdelivr.net/gh/chengxueli818913/maoTV@main/44.txt`<br/>
+`https://freed.yuanhsing.cf/TVBox/meowcf.json`<br/>
+`https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json`<br/>
+`http://js.134584.xyz/json/pp87.json`<br/>
+`http://52bsj.vip:98/wuai`<br/>
+`https://pastebin.com/raw/gtbKvnE1`<br/>
+`https://cdn.jsdelivr.net/gh/GaiVmao/dianshiyuan@main/yuan2.txt`<br/>
+`https://raw.iqiq.io/liu673cn/box/main/m.json`<br/>
+`https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/TVBOX/iqiqgr.json`<br/>
+`https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ptest.json`<br/>
+`https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ikbb.json`<br/>
+`https://wds.ecsxs.com/223843.txt`<br/>
+`https://pastebin.com/raw/gtbKvnE1`<br/>
+`https://pastebin.com/raw/sbPpDm9G`<br/>
+`https://agit.ai/hu/hcr/raw/branch/master/MMM.txt`<br/>
+`https://freed.yuanhsing.cf/TVBox/meowcf.json`<br/>
+`https://github.com/YuanHsing/freed/raw/master/TVBox/meow.json`<br/>
+`https://dxawi.github.io/0/0.json`<br/>
+`https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json`<br/>
+`https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json`<br/>
+`https://leezn.github.io/TVBox/py.json`<br/>
+`https://leezn.github.io/TVBox/js.json`<br/>
 
 * <font color=red>影视采集</font>
 [红牛资源1080p★★★](https://hongniuziyuan.com){:target="_blank"}<br/>
@@ -92,50 +125,15 @@ YouTube第二神器，虽然不能登陆账户但也能本地订阅，算是Vanc
 `https://iptv-org.github.io/iptv/languages/zho.m3u` (中文频道)<br/>
 `https://iptv-org.github.io/iptv/languages/eng.m3u` (英文频道)<br/>
 
-* [<font color=red>GoTV（收费）</font>](http://www.iptv16.com/downloads/){:target="_blank"}★★★
+* [<font color=red>GoTV（收费）</font>](http://www.iptv16.com/downloads/){:target="_blank"}★★★ 全球直播+点播
+
+* [IPTV PRO 破解版](https://www.423down.com/9788.html){:target="_blank"} - 配合全球IPTV播放源使用
 
 * [293影院（收费）](http://www.293vod.com/zy.html){:target="_blank"}
 
 * [影视工场TV](https://down.ysgc.xyz/?ysgc){:target="_blank"}★★
 
 * [泥巴影院18+（梯子）](https://www.mudvod.tv/){:target="_blank"} [泥巴影院绿色版（梯子）](https://www.mudvod1.tv/){:target="_blank"}★★★
-
-* [<font color=red>TVBOX Github站</font>](https://github.com/liu673cn/box){:target="_blank"}<br/>
-[接口地址](https://github.com/dlgt7/TVbox-interface){:target="_blank"}<br/>
-[TVBox网络接口](https://leevi0321.gitee.io/api/){:target="_blank"}<br/>
-`http://52bsj.vip:98/18dxwoai`<br/>
-`https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json`<br/>
-`https://raw.iqiq.io/xianyuyimu/TVBOX-/main/TVBox/备用.json`<br/>
-`http://byyds.top/w.txt`<br/>
-`https://dxawi.github.io/0/0.json`<br/>
-`https://download.kstore.space/download/2863/01.txt`<br/>
-`https://liu673cn.github.io/box/m.json`<br/>
-`https://raw.liucn.cc/box/m.json`<br/>
-`https://raw.liucn.cc/box/xiaopingguo.json`<br/>
-`http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0`<br/>
-`https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt`<br/>
-`https://cdn.jsdelivr.net/gh/chengxueli818913/maoTV@main/44.txt`<br/>
-`https://freed.yuanhsing.cf/TVBox/meowcf.json`<br/>
-`https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json`<br/>
-`http://js.134584.xyz/json/pp87.json`<br/>
-`http://52bsj.vip:98/wuai`<br/>
-`https://pastebin.com/raw/gtbKvnE1`<br/>
-`https://cdn.jsdelivr.net/gh/GaiVmao/dianshiyuan@main/yuan2.txt`<br/>
-`https://raw.iqiq.io/liu673cn/box/main/m.json`<br/>
-`https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/TVBOX/iqiqgr.json`<br/>
-`https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ptest.json`<br/>
-`https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ikbb.json`<br/>
-`https://wds.ecsxs.com/223843.txt`<br/>
-`https://pastebin.com/raw/gtbKvnE1`<br/>
-`https://pastebin.com/raw/sbPpDm9G`<br/>
-`https://agit.ai/hu/hcr/raw/branch/master/MMM.txt`<br/>
-`https://freed.yuanhsing.cf/TVBox/meowcf.json`<br/>
-`https://github.com/YuanHsing/freed/raw/master/TVBox/meow.json`<br/>
-`https://dxawi.github.io/0/0.json`<br/>
-`https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json`<br/>
-`https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json`<br/>
-`https://leezn.github.io/TVBox/py.json`<br/>
-`https://leezn.github.io/TVBox/js.json`<br/>
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
