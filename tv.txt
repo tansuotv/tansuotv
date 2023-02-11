@@ -22,8 +22,6 @@ CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3
 CCTV4-欧洲,http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8
 CCTV4-美洲,http://117.148.179.160/PLTV/88888888/224/3221231654/index.m3u8
 CCTV5+,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225706/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225649/index.m3u8#http://153.35.100.114:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204503.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8#http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8#http://117.148.179.139/PLTV/88888888/224/3221231535/index.m3u8
-CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8#http://39.135.32.28:6610/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1&IASHttpSessionId=OTT#http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 CCTV-电视指南,http://153.35.100.114:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
 CCTV-风云音乐,http://153.35.100.114:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
 CCTV-怀旧剧场,http://153.35.100.114:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2012511203.m3u8#http://117.148.179.147/PLTV/88888888/224/3221231544/index.m3u8#http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8 
@@ -54,6 +52,18 @@ CGTN-Español(西语),http://153.35.100.114:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2
 CGTN-纪录,http://153.35.100.114:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2010155403.m3u8#http://117.148.179.144/PLTV/88888888/224/3221231492/index.m3u8 
 直播中国,http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 中国天气,http://140.207.241.3:8080/live/program/live/zgqx/1300000/mnf.m3u8#http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+
+4K频道,#genre#
+BTV纪实科教8K,http://downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+欢笑剧场4K,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
+纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8#http://39.135.32.28:6610/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV4K,http://159.75.85.63:5679/cctv4k.php#http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
+CCTV16-4K,https://live.v1.mk/aishang/cctv164k#http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000#http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
+爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+4K影视,http://159.75.85.63:5828/4kys.php
+4K超高清电影,http://159.75.85.63:5681/sxg.php
+爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 人文,#genre#
 清华大学,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
@@ -201,7 +211,6 @@ NewTV金牌综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212257
 NewTV黑莓动画,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225672/index.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225628/index.m3u8
 NewTV哒啵赛事,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225653/index.m3u8#http://111.40.196.9/PLTV/88888888/224/3221225606/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
 体育赛事,http://39.134.65.181/PLTV/88888888/224/3221225706/1.m3u8
-爱上4K,http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
 台球,http://39.134.19.1/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226348/1.m3u8
 足球,http://39.134.19.1/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226347/1.m3u8
 四海钓鱼,http://117.148.179.159/PLTV/88888888/224/3221231718/index.m3u8

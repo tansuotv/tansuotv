@@ -55,6 +55,18 @@ CGTN-纪录,rtsp://115.153.233.154/PLTV/88888888/224/3221226960/77798993.smil#ht
 直播中国,http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 中国天气,http://140.207.241.3:8080/live/program/live/zgqx/1300000/mnf.m3u8#http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
+4K频道,#genre#
+BTV纪实科教8K,http://downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+欢笑剧场4K,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
+纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8#http://39.135.32.28:6610/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+CCTV4K,http://159.75.85.63:5679/cctv4k.php#http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
+CCTV16-4K,https://live.v1.mk/aishang/cctv164k#http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000#http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
+爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+4K影视,http://159.75.85.63:5828/4kys.php
+4K超高清电影,http://159.75.85.63:5681/sxg.php
+爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
 省台,#genre#
 浙江卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221225768/10000100000000060000000000913518_0.smil#rtsp://115.153.212.72/PLTV/88888888/224/3221225768/10000100000000060000000000913518_0.smil?#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8#http://153.35.100.114:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2000295503.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8#http://117.148.179.140/PLTV/88888888/224/3221229352/index.m3u8
 湖南卫视,rtsp://115.153.233.154/PLTV/88888888/224/3221225697/iptv8039.smil#rtsp://115.153.212.72/PLTV/88888888/224/3221225697/iptv8039.smil?#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225704/index.m3u8#http://39.134.19.32/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/1.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8#http://153.35.100.114:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2000296203.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8#http://117.148.179.172/PLTV/88888888/224/3221231729/index.m3u8#http://117.148.179.135/PLTV/88888888/224/3221230206/index.m3u8#http://117.148.179.148/PLTV/88888888/224/3221230824/index.m3u8#http://117.148.179.162/PLTV/88888888/224/3221230206/index.m3u8#http://117.148.179.162/PLTV/88888888/224/3221230232/index.m3u8#http://117.148.179.162/PLTV/88888888/224/3221230824/index.m3u8
