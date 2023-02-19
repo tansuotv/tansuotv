@@ -1,19 +1,14 @@
-     2023-02-11 11:19 更新 | ctrl+F 快速寻找
+     2023-02-19 10:07 更新 | ctrl+F 快速寻找
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
 ## 视频：安卓手机/电视/盒子
 
 * [<font color=red>探索TV安卓应用集合★★★</font>](https://tansuo.lanzoub.com/b01592xri){:target="_blank"} 超多好用TV应用常态化更新<br/>
-①安装PythonBox<br/>
-②安装小白文件管理器<br/>
-③打开小白文件管理器，将U盘中的JS文件夹长按遥控器确定键复制，然后粘贴至盒子的主目录里<br/>
-④打开PythonBox，进入设置-配置地址，点击进去后先获取读取本地权限，然后手机扫屏幕上的二维码，选择手机底部右侧的“配置”按钮，将`clan://localhost/JS/js0.json`输入并确认，这样电视上就填好了这个配置地址，点击电视上的确认<br/>
-⑤按遥控器返回键返回PythonBox首页，底部提示类似“jar加载成功”字样，想看啥看啥
 
 * [太阳网盘★★★](http://teyonds.ysepan.com/){:target="_blank"} 推荐太阳直播
 
-* [吾爱有三TV集合](https://wuaiyousan.lanzoui.com/b02unwved){:target="_blank"} <font color=red>PythonBox+j0.json确实好用！</font>
+* [吾爱有三TV集合](https://wuaiyousan.lanzoui.com/b02unwved){:target="_blank"}
 
 * [吾爱有三TV接口](https://wuaiyousan.lanzoui.com/b02v72i4f){:target="_blank"}
 
@@ -30,9 +25,24 @@
 * 阿里云盘影视资源站：[<font color=red>阿里云盘资源1</font>](https://pan666.cn/){:target="_blank"} [<font color=red>阿里云盘资源2</font>](https://t.me/zaihuayun){:target="_blank"} [鸡盒盘](https://jihepan.com/){:target="_blank"} [Telegram中文搜索](http://www.sssoou.com){:target="_blank"}
 
 * [<font color=red>TVBOX Github站</font>](https://github.com/liu673cn/box){:target="_blank"}<br/>
-[接口地址](https://github.com/dlgt7/TVbox-interface){:target="_blank"}<br/>
+
+* [TVBox接口说明](https://github.com/dlgt7/TVbox-interface){:target="_blank"}<br/>
+
+[云星接口★★★](https://www.moil.cc/10.html){:target="_blank"}<br/>
+云星家庭 `https://maoyingshi.cc/tvbox/云星日记/1.m3u8`<br/>
+云星阿里 `https://maoyingshi.cc/tvbox/云星日记/ali.m3u8`<br/>
+云星哔哩 `https://maoyingshi.cc/tvbox/云星日记/bili.json`<br/>
+云星仓库 `https://maoyingshi.cc/可视TV/云星日记/仓库.json`<br/>
 [TVBox网络接口](https://leevi0321.gitee.io/api/){:target="_blank"}<br/>
-`http://52bsj.vip:98/18dxwoai`<br/>
+
+我常用的接口<br/>
+`http://52bsj.vip:98/wuai` 吾爱接口<br/>
+`http://52bsj.vip:98/18dxwoai` 吾爱接口18版<br/>
+`https://hutool.ml/tang` 唐三接口<br/>
+`https://神器每日推送.tk/pz.json` 神器接口<br/>
+`http://饭太硬.ga/x/o.json` 饭太硬接口<br/>
+
+其他更多接口<br/>
 `https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json`<br/>
 `https://raw.iqiq.io/xianyuyimu/TVBOX-/main/TVBox/备用.json`<br/>
 `http://byyds.top/w.txt`<br/>
@@ -47,7 +57,6 @@
 `https://freed.yuanhsing.cf/TVBox/meowcf.json`<br/>
 `https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json`<br/>
 `http://js.134584.xyz/json/pp87.json`<br/>
-`http://52bsj.vip:98/wuai`<br/>
 `https://pastebin.com/raw/gtbKvnE1`<br/>
 `https://cdn.jsdelivr.net/gh/GaiVmao/dianshiyuan@main/yuan2.txt`<br/>
 `https://raw.iqiq.io/liu673cn/box/main/m.json`<br/>
