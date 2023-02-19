@@ -2,7 +2,11 @@
 ### 这是我个人收集整理的影视及软件汇总⚡
 ### 希望在方便我自己的同时也能帮到你们😄
 
-### 探索TV 发现更美 🔭 https://t.tansuo.tv
+### 探索TV 发现更美 🔭 
+### 2023年2月19日起，原探索TV相关应用及节目源推荐网站整体搬迁至；https://iptvindex.com
+
+探索TV tansuo.tv主站，后续将用于探索视频内容发布。
+期待您的持续关注！
 
 ![image](https://t.tansuo.tv/img/t.jpg)
 
