@@ -1,12 +1,14 @@
-     2023-02-19 10:07 更新 | ctrl+F 快速寻找
+     2023-02-19 15:07 更新 | ctrl+F 快速寻找
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
-## 2023年2月19日起，原探索TV相关应用及节目源推荐网站整体搬迁至；https://iptvindex.com
+## 2023年2月19日起，原探索TV相关应用及节目源推荐网站整体搬迁至：
 
-## 探索TV tansuo.tv主站，后续将用于探索视频内容发布。
+# [>>>>  IPTVindex.com  <<<<](https://iptvindex.com){:target="_blank"}
 
-## 期待您的持续关注！
+## 探索TV tansuo.tv 后续将用于探索视频内容发布。
+
+## 感谢您的持续关注！
 
 ![image](https://t.tansuo.tv/img/t.jpg)
 
