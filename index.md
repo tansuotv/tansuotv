@@ -10,8 +10,6 @@
 
 * [吾爱有三TV集合](https://wuaiyousan.lanzoui.com/b02unwved){:target="_blank"}
 
-* [吾爱有三TV接口](https://wuaiyousan.lanzoui.com/b02v72i4f){:target="_blank"}
-
 * [盒子地窖](http://www.wmsio.cn){:target="_blank"}
 
 * [烈火电视盒子手机直播应用合集](https://apphot.cc/27447.html){:target="_blank"}
@@ -27,22 +25,20 @@
 * [<font color=red>TVBOX Github站</font>](https://github.com/liu673cn/box){:target="_blank"}<br/>
 
 * [TVBox接口说明](https://github.com/dlgt7/TVbox-interface){:target="_blank"}<br/>
-
+[吾爱有三TV接口](https://wuaiyousan.lanzoui.com/b02v72i4f){:target="_blank"}<br/>
 [云星接口★★★](https://www.moil.cc/10.html){:target="_blank"}<br/>
 云星家庭 `https://maoyingshi.cc/tvbox/云星日记/1.m3u8`<br/>
 云星阿里 `https://maoyingshi.cc/tvbox/云星日记/ali.m3u8`<br/>
 云星哔哩 `https://maoyingshi.cc/tvbox/云星日记/bili.json`<br/>
 云星仓库 `https://maoyingshi.cc/可视TV/云星日记/仓库.json`<br/>
 [TVBox网络接口](https://leevi0321.gitee.io/api/){:target="_blank"}<br/>
-
-我常用的接口<br/>
+我常用的接口————————<br/>
 `http://52bsj.vip:98/wuai` 吾爱接口<br/>
 `http://52bsj.vip:98/18dxwoai` 吾爱接口18版<br/>
 `https://hutool.ml/tang` 唐三接口<br/>
 `https://神器每日推送.tk/pz.json` 神器接口<br/>
 `http://饭太硬.ga/x/o.json` 饭太硬接口<br/>
-
-其他更多接口<br/>
+其他更多接口————————<br/>
 `https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json`<br/>
 `https://raw.iqiq.io/xianyuyimu/TVBOX-/main/TVBox/备用.json`<br/>
 `http://byyds.top/w.txt`<br/>
