@@ -2,7 +2,8 @@
 
 [![image](https://t.tansuo.tv/img/nfshop2.png)](https://ihezu.run/esf7nk){:target="_blank"}
 
-#### LocalSend 多平台间快速稳定传输文件 20230923
+#### LocalSend 20230923
+Win Mac iOS Android 多平台间快速稳定传输文件
 [官网](https://localsend.org){:target="_blank"} [GitHub站](https://github.com/localsend/localsend){:target="_blank"}
 
 
