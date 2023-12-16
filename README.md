@@ -8,8 +8,6 @@
 探索TV tansuo.tv主站，后续将用于探索视频内容发布。
 期待您的持续关注！
 
-![image](https://t.tansuo.tv/img/t.jpg)
-
 <!--
 **tansuotv/tansuotv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
